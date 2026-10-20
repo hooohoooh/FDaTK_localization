@@ -1697,7 +1697,7 @@ str_prisoner_not_offered_parole|战 俘 未 得 赎 契
 str__age_reg1_family_|^宗 亲 : 
 str_s49_s12_s11_rel_reg0|{s49}{s12} [  {s11}, 亲 缘 {reg0} ]  
 str_s49_s12_s11|{s49}{s12} [  {s11} ]  
-str_lord_info_string|{reg6?其 乃 {s56}藩 镇 之 主 . : 其 乃 {s55}藩 镇 之 臣 .}威 名 : {reg5} 荣 誉 : {reg15} {此 女/此 君}乃 {s20}. {reg9?{此 女 执 掌 /此 君 坐 镇}{s58}. : 尚 无 封 邑 .}{s59}^{s49}
+str_lord_info_string|{reg6?其 乃 {s56} 之 主 . : 其 乃 {s55} 之 臣 .}威 名 : {reg5} 荣 誉 : {reg15} {此 君/此 女}乃 {s20}. {reg9?{此 君 执 掌 /此 女 坐 镇}{s58}. : 尚 无 封 邑 .}{s59}^{s49}
 str_foreign_relations__|藩 镇 交 聘 : ^
 str_s21__the_s5_is_at_war_with_the_s14|{s21}^* {s5}藩 镇 正 与 {s14}交 兵 
 str_s21_the_s5_has_had_the_upper_hand_in_the_fighting|{s21} {s5}藩 镇 已 占 上 风 

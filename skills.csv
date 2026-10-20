@@ -1,0 +1,85 @@
+
+skl_trade|商 贾 之 道  
+skl_trade_desc|每 提 升 一 级 ， 买 卖 货 物 时 的 折 损 减 少 5%% （ 幕 僚 技 能 ）  
+skl_leadership|统 御 之 法  
+skl_leadership_desc|每 级 可 多 统 率 10士 卒 ， 提 振 军 心 士 气 ， 军 饷 开 支 削 减 5%%（ 统 帅 技 能 ）  
+skl_prisoner_management|俘 卒 管 制  
+skl_prisoner_management_desc|每 级 增 加 %d名 俘 虏 收 容 量 （ 统 帅 技 能 ）  
+skl_reserved_1|Reserved Skill 1  
+skl_reserved_1_desc|This is a reserved skill.  
+skl_reserved_2|Reserved Skill 2  
+skl_reserved_2_desc|This is a reserved skill.  
+skl_reserved_3|Reserved Skill 3  
+skl_reserved_3_desc|This is a reserved skill.  
+skl_reserved_4|Reserved Skill 4  
+skl_reserved_4_desc|This is a reserved skill.  
+skl_persuasion|纵 横 之 术  
+skl_persuasion_desc|凭 三 寸 舌 说 服 他 人 ， 所 需 交 情 门 槛 亦 随 之 降 低 （ 个 人 修 习 ）  
+skl_engineer|营 造 匠 术  
+skl_engineer_desc|修 筑 攻 城 器 械 与 城 防 工 事 更 为 得 心 应 手 （ 幕 僚 技 能 ）  
+skl_first_aid|金 疮 急 救  
+skl_first_aid_desc|战 后 英 雄 可 恢 复 5%%伤 势 ， 随 技 能 等 级 提 升 （ 幕 僚 技 能 ）  
+skl_surgery|岐 黄 妙 手  
+skl_surgery_desc|每 级 有 4%%几 率 使 重 伤 同 袍 转 为 轻 伤 （ 幕 僚 技 能 ）  
+skl_wound_treatment|疗 伤 圣 手  
+skl_wound_treatment_desc|全 军 伤 愈 提 速 20%%每 级 （ 幕 僚 技 能 ）  
+skl_inventory_management|辎 重 调 度  
+skl_inventory_management_desc|每 级 增 加 6格 辎 重 容 量 （ 统 帅 技 能 ）  
+skl_spotting|瞭 望 鹰 眼  
+skl_spotting_desc|每 级 提 升 10%%视 野 范 围 （ 幕 僚 技 能 ）  
+skl_pathfinding|山 川 辨 途  
+skl_pathfinding_desc|每 级 提 升 3%%行 军 速 度 （ 幕 僚 技 能 ）  
+skl_tactics|兵 机 韬 略  
+skl_tactics_desc|每 两 级 获 得 1点 战 前 布 阵 优 势 （ 幕 僚 技 能 ）  
+skl_tracking|蹄 痕 追 踪  
+skl_tracking_desc|可 辨 识 更 详 尽 的 敌 军 动 向 （ 幕 僚 技 能 ）  
+skl_trainer|教 习 操 练  
+skl_trainer_desc|每 日 传 授 经 验 给 麾 下 低 阶 士 卒 ， 传 授 量 按 {0,4,10,16,23,30,38,46,55,65,80}递 增 （ 个 人 修 习 ）  
+skl_reserved_5|Reserved Skill 5  
+skl_reserved_5_desc|This is a reserved skill.  
+skl_reserved_6|Reserved Skill 6  
+skl_reserved_6_desc|This is a reserved skill.  
+skl_reserved_7|Reserved Skill 7  
+skl_reserved_7_desc|This is a reserved skill.  
+skl_reserved_8|Reserved Skill 8  
+skl_reserved_8_desc|This is a reserved skill.  
+skl_looting|战 利 收 缴  
+skl_looting_desc|每 级 多 获 10%%战 利 物 资 （ 幕 僚 技 能 ）  
+skl_horse_archery|骑 射 绝 技  
+skl_horse_archery_desc|马 上 开 弓 投 掷 时 准 头 更 稳 ， 力 道 不 减 （ 个 人 修 习 ）  
+skl_riding|御 马 术  
+skl_riding_desc|可 驾 驭 更 烈 战 马 ， 驰 骋 时 人 马 合 一 （ 个 人 修 习 ）  
+skl_athletics|健 步 如 飞  
+skl_athletics_desc|奔 走 时 足 下 生 风 （ 个 人 修 习 ）  
+skl_shield|盾 挡 八 方  
+skl_shield_desc|每 级 减 盾 损 8%%， 举 盾 更 迅 捷 周 全 （ 个 人 修 习 ）  
+skl_weapon_master|百 兵 精 通  
+skl_weapon_master_desc|习 武 悟 性 大 增 ， 兵 器 熟 练 上 限 可 达 60-420（ 个 人 修 习 ）  
+skl_reserved_9|Reserved Skill 9  
+skl_reserved_9_desc|This is a reserved skill.  
+skl_reserved_10|Reserved Skill 10  
+skl_reserved_10_desc|This is a reserved skill.  
+skl_reserved_11|Reserved Skill 11  
+skl_reserved_11_desc|This is a reserved skill.  
+skl_reserved_12|Reserved Skill 12  
+skl_reserved_12_desc|This is a reserved skill.  
+skl_reserved_13|Reserved Skill 13  
+skl_reserved_13_desc|This is a reserved skill.  
+skl_power_draw|挽 弓 如 月  
+skl_power_draw_desc|每 级 增 弓 矢 威 力 14%%， 最 高 四 级 （ 个 人 修 习 ）  
+skl_power_throw|飞 石 流 星  
+skl_power_throw_desc|每 级 增 投 掷 威 力 10%%（ 个 人 修 习 ）  
+skl_power_strike|破 甲 重 击  
+skl_power_strike_desc|每 级 增 近 战 威 力 8%%（ 个 人 修 习 ）  
+skl_ironflesh|铁 骨 铮 铮  
+skl_ironflesh_desc|每 级 增 2点 体 魄 （ 个 人 修 习 ）  
+skl_reserved_14|Reserved Skill 14  
+skl_reserved_14_desc|This is a reserved skill.  
+skl_reserved_15|Reserved Skill 15  
+skl_reserved_15_desc|This is a reserved skill.  
+skl_reserved_16|Reserved Skill 16  
+skl_reserved_16_desc|This is a reserved skill.  
+skl_reserved_17|Reserved Skill 17  
+skl_reserved_17_desc|This is a reserved skill.  
+skl_reserved_18|Reserved Skill 18  
+skl_reserved_18_desc|This is a reserved skill. 

@@ -1,0 +1,300 @@
+
+p_zendar|禅 达 
+p_town_1|兴 王 府 
+p_town_2|东 都 
+p_town_3|江 都 
+p_town_4|成 都 
+p_town_5|长 沙 
+p_town_6|西 府 
+p_town_7|越 城 
+p_town_8|长 乐 
+p_town_9|荆 州 
+p_town_10|大 理 
+p_town_11|华 闾 
+p_town_12|北 都 
+p_town_13|羊 苴  
+p_town_14|幽 州 
+p_town_15|上 京 
+p_town_16|辽 东 
+p_town_17|横 州 
+p_town_18|柳 城 
+p_town_19|凤 翔 
+p_town_20|真 定 
+p_town_21|亳 州 
+p_town_23|升 州 
+p_town_24|九 江 
+p_town_25|苏 州 
+p_town_26|武 昌 
+p_town_27|泉 州 
+p_town_28|雷 州 
+p_town_29|横 海 
+p_town_30|潮 州 
+p_town_31|明 州 
+p_town_32|禹 州 
+p_town_33|长 安 
+p_town_34|中 都 
+p_town_35|晋 州 
+p_town_36|登 州 
+p_town_37|泸 州 
+p_town_38|连 州 
+p_town_39|夷 陵 
+p_town_40|零 陵 
+p_town_41|永 州 
+p_town_42|兖 州 
+p_town_43|庆 阳 
+p_town_44|上 邽 
+p_town_45|汉 中 
+p_town_46|夔 州 
+p_town_47|济 南 
+p_town_48|拓 东 
+p_town_49|卫 州 
+p_town_50|峡 州 
+p_town_51|温 州 
+p_town_52|衢 州 
+p_town_53|黔 州 
+p_town_54|兴 庆 
+p_town_55|热 河 
+p_town_56|崇 左 
+p_town_57|利 州 
+p_town_58|阆 州 
+p_town_59|定 州 
+p_town_22|汴 州 
+p_castle_1|潼 关 
+p_castle_3|大 散 关 
+p_castle_4|黄 崖 关 
+p_castle_5|雁 门 关 
+p_castle_6|井 陉 关 
+p_castle_7|武 关 
+p_castle_9|端 州 
+p_castle_10|惠 州 
+p_castle_11|漳 州 
+p_castle_12|深 州 
+p_castle_13|灵 州 
+p_castle_14|蓟 州 
+p_castle_15|郑 州 
+p_castle_16|上 党 
+p_castle_17|云 州 
+p_castle_18|嵩 州 
+p_castle_19|徒 河 
+p_castle_20|洪 州 
+p_castle_21|古 螺 城 
+p_castle_22|桂 州 
+p_castle_23|兴 州 
+p_castle_24|平 州 
+p_castle_25|秦 州 
+p_castle_26|莒 州 
+p_castle_27|密 州 
+p_castle_28|谅 山 
+p_castle_29|景 隆 
+p_castle_30|襄 州 
+p_castle_31|壁 州 
+p_castle_32|龙 州 
+p_castle_33|崖 州 
+p_castle_34|同 州 
+p_castle_35|阶 州 
+p_castle_36|容 州 
+p_castle_37|万 州 
+p_castle_38|梅 州 
+p_castle_39|柳 州 
+p_castle_40|邠 州 
+p_castle_41|汀 州 
+p_castle_42|池 州 
+p_castle_43|郴 州 
+p_castle_44|徐 州 
+p_castle_45|越 磐 
+p_castle_48|蓟 鲁 
+p_village_1|十 驿 
+p_village_2|西 安 
+p_village_3|阜 新 
+p_village_4|无 锡 
+p_village_5|通 镇 
+p_village_6|淮 阴 
+p_village_7|汉 口 
+p_village_8|镇 江 
+p_village_9|濮 阳 
+p_village_10|海 陵 
+p_village_11|渭 南 
+p_village_12|浮 梁 
+p_village_13|宝 坻 
+p_village_14|同 安 
+p_village_15|南 俱 肆 
+p_village_16|焦 作 
+p_village_17|新 乡 
+p_village_18|成 纪 
+p_village_19|茂 名 
+p_village_20|同 川 
+p_village_21|东 平 
+p_village_22|平 顶 山 
+p_village_23|长 葛 
+p_village_24|鞍 山 
+p_village_25|顺 平 
+p_village_26|睢 阳 
+p_village_27|虞 乡 
+p_village_28|合 肥 
+p_village_29|金 华 
+p_village_30|鹰 潭 
+p_village_31|宣 城 
+p_village_32|延 平 
+p_village_33|阜 宁 
+p_village_34|神 木 
+p_village_35|沱 江 渡 
+p_village_36|平 凉 
+p_village_37|大 宁 
+p_village_38|安 定 
+p_village_39|青 城 
+p_village_40|高 平 
+p_village_41|大 城 山 
+p_village_42|方 城 
+p_village_43|萍 乡 
+p_village_44|合 川 
+p_village_45|南 侗 
+p_village_46|石 城 
+p_village_47|特 磨 道 
+p_village_48|嘉 定 
+p_village_49|内 江 
+p_village_50|南 充 
+p_village_51|绵 水 
+p_village_52|巫 山 
+p_village_53|荆 门 
+p_village_54|沙 洋 
+p_village_55|湘 潭 
+p_village_56|衡 阳 
+p_village_57|常 宁 
+p_village_58|河 源 
+p_village_59|全 塘 
+p_village_60|平 阳 
+p_village_61|唐 林 
+p_village_62|海 门 
+p_village_63|特 江 
+p_village_64|爱 州 
+p_village_65|岐 山 
+p_village_66|德 阳 
+p_village_67|自 贡 
+p_village_68|郁 林 
+p_village_69|来 宾 
+p_village_70|燕 山 
+p_village_71|江 门 
+p_village_72|嘉 兴 
+p_village_73|曲 沃 
+p_village_74|孝 义 
+p_village_75|寿 阳 
+p_village_76|秀 容 
+p_village_77|富 阳 
+p_village_78|柳 沟 
+p_village_79|燕 郊 
+p_village_80|龙 华 
+p_village_81|秦 皇 岛 
+p_village_82|松 漠 
+p_village_83|湟 水 
+p_village_84|兴 隆 洼 
+p_village_85|诸 暨 
+p_village_86|大 庸 
+p_village_87|恩 施 
+p_village_88|安 顺 
+p_village_89|汝 阴 
+p_village_90|周 家 口 
+p_village_91|盐 城 
+p_village_92|临 沂 
+p_village_93|安 沛 
+p_village_94|潞 城 
+p_village_95|石 咀 子 
+p_village_96|韩 城 
+p_village_97|乌 拉 海 
+p_village_98|红 寺 堡 
+p_village_99|兰 渚 
+p_village_100|骆 驼 桥 
+p_village_101|诸 城 
+p_village_102|岳 阳 
+p_village_103|江 陵 
+p_village_104|兴 化 
+p_village_105|水 头 
+p_village_106|丽 水 
+p_village_107|海 游 
+p_village_108|南 阳 
+p_village_109|武 当 
+p_village_111|水 西 族 
+p_village_112|龙 乡 
+p_village_113|阳 江 
+p_village_114|宁 远 
+p_village_115|黔 阳 
+p_village_116|华 亭 
+p_village_117|咸 阳 
+p_village_118|安 康 
+p_village_119|阆 中 
+p_village_120|略 阳 
+p_village_121|西 河 
+p_village_122|云 安 
+p_village_123|屯 溪 
+p_village_124|新 宁 
+p_village_125|南 湾 
+p_village_126|百 色 
+p_village_129|邵 陵 
+p_village_130|益 阳 
+p_village_131|南 康 
+p_village_132|龙 岩 
+p_village_133|闽 清 
+p_village_134|古 田 
+p_village_135|兴 城 
+p_village_136|河 阴 
+p_village_137|东 营 
+p_village_138|潘 阳 
+p_village_139|莆 台 
+p_village_140|曲 阜 
+p_village_141|曲 阳 
+p_village_142|盐 津 
+p_village_143|金 山 
+p_village_144|文 登 
+p_village_145|绵 阳 
+p_village_146|义 道 
+p_village_147|芜 湖 
+p_village_148|铜 陵 
+p_village_149|仁 化 
+p_village_150|清 远 
+p_village_151|宜 章 
+p_village_152|海 盐 
+p_village_153|范 县 
+p_village_154|宿 迁 
+p_village_155|易 县 
+p_village_156|平 江 
+p_village_157|乌 蒙 
+p_village_158|眉 山 
+p_village_159|平 舒 
+p_village_160|西 章 武 
+p_village_161|康 美 
+p_village_162|上 饶 
+p_village_163|尤 溪 
+p_village_164|上 杭 
+p_village_165|宿 松 
+p_village_110|天 津 
+p_salt_mine|盐 矿 
+p_four_ways_inn|四 道 客 栈 
+p_test_scene|测 试 场 景 
+p_battlefields|古 战 场 
+p_dhorak_keep|多 拉 克 要 塞 
+p_training_ground|校 场 
+p_training_ground_1|演 武 场 
+p_training_ground_5|练 兵 场 
+p_spawn_point_central_plains|中 原 腹 地 
+p_spawn_point_northern_plains|北 疆 平 原 
+p_spawn_point_basin|汉 中 盆 地 
+p_spawn_point_southern_hills|南 岭 丘 陵 
+p_spawn_point_central_hills|中 原 丘 陵 
+p_spawn_point_mountains|太 行 山 区 
+p_spawn_point_yellow_river|黄 河 河 谷 
+p_spawn_point_long_river|长 江 流 域 
+p_spawn_point_red_river|红 水 河 畔 
+p_spawn_point_pearl_river|珠 江 平 原 
+p_spawn_point_western_pearl_river|珠 江 西 境 
+p_spawn_point_southern_mountains|南 岭 山 区 
+p_spawn_point_western_hills|西 山 丘 陵 
+p_spawn_point_east_coast|东 海 之 滨 
+p_spawn_point_desert|河 西 戈 壁 
+p_spawn_point_yellow_river_mouth|黄 河 入 海 口 
+p_spawn_point_southern_coast|南 海 沿 岸 
+p_spawn_point_wu_heartlands|吴 地 核 心 
+p_port_1|江 海 埠 
+p_port_2|河 口 港 
+p_port_3|海 门 渡 
+p_port_4|津 门 港 
+p_port_5|盐 田 港 
+p_ports_end|黄 海 界 

@@ -1,0 +1,695 @@
+
+menu_start_game_0|恭 迎 您 踏 入 五 代 烽 烟 的 华 夏 乱 世 。 启 程 前 需 铸 就 人 设 ，谨 记 ：本 作 再 现 10世 纪 中 原 大 地 ，征 伐 权 谋 多 操 于 门 阀 士 绅 。 然 女 杰 布 衣 仍 可 择 道 而 行 — — 士 族 郎 君 固 有 坦 途 ，红 妆 黔 首 亦 能 问 鼎 九 州 。 其 道 虽 阻 且 长 ，逆 旅 风 华 尤 胜 平 川 。 
+mno_continue|继 续 ...
+mno_go_back|返 回 
+menu_start_phase_2|唐 祚 崩 殂 ， 四 方 节 镇 旌 麾 蔽 日 竞 称 尊 。  帷 幄 运 兵 戈 ， 龙 战 玄 黄 皆 为 问 鼎 中 原 ， 执 九 鼎 以 证 法 统 承 祚 . ^{s8}
+mno_town_2|在 {s11}国 境 内 的 {s10}开 始 您 的 征 程 . 
+menu_start_game_3|选 择 您 的 剧 本:
+menu_tutorial|您 走 近 一 处 乡 民 操 练 兵 器 的 场 地 . 在 此 修 习 可 提 升 武 艺 造 诣 . 
+mno_go_back_dot|返 回 . 
+menu_reports|名 望:{reg5}^阵 营 声 望:{reg6}^队 伍 士 气:{reg8}^部 曲 规 模 上 限:{reg7}^
+mno_action_view_world_map|查 看 疆 域 图 志 . 
+mno_view_character_report|查 阅 人 物 简 报 . 
+mno_view_party_size_report|查 看 部 曲 规 模 报 告 . 
+mno_view_npc_mission_report|查 看 随 从 任 务 简 报 . 
+mno_view_weekly_budget_report|查 看 每 周 财 务 报 告  [  单 位:文 钱  ]  . 
+mno_view_morale_report|检 视 部 曲 士 气 报 告 . 
+mno_lord_relations|查 阅 已 知 藩 镇 节 帅 亲 疏 表 . 
+mno_view_affiliated_family_report|查 阅 宗 族 姻 亲 报 告 . 
+mno_courtship_relations|查 看 婚 聘 关 系 . 
+mno_view_faction_relations_report|查 阅 藩 镇 外 交 态 势 . 
+mno_dplmc_show_economic_report|查 看 城 镇 繁 荣 度 报 告 . 
+mno_resume_travelling|继 续 行 程 . 
+menu_custom_battle_scene| [  无 需 翻 译  ]  
+menu_custom_battle_end|战 事 已 毕 . {s1} 我 军 斩 获 {reg5}敌 , 折 损 {reg6}卒 . 您 亲 斩 {reg7}人 . 
+menu_start_game_1|选 定 角 色 性 别 . 
+mno_start_male|男 
+mno_start_female|女 
+menu_start_character_1|您 生 于 多 年 前 的 异 乡 . 令 尊 乃 ...
+mno_start_merchant|富 商 巨 贾 . 
+mno_start_guard|护 院 武 师 . 
+mno_start_forester|本 分 田 舍 郎 . 
+mno_start_thief|市 井 宵 小 . 
+menu_start_character_2|{s10}^^您 甫 能 行 走 言 语 便 开 始 认 知 世 道 . 早 年 生 涯 乃 ...
+mno_page|衙 署 胥 吏 . 
+mno_apprentice|铁 匠 学 徒 . 
+mno_stockboy|商 行 伙 计 . 
+mno_urchin|街 头 浪 儿 . 
+mno_nomad|林 间 野 童 . 
+menu_start_character_3|{s11}^^及 至 弱 冠 , 人 生 如 常 生 变 . 您 成 为 ...
+mno_squire|习 武 之 人 . 
+mno_troubadour|游 吟 歌 者 . 
+mno_student|寺 观 文 书 . 
+mno_peddler|江 湖 游 侠 . 
+mno_poacher|猎 户 儿 郎 . 
+menu_start_character_4|{s12}^^然 时 局 骤 变 , 您 决 意 仗 剑 走 天 涯 . 促 成 此 志 乃 因 ...
+mno_revenge|血 亲 之 仇 . 
+mno_death|丧 亲 之 痛 . 
+mno_wanderlust|鸿 鹄 远 志 . 
+mno_disown|遭 逐 出 门 庭 . 
+mno_greed|渴 慕 黄 白 . 
+menu_choose_skill|{s13}
+mno_begin_adventuring|束 装 就 道 , 奔 赴 天 命 . 
+menu_past_life_explanation|{s3}
+mno_view_next|{s5}
+menu_morale_report|{s1}
+menu_courtship_relations|{s1}
+menu_lord_relations|{s1}
+menu_companion_report|{s7}{s1}
+menu_character_report|{s9}
+menu_party_size_report|{s1}
+menu_faction_relations_report|{s1}
+menu_camp|安 营 扎 寨 . 欲 行 何 事 ? 
+mno_dplmc_camp_manage_inventory|管 理 战 利 品 收 缴 设 置 . 
+mno_dplmc_camp_manage_inventory_disabled|开 启 自 动 收 缴 需 "辎 重 管 理 "或 "劫 掠 "技 能 达 第 二 阶 . 
+mno_formation_mod_option|军 阵 配 置 选 项 . 
+mno_dplmc_camp_preferences|藩 镇 交 涉 偏 好 设 置 . 
+mno_camp_action|采 取 行 动 . 
+mno_camp_wait_here|就 地 休 整 . 
+mno_camp_cheat|作 弊 选 单 ! 
+menu_camp_cheat|选 择 作 弊 项:
+mno_camp_cheat_find_item|寻 获 宝 物 ...
+menu_camp_action|选 择 行 动:
+mno_camp_recruit_prisoners|从 俘 虏 中 招 募 士 兵 . 
+mno_action_read_book|择 卷 阅 览 . 
+mno_action_rename_kingdom|更 易 国 号 . 
+mno_action_modify_factions_color|更 改 旌 旗 之 色 . 
+mno_action_modify_banner|改 制 旌 旗 纹 样 . 
+mno_action_retire|挂 印 归 田 . 
+mno_camp_action_4|返 回 营 帐 选 单 . 
+menu_camp_recruit_prisoners|您 向 俘 虏 提 议:若 愿 投 效 麾 下 , 即 刻 还 其 自 由 身 . {s18}
+mno_camp_recruit_prisoners_accept|纳 降 . 
+mno_camp_recruit_prisoners_reject|拒 收 . 
+menu_camp_no_prisoners|帐 中 暂 无 俘 虏 可 募 . 
+menu_camp_action_read_book|选 择 阅 览 典 籍:
+mno_action_read_book_1|{s1}. 
+mno_action_read_book_2|{s1}. 
+mno_action_read_book_3|{s1}. 
+mno_action_read_book_4|{s1}. 
+mno_action_read_book_5|{s1}. 
+mno_action_read_book_6|{s1}. 
+mno_action_read_book_7|{s1}. 
+menu_camp_action_read_book_start|{s1}
+menu_retirement_verify|今 乃 征 程 第 {reg0}日 , 当 前 气 运 {reg1}. 确 要 解 甲 归 田 ? 
+mno_retire_yes|然 . 
+mno_retire_no|否 . 
+menu_end_game|大 计 既 定 , 您 决 意 弃 剑 归 隐 . 变 卖 兵 甲 , 聚 敛 金 银 , 从 此 绝 尘 而 去 ......
+mno_end_game_bye|青 山 不 改 . 
+menu_cattle_herd|遇 牛 群 于 野 . 
+mno_cattle_drive_away|驱 牛 前 行 . 
+mno_cattle_stop|勒 牛 止 步 . 
+mno_cattle_kill|宰 畜 取 肉 . 
+mno_leave|离 去 . 
+menu_cattle_herd_kill|欲 宰 几 畜 ? 
+mno_cattle_kill_1|一 . 
+mno_cattle_kill_2|二 . 
+mno_cattle_kill_3|三 . 
+mno_cattle_kill_4|四 . 
+mno_cattle_kill_5|五 . 
+menu_arena_duel_fight|与 敌 将 摆 开 阵 势 . 
+menu_simple_encounter|{s2} 我 军 {reg10}健 卒 对 阵 敌 军 {reg11}. 
+mno_encounter_attack|冲 阵 . 
+mno_encounter_hold|列 阵 待 敌 . 
+mno_encounter_order_attack|令 部 曲 自 主 攻 伐 . 
+mno_encounter_leave|撤 军 . 
+mno_encounter_retreat|断 尾 求 生 . 
+mno_encounter_surrender|归 降 . 
+menu_encounter_retreat_confirm|凭 最 高 军 略  [  {reg2} ]  , {reg3?您 筹 谋:{s3}献 策}:弃 {reg4}卒 断 后 可 保 主 力 撤 离 . 
+mno_leave_behind|壮 士 断 腕 . 
+mno_dont_leave_behind|岂 可 弃 袍 泽 ! 
+menu_encounter_retreat|令 {reg4}将 士 阻 敌 , 自 率 余 部 撤 退 . 
+menu_order_attack_begin|部 曲 整 军 待 发 . 
+mno_order_attack_begin|传 令 进 击 . 
+mno_call_back|鸣 金 收 兵 . 
+menu_order_attack_2|{s4}^^我 军 伤 亡:{s8}^^敌 军 伤 亡:{s9}
+mno_order_attack_continue|令 将 士 乘 胜 追 击 . 
+mno_order_retreat|召 部 曲 回 防 . 
+menu_battle_debrief|{s11}^^我 军 伤 亡:{s8}{s10}^^敌 军 伤 亡:{s9}
+menu_total_victory|大 捷 ! {s9}
+menu_enemy_slipped_away|{s17}
+menu_permanent_damage|{s0}
+mno_s0|{s0}
+menu_pre_join|路 遇 {s2}与 {s1}交 锋 . 您 决 意 ...
+mno_pre_join_help_attackers|襄 助 {s2}军 . 
+mno_pre_join_help_defenders|驰 援 {s1}军 . 
+mno_pre_join_leave|莫 要 掺 和 此 事 
+menu_join_battle|{s14}. 麾 下 尚 有 {reg10}兵 马 可 战 , 敌 军 则 有 {reg11}之 众 . 
+mno_join_attack|亲 率 部 曲 冲 锋 陷 阵 
+mno_join_hold|列 阵 固 守 以 待 敌 袭 
+mno_join_attack_freelancer|随 {s5}军 阵 进 击 
+mno_join_order_attack|令 本 部 协 同 友 军 作 战 , 自 身 坐 镇 后 方 
+mno_join_leave|撤 兵 离 去 
+mno_join_order_attack_freelancer|身 负 重 伤 难 以 临 阵 
+mno_join_wounded|创 重 不 可 执 戈 
+mno_join_wounded_no_party|{s4}部 曲 已 尽 殁 
+menu_join_order_attack|{s4}^^本 部 折 损:{s8}^^盟 军 折 损:{s9}^^敌 军 折 损:{s10}
+menu_zendar|行 至 镇 南 寨 
+mno_zendar_enter|　 
+mno_zendar_enter_door|镇 衙 正 门 
+mno_zendar_tavern|　 
+mno_zendar_tavern_door|酒 肆 门 户 
+mno_zendar_merchant|　 
+mno_zendar_merchant_door|商 栈 门 庭 
+mno_zendar_arena|　 
+mno_zendar_arena_door|演 武 场 辕 门 
+mno_town_1_leave|　 
+menu_salt_mine|入 得 盐 矿 井 巷 
+mno_enter|入 内 
+menu_four_ways_inn|行 至 四 通 驿 
+menu_test_scene|入 得 演 兵 沙 盘 
+menu_dhorak_keep|进 抵 多 罗 克 寨 
+menu_join_siege_outside|{s1}正 遭 {s2}围 困 
+mno_approach_besiegers|近 前 拜 会 围 城 大 营 
+mno_pass_through_siege|穿 行 围 城 战 线 入 {s1}
+menu_cut_siege_without_fight|围 城 军 马 未 加 阻 拦 , 径 至 城 关 
+menu_besiegers_camp_with_allies|{s1}仍 处 围 城 之 中 . {s2}旌 旗 飘 扬 于 围 城 大 营 , 本 部 兵 马 得 准 入 驻 
+mno_talk_to_siege_commander|请 谒 围 城 主 帅 
+mno_join_siege_with_allies|亲 率 部 曲 参 与 次 轮 攻 城 
+mno_join_siege_stay_back|令 本 部 兵 马 随 盟 军 攻 城 , 自 身 留 守 
+mno_join_siege_stay_back_freelancer|创 重 难 执 干 戈 
+mno_join_wounded_freelancer|身 负 重 伤 难 临 战 阵 
+menu_castle_outside|立 身 {s2}城 下 . {s11}{s3}{s4}
+mno_approach_gates|近 前 叩 关 
+mno_town_sneak|乔 装 潜 入 {s7}
+mno_town_sneak_forged_document|凭 伪 牒 混 入 {s7}
+mno_dplmc_riot_start_siege|围 困 {reg6?镇 寨:堡 寨}以 平 乱 
+mno_dplmc_riot_negotiate|开 启 和 谈 
+mno_castle_start_siege|围 困 {reg6?镇 寨:堡 寨}
+mno_castle_leave|引 兵 退 去 
+menu_castle_guard|近 抵 关 隘 , 戍 卒 于 城 堞 虎 视 
+mno_request_shelter|请 入 寨 暂 避 
+mno_request_meeting_commander|请 谒 军 中 要 员 
+mno_guard_leave|退 去 
+menu_castle_entry_granted|稍 待 片 刻 , 戍 卒 启 关 纳 客 
+menu_castle_entry_denied|寨 主 严 令 不 得 放 行 , 戍 长 告 曰 若 再 近 前 必 发 弩 矢 
+menu_castle_meeting|欲 谒 何 人 ? 
+mno_guard_meet_s5|谒 {s5}
+mno_forget_it|作 罢 
+menu_castle_meeting_selected|谒 见 之 请 传 入 寨 中 , 终 见 {s6}于 校 场 相 晤 
+menu_castle_besiege|正 围 困 {s1}. {s2}{s3}
+mno_siege_request_meeting|请 见 守 城 主 帅 
+mno_wait_24_hours|静 待 来 日 
+mno_castle_lead_attack|亲 率 锐 卒 先 登 
+mno_attack_stay_back|令 部 曲 攻 城 而 己 身 留 守 
+mno_build_ladders|督 造 攻 城 器 械 
+mno_build_siege_tower|架 设 云 梯 
+mno_lift_siege|解 围 退 兵 
+menu_siege_attack_meets_sally|守 军 出 城 逆 战 
+menu_castle_besiege_inner_battle|{s1}
+menu_construct_ladders|{s10}
+mno_build_ladders_cont|速 办 
+menu_construct_siege_tower|军 中 匠 艺 最 精 者  [  {reg2} ]  {reg3?估 测:{s3}估 量}架 设 云 梯 需 时 {reg4}时 辰 
+mno_build_siege_tower_cont|兴 工 建 造 
+menu_castle_attack_walls_simulate|{s4}^^本 部 折 损:{s8}^^敌 军 折 损:{s9}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^本 部 折 损:{s8}^^盟 军 折 损:{s9}^^敌 军 折 损:{s10}
+menu_castle_taken_by_friends|此 处 无 战 事 
+menu_castle_taken|{s3}已 陷 , 全 据 {reg2?镇 寨:堡 寨}. 可 掠 取 战 利 折 {reg3}文 钱 {reg1?. 可 在 此 屯 兵 防 敌 反 扑 , 且 当 决 断 自 领 此 地 亦 或 分 封 臣 属 ...:}
+mno_dplmc_spoils_yourself|尽 取 战 利 归 己 所 有 
+mno_dplmc_spoils_accompanying_vassals|与 随 军 臣 属 均 分 战 利 
+mno_dplmc_spoils_all_vassals|与 帐 下 群 臣 均 分 战 利 
+menu_castle_taken_2|{s3}已 陷 , 全 据 堡 寨 . 当 飞 报 {s9}捷 讯 . {s5}
+mno_castle_taken_claim|请 封 {s3}为 食 邑 
+mno_castle_taken_claim_2|请 以 {s3}封 赏 {reg40?夫 婿:妻 室}
+mno_castle_taken_no_claim|不 邀 封 赏 
+menu_requested_castle_granted_to_player|得 主 上 {s3}敕 命:^^{reg4?伊:其}决 意 将 {s2}{reg3?及 附 郭 {s4}村 寨:}赐 为 永 业 田 , 食 邑 租 赋 尽 归 麾 下 , 惟 需 谨 守 臣 节 
+menu_requested_castle_granted_to_player_husband|得 主 上 {s3}敕 命:^^{reg4?伊:其}决 意 将 {s2}{reg3?及 附 郭 {s4}村 寨:}赐 予 尊 夫 {s7}
+menu_requested_castle_granted_to_another|得 国 君 {s3}敕 命:^^'闻 卿 奋 勇 克 {s2}, 朕 心 甚 慰 . 然 请 封 之 事 未 允 , 盖 因 卿 已 领 多 处 方 镇 . 特 赐 {reg6}文 钱 犒 军 , {s2}则 赐 予 {s5}'
+mno_accept_decision|谨 遵 上 命 
+mno_leave_faction|主 上 负 我 ! 当 绝 君 臣 之 谊 ! 
+menu_requested_castle_granted_to_another_female|得 国 君 {s3}敕 命:^^'闻 卿 奋 勇 克 {s2}, 朕 心 甚 慰 . 然 请 封 尊 {reg40?夫:妻}之 事 未 允 , 盖 因 贵 眷 已 领 多 处 方 镇 . 特 赐 {reg6}文 钱 犒 军 , {s2}则 赐 予 {s5}'
+menu_leave_faction|背 主 乃 大 逆 . 或 遭 籍 没 封 邑 , 若 主 动 归 还 或 可 免 罪 
+mno_leave_faction_give_back|绝 君 臣 之 义 , 献 还 封 邑 
+mno_leave_faction_hold|自 立 门 户 , 领 {s2}等 封 邑 
+mno_leave_faction_cancel|谨 守 臣 节 , 奉 诏 行 事 
+menu_give_center_to_player|主 上 欲 增 卿 封 邑 ! {s1}传 诏 欲 将 {s2}赐 为 食 邑 , 卿 当 如 何 ? 
+mno_give_center_to_player_accept|拜 受 封 赏 
+mno_give_center_to_player_reject|辞 而 不 受 , 无 意 领 {s2}
+menu_give_center_to_player_2|行 册 封 仪 , 正 式 领 {s2}{reg3?及 附 郭 {s4}村 寨:}为 食 邑 . {reg3?此 等:此}封 邑 当 善 加 经 略 , 可 征 租 募 兵 , 惟 需 守 土 安 民 , 肃 清 奸 宄 
+menu_oath_fulfilled|与 {s1}契 约 为 期 已 届 , 当 如 何 ? 
+mno_renew_oath|与 {s1}续 契 一 月 
+mno_dont_renew_oath|解 约 而 去 
+menu_siege_started_defender|{s59}. {s60}麾 下 尚 有 {reg10}兵 马 可 战 , 敌 军 则 有 {reg11}之 众 , 当 ...
+mno_dplmc_negotiate_with_besieger|与 围 城 军 和 谈 
+mno_siege_defender_join_battle|亲 临 战 阵 
+mno_siege_defender_troops_join_battle|{s58}
+mno_siege_defender_troops_join_freelancer|{s58}
+mno_siege_defender_troops_no_party|{s4}部 曲 已 尽 殁 
+menu_siege_join_defense|{s4}^^本 部 折 损:{s8}^^盟 军 折 损:{s9}^^敌 军 折 损:{s10}
+menu_enter_your_own_castle|{s10}
+menu_village|{s10}{s12}^{s11}^{s6}{s7}
+mno_village_manage|经 略 此 村 
+mno_recruit_volunteers|募 乡 勇 
+mno_village_center|往 村 中 
+mno_village_center_door|村 社 门 庭 
+mno_dplmc_village_elder_meeting|谒 {s20}
+mno_dplmc_village_elder_meeting_denied|尚 未 谒 见 {s20}
+mno_village_buy_food|籴 买 粮 秣 
+mno_dplmc_village_auto_sell|自 动 沽 货 
+mno_dplmc_village_auto_buy_food|自 动 籴 粮 
+mno_village_attack_bandits|剿 灭 匪 患 
+mno_village_wait|暂 驻 此 地 
+mno_dplmc_village_counter_insurgency|弹 压 民 变 
+mno_dplmc_village_negotiate|开 启 和 谈 
+mno_collect_taxes_qst|{reg5?续 征:开 征}应 缴 {s1}之 赋 税 
+mno_train_peasants_against_bandits_qst|操 练 乡 勇 
+mno_village_hostile_action|行 劫 掠 事 
+mno_village_leave|离 开 村 庄 ...
+menu_village_hostile_action|意 欲 何 为 ? 
+mno_village_take_food|强 征 粮 秣 
+mno_village_steal_cattle|盗 取 牲 畜 
+mno_village_loot|洗 劫 焚 村 
+menu_recruit_volunteers|{s18}
+mno_continue_not_enough_gold|囊 中 羞 涩 ...
+mno_recruit_them|征 募 义 勇  [  需 {reg6}文 钱  ]  
+menu_village_hunt_down_fugitive_defeated|逃 犯 重 击 将 你 击 倒 在 地 , 眼 前 天 旋 地 转 陷 入 黑 暗 . 不 知 过 了 多 久 , 你 浑 身 血 污 醒 转 , 幸 未 伤 及 要 害 . 
+menu_village_infest_bandits_result|{s9}
+menu_village_infestation_removed|率 众 鏖 战 驱 散 匪 寇 , 村 民 倾 尽 残 存 资 财 相 谢 . 
+mno_village_bandits_defeated_accept|此 乃 应 得 之 酬 
+mno_village_bandits_defeated_cont|推 辞 不 受 , 令 其 自 用 
+menu_center_manage|{s19}^{reg6?^^当 前 营 建 {s7}, 尚 需 {reg8}日 {reg9?可 成:可 成}.:}
+mno_center_build_manor|营 建 庄 院 
+mno_center_build_fish_pond|修 筑 碾 坊 
+mno_center_build_watch_tower|设 立 望 楼 
+mno_center_build_school|兴 办 学 塾 
+mno_center_build_messenger_post|设 置 驿 铺 
+mno_center_build_prisoner_tower|建 造 囚 塔 
+menu_center_improve|{s19}营 建 {s4}需 {reg5}文 钱 、 {reg6}日 , 工 师 {reg3?言 道:{s3}估 算}
+mno_dplmc_improve_cont|着 即 兴 造  [  支 用 官 钱  ]  
+mno_improve_cont|立 即 动 工 
+mno_improve_not_enough_gold|府 库 钱 帛 不 足 
+menu_town_bandits_failed|{s4}{s5}
+menu_town_bandits_succeeded|荡 平 群 寇 如 刈 麦 , 尸 横 街 衢 觅 得 钱 囊 , 或 为 贼 赃 , 或 乃 买 凶 之 资 . 
+menu_village_steal_cattle_confirm|可 盗 取 {reg4}头 牲 畜  [  劫 掠 能 手 {reg2}级  ]  
+mno_village_steal_cattle_confirm|动 手 劫 掠 
+menu_village_steal_cattle|{s1}
+menu_village_take_food_confirm|威 逼 村 民 献 粮 约 需 一 时 辰 
+mno_village_take_food_confirm|强 行 征 发 
+menu_village_take_food|村 民 忍 辱 献 出 存 粮 
+mno_take_supplies|尽 数 收 取 
+mno_let_them_keep_it|发 还 乡 民 
+menu_village_start_attack|乡 民 持 械 相 抗 , 恐 需 兵 戎 相 见 
+mno_village_raid_attack|纵 兵 攻 杀 
+mno_village_raid_leave|引 兵 退 去 
+menu_village_loot_no_resist|村 民 惊 惶 四 散 , 村 落 唾 手 可 得 
+menu_village_loot_complete|纵 火 洗 劫 得 赃 物 {reg1}文 钱 
+menu_village_loot_defeat|村 民 奋 勇 拒 敌 , 我 军 败 退 
+menu_village_loot_continue|继 续 洗 劫 此 村 ? 
+mno_disembark_yes|继 续 劫 掠 
+mno_disembark_no|就 此 罢 手 
+menu_close|无 他 事 
+menu_town|{s10}{s14}^{s11}{s12}{s13}
+mno_castle_castle|进 入 宫 室 {s1}
+mno_castle_castle_door|宫 室 门 禁 
+mno_join_tournament|参 加 演 武 大 会 
+mno_town_castle|谒 见 宫 城 {s1}
+mno_town_castle_door|宫 城 门 道 
+mno_town_center|巡 游 街 市 
+mno_town_center_door|市 坊 门 阙 
+mno_town_tavern|造 访 酒 肆 
+mno_town_tavern_door|酒 家 门 廊 
+mno_town_merchant|拜 会 商 贾 
+mno_town_merchant_door|商 铺 门 户 
+mno_town_arena|步 入 校 场 
+mno_town_arena_door|校 场 辕 门 
+mno_town_dungeon|牢 狱 重 地  [  暂 未 开 放  ]  
+mno_town_dungeon_door|狱 门 森 严 
+mno_castle_inspect|巡 视 城 垣 
+mno_castle_inspect_door|城 阙 通 道 
+mno_town_enterprise|视 察 {s3}产 业 
+mno_town_enterprise_door|产 业 门 户 
+mno_visit_lady|求 见 贵 眷 
+mno_visit_lady_door|后 苑 角 门 
+mno_trade_with_merchants|市 易 坊 市 
+mno_recruit_town_volunteers|募 集 乡 勇 
+mno_walled_center_manage|治 理 {reg0?城 邑:堡 寨}
+mno_walled_center_move_court|移 驾 驻 跸 
+mno_castle_station_troops|调 配 驻 军 {s10}
+mno_dplmc_castle_give_troops|增 戍 军 旅  [  不 可 撤 回  ]  
+mno_castle_wait|在 此 暂 驻 {s1} 
+mno_dplmc_guild_master_meeting|拜 谒 {s20}行 首 
+mno_dplmc_guild_master_meeting_denied|尚 未 得 见 {s20}行 首 
+mno_sail_from_port|扬 帆 出 港 
+mno_town_leave|离 开 ...
+mno_town_leave_door|退 出 此 地 
+menu_cannot_enter_court|宫 宴 未 得 邀 , 或 可 积 威 名 , 或 于 演 武 扬 威 
+menu_lady_visit|欲 谒 哪 位 贵 眷 ? 
+mno_visit_lady_1|拜 会 {s12}
+mno_visit_lady_2|谒 见 {s12}
+mno_visit_lady_3|求 见 {s12}
+mno_visit_lady_3_door|后 苑 门 径 
+mno_visit_lady_4|访 {s12}
+mno_visit_lady_5|约 见 {s12}
+mno_visit_lady_6|候 见 {s12}
+mno_visit_lady_7|通 谒 {s12}
+mno_visit_lady_8|赴 {s12}之 约 
+menu_town_tournament_lost|已 遭 淘 汰 {s8}
+menu_town_tournament_won|荣 膺 {s3}演 武 魁 首 , 获 赏 {reg9}文 钱 {s8}
+menu_town_tournament_won_by_another|{s1}勇 冠 三 军 夺 得 锦 标 
+menu_town_tournament|{s1}当 前 位 列 {reg0}等 , 尚 余 {reg1}人 
+mno_tournament_view_participants|查 看 参 演 名 录 
+mno_tournament_bet|押 注 己 身 
+mno_tournament_join_next_fight|续 战 次 轮 
+mno_leave_tournament|退 出 比 试 
+menu_tournament_withdraw_verify|确 要 退 出 演 武 ? 
+mno_tournament_withdraw_yes|虚 名 无 益 , 就 此 作 罢 
+mno_tournament_withdraw_no|战 至 终 局 , 誓 不 言 退 
+menu_tournament_bet|赔 率 {reg5}赔 {reg6}{reg1? 已 押 {reg1}文 , 胜 可 得 {reg2}文:}押 注 几 何 ? 
+mno_bet_100_denars|百 文 
+mno_bet_50_denars|五 十 文 
+mno_bet_20_denars|二 十 文 
+mno_bet_10_denars|十 文 
+mno_bet_5_denars|五 文 
+menu_tournament_bet_confirm|押 {reg1}文 若 胜 可 得 {reg2}文 , 可 乎 ? 
+mno_tournament_bet_accept|落 注 无 悔 
+mno_tournament_bet_cancel|作 罢 
+menu_tournament_participants|参 演 名 录:^{s11}
+menu_collect_taxes|预 计 征 赋 需 时 {reg4}日  [  税 吏 {reg2}级  ]  
+mno_start_collecting|开 征 课 税 
+mno_collect_later|暂 缓 催 科 
+menu_collect_taxes_complete|自 {s3}征 得 {reg3}文 钱 , 须 于 旬 日 内 解 送 {s19}处 
+menu_collect_taxes_rebels_killed|尔 以 雷 厉 风 行 之 势 平 定 民 变 , 宵 小 之 辈 见 此 威 压 , 必 不 敢 再 生 悖 逆 之 心 . 
+menu_collect_taxes_failed|仓 促 间 仅 得 {s3}处 {reg3}文 税 银 , 乱 民 便 蜂 起 作 乱 . {s1}虽 不 悦 , 然 聊 胜 于 无 , 得 此 {reg4?伊:彼}亦 可 稍 作 安 抚 ...
+menu_collect_taxes_revolt_warning|{s3}百 姓 怨 声 载 道 , 斥 尔 横 征 暴 敛 如 匪 . 民 情 汹 汹 如 沸 鼎 , 若 再 相 逼 恐 生 大 变 . 
+mno_continue_collecting_taxes|置 若 罔 闻 , 照 征 不 误 . 
+mno_halve_taxes|允 诺 减 赋 五 成  [  恐 触 怒 {s1} ]  
+menu_collect_taxes_revolt|正 于 {s3}征 敛 之 际 , 忽 见 黑 压 压 数 百 {reg9?乡 民:市 井 之 徒}持 械 举 火 汹 汹 而 来 , 口 中 叫 骂 苛 捐 杂 税 , 竟 欲 与 尔 兵 戎 相 见 ! 
+menu_train_peasants_against_bandits|军 中 操 练 最 精 者 乃 {reg2}之 {reg3?足 下 自 当:{s1}当}操 演 乡 勇 , 预 计 需 费 时 {reg4}时 辰 . 
+mno_make_preparation|即 刻 操 练 
+mno_train_later|暂 且 搁 置 
+menu_train_peasants_against_bandits_ready|授 乡 勇 阵 法 纪 律 , 约 {reg0}人 {reg1?等:者}已 得 要 领 , 可 临 战 阵 . 
+mno_peasant_start_practice|开 演 实 战 
+menu_train_peasants_against_bandits_training_result|{s0}
+menu_train_peasants_against_bandits_attack|操 演 方 酣 , 忽 有 乡 民 疾 呼 告 警 , 云 盗 匪 已 犯 {s3}境 . 里 正 恳 请 率 新 训 乡 勇 御 敌 . 
+mno_peasants_against_bandits_attack_resist|列 阵 迎 敌 
+menu_train_peasants_against_bandits_attack_result|{s9}
+menu_train_peasants_against_bandits_success|盗 匪 溃 散 , 余 者 皆 鼠 窜 . 乡 民 感 佩 尔 恩 德 , 虽 经 劫 掠 囊 中 羞 涩 , 仍 倾 其 所 有 以 献 . 
+menu_disembark|可 要 离 舟 登 岸 ? 
+menu_ship_reembark|可 要 登 舟 启 程 ? 
+mno_reembark_yes|然 
+mno_reembark_no|否 
+menu_center_reports|城 邑:{s1}^岁 入:{reg1}文 ^榷 税:{reg2}文 ^仓 廪:储 粮 可 支 {reg3}日 
+mno_to_price_and_productions|观 物 产 市 价 
+menu_price_and_production|物 产 明 细:^ [  注:原 价 /料 价 /丰 俭 价  ]  ^{s1}^^市 价 因 子:^{s2}
+menu_town_trade|步 入 市 集 
+mno_auto_sell|自 动 售 卖 货 物 
+mno_assess_prices|探 听 行 情 
+mno_trade_with_arms_merchant|与 兵 仗 商 贾 交 易 
+mno_trade_with_armor_merchant|与 甲 胄 商 贾 交 易 
+mno_trade_with_horse_merchant|与 马 匹 商 贾 交 易 
+mno_trade_with_goods_merchant|与 货 殖 商 贾 交 易 
+mno_auto_buy_food|自 动 采 买 粮 秣 
+mno_back_to_town_menu|返 归 
+menu_dplmc_trade_auto_sell_begin|凡 标 可 售 且 价 低 于 {reg1}文 之 物 , 将 自 动 售 予 {reg2?诸 行 当 商 贾:乡 老}. 粮 秣 、 货 殖 、 典 籍 永 不 售 卖 . ^^可 于 此 更 易 规 约 . 
+mno_change_settings|更 易 规 约 
+menu_dplmc_trade_auto_buy_food_begin|将 依 采 买 单 自 动 购 粮 . 可 要 施 行 ? ^^可 于 此 检 视 并 更 易 采 买 单 . 
+mno_dplmc_change_shopping_list_of_food|更 易 采 买 单 
+menu_town_trade_assessment_begin|细 听 市 井 议 论 货 殖 行 情 , 欲 辨 明 何 处 可 获 倍 蓰 之 利 . 
+menu_town_trade_assessment|营 中 贸 迁 最 精 者 乃 {reg2}之 {reg3?足 下 自 当:{s1}当}揣 度 商 机 . {s2}
+menu_sneak_into_town_suceeded|伪 作 {s10}部 曲 , 成 功 骗 过 守 卒 混 入 {s7}. 
+menu_sneak_into_town_suceeded_forged_document|凭 伪 造 文 书 瞒 天 过 海 , 安 然 入 {s7}. 
+menu_sneak_into_town_caught|正 欲 潜 行 , 忽 有 守 卒 识 破 形 迹 , 鸣 镝 示 警 ! 须 速 退 避 , 免 遭 阖 城 围 捕 ! 
+mno_sneak_caught_fight|杀 出 血 路 
+mno_sneak_caught_surrender|束 手 就 擒 
+menu_sneak_into_town_caught_dispersed_guards|击 退 追 兵 后 隐 踪 匿 迹 , 于 街 衢 巷 陌 间 甩 脱 尾 随 . 
+menu_sneak_into_town_caught_ran_away|急 退 城 门 返 郊 野 , 终 脱 险 境 . {s11}
+menu_enemy_offer_ransom_for_prisoner|{s2}藩 镇 欲 以 {reg12}文 赎 {s1}, 可 愿 成 交 ? 
+mno_ransom_accept|纳 赎 放 人 
+mno_ransom_reject|严 词 拒 绝 
+menu_training_ground|至 演 武 场 操 练 武 艺 , 欲 习 何 技 ? 
+mno_camp_trainer|请 教 教 头 
+mno_camp_train_melee|步 战 切 磋 
+mno_camp_train_archery|弓 马 较 射 
+mno_camp_train_mounted|马 上 武 艺 
+menu_training_ground_selection_details_melee_1|欲 与 几 人 较 技 ? 
+mno_camp_train_melee_num_men_1|单 骑 
+mno_camp_train_melee_num_men_2|双 人 
+mno_camp_train_melee_num_men_3|三 人 
+mno_camp_train_melee_num_men_4|四 人 
+menu_training_ground_selection_details_melee_2|择 第 {reg1}位 对 手:
+mno_training_ground_selection_details_melee_random|随 机 择 选 
+menu_training_ground_selection_details_mounted|欲 用 何 种 兵 刃 ? 
+mno_camp_train_mounted_details_1|单 手 兵 刃 
+mno_camp_train_mounted_details_2|长 柄 兵 刃 
+mno_camp_train_mounted_details_3|角 弓 羽 箭 
+mno_camp_train_mounted_details_4|投 掷 兵 刃 
+menu_training_ground_selection_details_ranged_1|欲 习 何 种 远 射 ? 
+mno_camp_train_ranged_weapon_bow|步 弓 
+mno_camp_train_ranged_weapon_crossbow|弩 机 
+mno_camp_train_ranged_weapon_thrown|飞 刀 
+menu_training_ground_selection_details_ranged_2|欲 试 多 远 靶 ? 
+mno_camp_train_ranged_details_1|十 步 
+mno_camp_train_ranged_details_2|二 十 步 
+mno_camp_train_ranged_details_3|三 十 步 
+mno_camp_train_ranged_details_4|四 十 步 
+mno_camp_train_ranged_details_5|五 十 步 
+mno_camp_train_ranged_details_6|六 十 步 
+mno_camp_train_ranged_details_7|七 十 步 
+menu_training_ground_description|{s0}
+menu_training_ground_training_result|{s7}{s2}
+menu_marshall_selection_candidate_ask|{s15}将 择 {s23}藩 镇 军 师 , 诸 将 多 举 尔 名 . 
+mno_marshall_candidate_accept|愿 为 {s15}效 犬 马 
+mno_marshall_candidate_reject|婉 辞 军 师 之 位 
+menu_captivity_avoid_wilderness|眼 前 忽 暗 , 不 知 昏 厥 几 时 . 醒 时 但 见 尸 横 遍 野 , 敌 寇 误 尔 已 死 弃 之 而 去 . 虽 创 痕 累 累 , 幸 得 苟 全 性 命 . 踉 跄 起 身 , 寻 访 残 部 . 
+menu_captivity_start_wilderness|存 根 
+menu_captivity_start_wilderness_surrender|存 根 
+menu_captivity_start_wilderness_defeat|沦 为 阶 下 囚 
+menu_captivity_start_castle_surrender|存 根 
+menu_captivity_start_castle_defeat|存 根 
+menu_captivity_start_under_siege_defeat|城 破 被 擒 
+menu_captivity_wilderness_taken_prisoner|遭 敌 生 俘 
+menu_captivity_wilderness_check|存 根 
+menu_captivity_end_wilderness_escape|经 历 数 日 被 俘 的 屈 辱 折 磨 后 , 你 终 于 抓 住 机 会 从 看 守 手 中 逃 脱 ! 
+menu_captivity_castle_taken_prisoner|你 很 快 被 卫 兵 团 团 围 住 缴 了 兵 器 . 在 辱 骂 声 中 , 他 们 把 你 扔 进 地 牢 , 在 暗 无 天 日 中 苦 熬 囚 禁 岁 月 . 
+menu_captivity_rescue_lord_taken_prisoner|你 尽 可 能 伪 装 身 份 , 最 终 暴 露 时 守 卫 暴 怒 将 你 痛 打 一 顿 , 重 新 投 入 牢 房 不 知 要 关 到 何 年 何 月 ...
+menu_captivity_castle_check|存 根 
+menu_captivity_end_exchanged_with_prisoner|经 过 多 日 监 禁 , 敌 国 终 于 用 其 他 俘 虏 将 你 交 换 释 放 . 
+menu_captivity_end_propose_ransom|在 阴 湿 地 牢 不 知 数 了 多 少 日 夜 , 突 然 有 看 守 提 出 用 {reg5}文 钱 换 你 自 由 . 你 决 定 ...
+mno_captivity_end_ransom_accept|接 受 条 件 
+mno_captivity_end_ransom_deny|拒 绝 等 待 转 机 
+menu_captivity_castle_remain|地 牢 里 又 捱 过 数 日 . 你 强 忍 守 卫 的 踢 打 辱 骂 , 眼 看 着 自 己 因 饥 饿 日 益 消 瘦 ...
+menu_kingdom_army_quest_report_to_army|{s8}传 令 要 你 带 至 少 {reg13}兵 力 加 入 新 战 役 . 若 兵 力 不 足 须 尽 快 募 兵 . 
+menu_kingdom_army_quest_messenger|{s8}派 信 使 召 你 商 议 要 务 , 命 你 速 来 觐 见 . 
+menu_kingdom_army_quest_join_siege_order|{s8}令 你 率 部 参 与 围 攻 {s9}, 不 惜 代 价 务 必 攻 克 . 
+menu_kingdom_army_follow_failed|你 未 能 响 应 {s8}调 遣 . 主 将 虽 体 谅 你 另 有 要 务 , 仍 感 惋 惜 . 
+menu_invite_player_to_faction_without_center|你 收 到 诸 侯 效 忠 邀 约 ! ^^{s9}国 的 {s8}遣 使 送 来 亲 笔 信 , 邀 你 作 为 无 地 附 庸 加 入 . 需 宣 誓 效 忠 并 随 军 征 战 , 但 无 封 地 授 予 . 若 拒 绝 恐 触 怒 对 方 ...
+mno_faction_accept|接 受 
+mno_faction_reject|婉 拒 
+menu_invite_player_to_faction|你 获 封 地 效 忠 邀 约 ! ^^{s9}国 的 {s8}遣 使 邀 你 成 为 附 庸 领 主 , 赐 封 {s2}为 采 邑 , 需 宣 誓 效 忠 并 随 军 征 战 . 若 拒 绝 恐 触 怒 对 方 ...
+menu_invite_player_to_faction_accepted|欲 成 附 庸 , 须 亲 赴 {s3}当 面 宣 誓 效 忠 . {s5}
+menu_question_peace_offer|停 战 提 议 ^^收 到 {s1}国 和 谈 请 求 . 如 何 回 复 ? 
+mno_peace_offer_accept|接 受 
+mno_dplmc_peace_offer_terms|提 出 和 谈 条 件 
+mno_peace_offer_reject|拒 绝 
+menu_notification_truce_expired|停 战 协 定 失 效 ^^{s1}国 与 {s2}国 的 停 战 协 议 已 到 期 . 
+menu_notification_feast_quest_expired|{s10}
+menu_notification_sortie_possible|敌 军 现 身 ^{s4}城 外 发 现 敌 踪 , {s5}等 人 正 整 军 出 击 . 你 可 选 择 加 入 . 
+menu_notification_casus_belli_expired|王 国 未 作 回 应 ^^因 {s1}国 未 回 应 {s2}国 挑 衅 , {s3}在 好 战 臣 属 中 威 望 受 损 ...
+menu_notification_lord_defects|叛 变 事 件 ^{s4}携 封 地 叛 离 {s5}国 , 转 投 {s7}国 . 
+menu_notification_treason_indictment|叛 国 指 控 ^{s9}
+menu_notification_border_incident|边 境 冲 突 ^^传 闻 {s9}. 虽 难 辨 真 伪 , 但 此 事 已 激 化 {s4}国 民 愤 , 使 其 更 易 对 {s3}国 开 战 . 
+menu_notification_player_faction_active|自 立 为 王 通 告 ^^你 已 拥 有 独 立 封 地 , 成 为 自 立 君 主 ! 临 时 宫 廷 设 在 {s12}. 但 中 原 诸 侯 视 你 为 威 胁 , 因 草 莽 称 王 动 摇 其 正 统 性 . ^^建 议 先 归 附 现 有 王 国 . 若 坚 持 自 立 , 须 通 过 联 姻 高 门 、 招 贤 纳 士 、 理 政 外 交 等 方 式 确 立 统 治 合 法 性 . ^^当 前 要 务 是 任 命 军 师 理 政 , 不 同 幕 僚 各 有 所 长 . 可 随 时 更 换 军 师 或 迁 都 . 
+mno_appoint_spouse|册 封 配 偶 {s10}...
+mno_dplmc_appoint_spouse_plus_1|册 封 配 偶 {s10}...
+mno_appoint_npc1|任 命 {s10}
+mno_appoint_npc2|任 命 {s10}
+mno_appoint_npc3|任 命 {s10}
+mno_appoint_npc4|任 命 {s10}
+mno_appoint_npc5|任 命 {s10}
+mno_appoint_npc6|任 命 {s10}
+mno_appoint_npc7|任 命 {s10}
+mno_appoint_npc8|任 命 {s10}
+mno_appoint_npc9|任 命 {s10}
+mno_appoint_npc10|任 命 {s10}
+mno_appoint_npc11|任 命 {s10}
+mno_appoint_npc12|任 命 {s10}
+mno_appoint_npc13|任 命 {s10}
+mno_appoint_npc14|任 命 {s10}
+mno_appoint_npc15|任 命 {s10}
+mno_appoint_npc16|任 命 {s10}
+mno_appoint_default|擢 升 当 地 贤 达 ...
+menu_minister_confirm|军 师 {s9}已 在 {s12}宫 廷 待 命 . 请 定 期 咨 询 , 以 防 政 务 积 压 损 害 威 信 ...
+menu_notification_court_lost|{s12}
+menu_notification_player_faction_deactive|王 国 覆 灭 通 告 ^^你 的 王 国 已 无 寸 土 . 
+menu_notification_player_wedding_day|婚 期 通 知 ^{s8}禀 报 {s10}的 婚 典 准 备 就 绪 , 恭 请 主 公 即 刻 莅 临 . 
+menu_notification_player_kingdom_holds_feast|{s11}
+menu_notification_center_under_siege|紧 急 军 情 ^{s1}正 遭 {s3}国 {s2}部 围 攻 ! 
+menu_notification_village_raided|领 地 遭 掠 ^{s1}被 {s3}国 {s2}部 洗 劫 ! 
+menu_notification_village_raided_capture|失 地 警 报 ^{s1}已 陷 落 于 {s3}国 {s2}部 ! 
+menu_notification_village_raid_started|村 庄 遇 袭 ^{s3}国 {s2}部 正 在 {s1}烧 杀 抢 掠 ! 
+menu_notification_one_faction_left|天 下 一 统 ^{s1}国 已 扫 灭 群 雄 , 成 就 千 秋 帝 业 ! 
+menu_notification_oath_renounced_faction_defeated|复 仇 成 功 ^^你 大 败 {s1}国 , 终 结 了 自 背 誓 以 来 的 恩 怨 . 
+menu_notification_center_lost|封 地 失 守 ^^你 失 去 了 {s1}, 该 地 已 归 {s2}国 所 有 . 
+menu_notification_troop_left_players_faction|叛 离 事 件 ^{s1}背 弃 {s2}转 投 {s3}国 . 
+menu_notification_troop_joined_players_faction|来 投 喜 讯 ^{s1}脱 离 {s2}国 加 入 我 方 {s3}. 
+menu_notification_war_declared|宣 战 布 告 ^{s1}国 向 {s2}国 正 式 宣 战 ! 
+menu_notification_peace_declared|缔 结 和 约 ^{s1}国 与 {s2}国 达 成 和 平 协 议 ! {s57}
+menu_notification_faction_defeated|诸 侯 覆 灭 ^{s1}国 已 烟 消 云 散 ! 
+menu_notification_rebels_switched_to_faction|叛 乱 成 功 ^^你 部 叛 军 夺 取 {s11}国 正 统 , {s12}成 为 唯 一 合 法 统 治 者 . 
+menu_notification_player_should_consult|政 务 提 醒 ^{reg0?军 师:{s11}}禀 报 国 有 隐 忧 , 若 不 理 恐 损 威 信 , 请 速 回 {s12}商 议 . 
+menu_notification_player_feast_in_progress|宴 会 筹 备 ^{reg40?夫 君:夫 人}正 在 {s11}筹 办 宫 廷 盛 宴 . 
+menu_notification_lady_requests_visit|密 函 邀 约 ^老 妪 递 来 蜡 封 密 信 , 乃 {s15}手 书:"盼 重 聚 . {s14}妾 身 在 {s10}. {s12}
+menu_garden|{s12}
+mno_nurse|随 嬷 嬷 前 往 
+menu_kill_local_merchant_begin|暗 杀 行 动 ^你 尾 随 目 标 至 暗 巷 , 此 刻 正 是 下 手 良 机 . 
+menu_debug_alert_from_s65|调 试 警 报:{s65}
+menu_auto_return_to_map|残 本 
+menu_bandit_lair|{s3}
+mno_continue_1|攻 其 巢 穴 ...
+mno_leave_no_attack|引 军 暂 退 ...
+mno_leave_victory|继 续 征 程 ...
+mno_leave_defeat|继 续 前 行 ...
+menu_notification_player_faction_political_issue_resolved|经 朝 堂 公 议 , {s10}决 意 将 {s11}之 荣 衔 授 予 {s12}. 
+menu_notification_player_faction_political_issue_resolved_for_player|经 朝 堂 公 议 , {s10}欲 赐 卿 {s11}封 赏 . 若 辞 不 受 , 恐 累 日 后 功 赏 . {s12}
+mno_accept|拜 受 恩 荣 
+mno_decline|固 辞 封 赏 
+menu_start_phase_3|{s16}^^夜 抵 {s1}逆 旅 , 困 极 而 寐 . 昧 爽 忽 醒 , 街 衢 阒 寂 . 忽 闻 金 鞘 磨 刃 之 声 , 毛 发 尽 竖 ...
+menu_start_phase_4|{s11}
+mno_nothing|继 续 前 行 ...
+menu_lost_tavern_duel|{s11}
+menu_establish_court|欲 立 {s4}为 幕 府 , 当 置 {s13}一 副 , 备 {s12}一 束 , 部 曲 徙 驻 亦 需 时 日 . 可 愿 为 之 ? 
+mno_establish|建 {s4}为 节 堂 
+menu_notification_relieved_as_marshal|{s4}传 檄 曰:都 统 之 职 另 委 贤 能 . 念 君 戎 马 {reg4}日 , 特 赐 {s8?其:彼}私 帑 {reg5}文 钱 . 
+menu_dplmc_manage_loot_pool|{s10}
+mno_dplmc_auto_loot|令 部 曲 自 择 战 利 兵 甲 
+mno_dplmc_auto_loot_no|武 库 不 盈 , 难 行 换 装 
+mno_dplmc_loot|检 视 地 面 遗 兵 
+mno_dplmc_auto_loot_upgrade_management|整 饬 部 曲 武 备 
+mno_dplmc_leave|{s20}
+mno_dplmc_leave_and_take_a|取 地 上 {reg20}件 中 {reg0}件 携 行 
+mno_dplmc_leave_and_take_b|尽 收 地 上 {reg20}件 残 兵 
+mno_dplmc_leave_and_take_c|行 囊 已 罄 
+menu_dplmc_auto_loot|部 曲 将 依 序 自 选 兵 革 , 汰 旧 易 新 . 所 遗 武 备 尽 弃 于 野 . 确 要 施 行 ? 
+mno_dplmc_autoloot_no|且 作 他 图 
+mno_dplmc_autoloot_yes|立 行 汰 换 
+menu_dplmc_notification_alliance_declared|歃 血 为 盟 ^^{s1}与 {s2}缔 结 攻 守 同 盟 ! ^{s57}
+mno_dplmc_continue|继 续 征 途 ...
+menu_dplmc_notification_defensive_declared|守 望 之 约 ^^{s1}与 {s2}立 守 望 相 助 之 约 ! ^{s57}
+menu_dplmc_notification_trade_declared|通 商 之 盟 ^^{s1}与 {s2}订 立 商 旅 之 约 ! ^{s57}
+menu_dplmc_notification_nonaggression_declared|止 戈 之 契 ^^{s1}与 {s2}缔 结 互 不 征 伐 之 约 ! ^{s57}
+menu_dplmc_question_alliance_offer|盟 约 之 请 ^^{s1}欲 与 君 结 攻 守 之 盟 , 何 以 处 之 ? 
+mno_dplmc_alliance_offer_accept|歃 血 为 誓 
+mno_dplmc_alliance_offer_reject|峻 拒 来 使 
+menu_dplmc_question_defensive_offer|守 望 之 请 ^^{s1}欲 与 君 立 守 望 之 约 , 何 以 处 之 ? 
+mno_dplmc_defensive_offer_accept|立 约 相 助 
+mno_dplmc_defensive_offer_reject|婉 辞 谢 绝 
+menu_dplmc_question_trade_offer|通 商 之 请 ^^{s1}欲 与 君 订 商 旅 之 约 , 何 以 处 之 ? 
+mno_dplmc_trade_offer_accept|立 契 通 商 
+mno_dplmc_trade_offer_reject|闭 市 不 应 
+menu_dplmc_question_nonaggression_offer|止 戈 之 请 ^^{s1}欲 与 君 缔 互 不 征 伐 之 约 , 何 以 处 之 ? 
+mno_dplmc_nonaggression_offer_accept|立 誓 止 戈 
+mno_dplmc_nonaggression_offer_reject|严 词 回 绝 
+menu_dplmc_notification_alliance_expired|盟 约 消 弭 ^^{s1}与 {s2}之 攻 守 盟 约 已 尽 , 降 为 守 望 之 约 
+menu_dplmc_notification_defensive_expired|守 望 消 弭 ^^{s1}与 {s2}之 守 望 约 定 已 尽 , 降 为 通 商 之 盟 
+menu_dplmc_notification_trade_expired|通 商 消 弭 ^^{s1}与 {s2}之 商 旅 盟 约 已 尽 , 降 为 止 戈 之 契 
+menu_dplmc_dictate_terms|立 受 降 规 
+mno_dplmc_demand_4000|索 四 千 文 钱 
+mno_dplmc_demand_8000|索 八 千 文 钱 
+mno_dplmc_demand_castle|索 要 {s2}
+mno_dplmc_go_back|改 易 条 款 
+menu_dplmc_deny_terms|{s1}拒 汝 条 款 , 罢 议 绝 和 
+menu_dplmc_village_riot_result|{s9}
+menu_dplmc_village_riot_removed|血 洗 乱 民 , 复 掌 残 村 . 然 村 舍 凋 敝 , 徒 余 焦 土 . 
+menu_dplmc_town_riot_removed|荡 平 民 变 , 重 掌 城 治 
+menu_dplmc_riot_negotiate|直 面 汹 汹 之 众 , 乱 民 魁 首 索 要 {reg0}文 钱 . 称 若 得 偿 , 当 即 解 甲 . 
+mno_dplmc_pay_riot_treasury|令 度 支 使 自 府 库 支 应 
+mno_dplmc_pay_riot_cash|自 解 私 囊 
+mno_dplmc_back|改 弦 更 张 ...
+menu_dplmc_notification_riot|{s1}乡 民 揭 竿 作 乱 ! 麾 下 忠 勇 多 遭 屠 戮 , 余 者 皆 从 乱 党 . 
+menu_dplmc_notification_appoint_chamberlain|既 领 封 邑 , 当 立 度 支 使 驻 节 幕 府 , 岁 俸 十 五 文 钱 . 其 司 掌 税 赋 征 调 、 俸 禄 支 给 、 庄 园 经 营 , 兼 理 邦 国 钱 粮 往 来 , 广 开 交 涉 之 门 . 
+mno_dplmc_appoint_default|擢 本 地 著 姓 子 弟 
+menu_dplmc_chamberlain_confirm|度 支 使 常 驻 幕 府 . 凡 钱 粮 调 度 、 大 额 收 支 , 皆 可 咨 问 . 须 常 备 资 财 以 应 国 事 . 
+menu_dplmc_notification_appoint_constable|作 为 封 地 领 主 , 您 现 在 可 以 任 命 一 名 都 头 , 该 武 官 将 常 驻 幕 府 并 领 取 每 周 15文 钱 的 俸 禄 . 他 将 负 责 募 兵 并 提 供 军 队 情 报 . 
+menu_dplmc_constable_confirm|都 头 已 在 幕 府 就 职 . 如 需 募 兵 或 获 取 军 队 详 细 信 息 , 请 随 时 咨 询 . 
+menu_dplmc_notification_appoint_chancellor|作 为 封 地 领 主 , 您 现 在 可 以 任 命 一 名 掌 书 记 , 该 文 官 将 常 驻 幕 府 并 领 取 每 周 20文 钱 的 俸 禄 . 他 将 掌 管 印 信 并 负 责 与 其 他 要 员 的 文 书 往 来 . 
+menu_dplmc_chancellor_confirm|掌 书 记 已 在 幕 府 就 职 . 如 需 传 递 文 书 或 馈 赠 礼 品 , 请 随 时 咨 询 . 
+menu_dplmc_deserters|部 分 士 卒 因 怀 疑 粮 饷 不 继 而 逃 亡 . 总 计 损 失:{s11}名 士 兵 . 
+menu_dplmc_negotiate_besieger|您 执 白 幡 登 城 示 和 , 少 顷 {s11}军 遣 使 前 来 . 对 方 要 求 割 让 {s6}全 境 及 附 属 村 落 , 并 索 要 {reg0}文 钱 作 为 放 行 费 . 
+mno_dplmc_comply_treasury|允 诺 条 件 , 着 度 支 官 从 府 库 拨 款 . 
+mno_dplmc_comply|允 诺 条 件 , 立 即 支 付 现 钱 . 
+mno_dplmc_break_off|中 断 和 谈 . 
+menu_dplmc_messenger|主 公 , 臣 已 寻 得 {s10}并 传 达 钧 旨 . 其 回 复 为:{s11}. 
+menu_dplmc_scout|细 作 自 {s10}归 来 禀 报:{s11}{s12}
+menu_dplmc_domestic_policy|现 可 调 整 幕 府 治 政 方 略 . 是 否 立 即 更 张 ? 
+mno_dplmc_yes|准 , 即 刻 调 整 治 政 方 略 . 
+mno_dplmc_no|否 , 维 持 现 行 方 略 . 
+menu_dplmc_preferences|外 交 策 略 4.2 [  显 德 七 年 十 一 月 廿 七  ]  {s0}
+mno_dplmc_disable_horse_speed|停 用 幕 府 策 论 之 马 匹 疾 驰 . 
+mno_dplmc_enable_horse_speed|启 用 幕 府 策 论 之 马 匹 疾 驰 . 
+mno_dplmc_disable_terrain_advantage|停 用 战 阵 推 演 之 地 利 优 势  [  当 前 已 启 用  ]  . 
+mno_dplmc_enable_terrain_advantage|启 用 战 阵 推 演 之 地 利 优 势  [  当 前 已 停 用  ]  . 
+mno_dplmc_reset_terrain_advantage|检 测 到 异 源 存 档:幕 府 地 利 参 数 ={reg0} [  点 击 重 置  ]  
+mno_dplmc_toggle_lord_recycling_a|启 用 藩 镇 流 亡 复 归  [  当 前 停 用  ]  
+mno_dplmc_toggle_lord_recycling_b|停 用 藩 镇 流 亡 复 归  [  当 前 启 用  ]  
+mno_dplmc_toggle_lord_recycling_reset|检 测 到 异 源 存 档:幕 府 流 亡 参 数 ={reg0} [  点 击 重 置  ]  
+mno_dplmc_toggle_ai_changes_a|启 用 幕 府 智 略  [  当 前 停 用  ]  
+mno_dplmc_toggle_ai_changes_b|提 升 幕 府 智 略 层 级  [  当 前 初 级  ]  
+mno_dplmc_toggle_ai_changes_c|再 提 幕 府 智 略 层 级  [  当 前 中 级  ]  
+mno_dplmc_toggle_ai_changes_d|停 用 幕 府 智 略  [  当 前 高 阶 /试 验  ]  
+mno_dplmc_reset_ai_changes|检 测 到 异 源 存 档:幕 府 智 略 参 数 ={reg0} [  点 击 重 置  ]  
+mno_dplmc_toggle_gold_changes_a|设 钱 粮 政 令 为 初 级  [  当 前 停 用  ]  
+mno_dplmc_toggle_gold_changes_b|设 钱 粮 政 令 为 中 级  [  当 前 初 级  ]  
+mno_dplmc_toggle_gold_changes_c|设 钱 粮 政 令 为 高 阶 /试 验  [  当 前 中 级  ]  
+mno_dplmc_toggle_gold_changes_d|停 用 钱 粮 政 令  [  当 前 高 阶 /试 验  ]  
+mno_dplmc_reset_gold_changes|检 测 到 异 源 存 档:幕 府 钱 粮 参 数 ={reg0} [  点 击 重 置  ]  
+mno_dplmc_switch_woman_prejudice_1|调 整 性 别 偏 见  [  当 前 默 认  ]  
+mno_dplmc_switch_woman_prejudice_2|调 整 性 别 偏 见  [  当 前 关 闭  ]  
+mno_dplmc_switch_woman_prejudice_3|调 整 性 别 偏 见  [  当 前 强 化  ]  
+menu_dplmc_affiliated_family_report|{s0}
+menu_dplmc_start_select_prejudice|本 朝 虽 礼 法 尚 存 , 然 女 子 涉 足 军 政 常 遭 非 议 . 虽 则 巾 帼 亦 有 专 擅 之 途 , 然 诸 多 男 儿 专 属 之 权 仍 受 限 . 若 觉 此 等 世 风 有 碍 , 可 选 "华 夏 同 风 "以 淡 化 性 别 偏 见 . ^^日 后 可 通 过 幕 府 策 论 随 时 调 整 . 
+mno_dplmc_start_prejudice_yes|愿 遵 本 朝 礼 法 . 
+mno_dplmc_start_prejudice_no|愿 从 华 夏 同 风 . 
+menu_dplmc_economic_report|{s0}
+menu_ruined_location|您 抵 达 {s10}废 址 . 
+menu_temple_location|您 来 至 {s11}附 近 的 {s10}寺 观 . 
+menu_choose_race|选 择 您 角 色 的 族 属 渊 源 . 
+mno_start_bai|{s0}
+mno_start_han|{s0}
+mno_start_khitan|{s0}
+mno_start_korean|{s0}
+mno_start_shatuo|{s0}
+mno_start_tangut|{s0}
+mno_start_viet|{s0}
+menu_set_sail|{s1}是 否 扬 帆 起 航 ? 
+mno_choice_1|航 向 {s10} [  需 {reg5}文 钱  ]  
+mno_choice_2|航 向 {s10} [  需 {reg5}文 钱  ]  
+mno_choice_3|航 向 {s10} [  需 {reg5}文 钱  ]  
+mno_choice_4|航 向 {s10} [  需 {reg5}文 钱  ]  
+mno_choice_5|航 向 {s10} [  需 {reg5}文 钱  ]  
+mno_cant_afford|资 斧 不 足 , 难 付 舟 资  [  需 {reg5}文 钱  ]  
+menu_enter_harbor|历 经 风 波 , 终 抵 {s10}港 埠 . {s1}
+mno_enter_town_menu|入 城 巡 视 . 
+menu_recruit_town_volunteers|{s18}
+menu_slave_hideout|发 现 流 民 巢 穴 , 如 何 处 置 ? 
+menu_world_map_soldier|您 现 为 {s6}麾 下 军 士 . 
+mno_join_commander_battle|随 主 将 列 阵 迎 敌 . 
+mno_enter_town|进 驻 屯 驻 城 邑 . 
+mno_commander|求 见 主 将 议 事 . 
+mno_revolt|举 兵 反 叛 主 将 ! 
+mno_revolt_disabled|时 机 未 至 , 且 待 良 机 . 
+mno_desert|弃 军 逃 亡 . 
+mno_regiment_destroyed|{s4}所 部 已 全 军 覆 没 . 
+mno_report|军 情 塘 报 
+mno_return_to_duty|返 回 行 伍 . 
+menu_commander_aud|通 传 后 , 主 将 {s6}出 帐 接 见 . 
+mno_reject_talk_lord|无 要 事 禀 告 . 
+menu_ask_revolt|确 定 要 举 兵 反 叛 ? 
+mno_confirm_revolt|然 , {s6}刚 愎 误 军 , 当 行 非 常 之 事 ! 
+mno_confirm_revolt_no_prisoners|然 , {s6}刚 愎 误 军 , 当 行 非 常 之 事 ! 
+mno_reject_revolt|末 将 誓 死 效 忠 {s6}. 
+menu_revolt|是 否 释 放 囚 徒 以 充 军 力 ? 
+mno_revolt_prisoners|可 , 非 常 之 时 当 用 非 常 之 法 . 
+mno_revolt_no_prisoners|不 可 , 恐 生 肘 腋 之 变 . 
+menu_ask_desert|确 定 要 弃 军 逃 亡 ? 
+mno_confirm_desert|然 , 此 非 久 留 之 地 . 
+mno_reject_desert|末 将 誓 死 不 叛 . 
+menu_desert|军 中 袍 泽 情 深 , 或 有 愿 追 随 者 . 
+mno_desert_party|尝 试 招 揽 旧 部 . 
+mno_desert_alone|孤 身 潜 行 更 利 隐 匿 . 
+menu_upgrade_path|主 将 因 您 战 功 卓 著 , 拟 予 升 迁 . 
+mno_upgrade_path_1|{s66}{s0}. 
+mno_upgrade_path_2|{s67}{s0}. 
+mno_upgrade_wait|且 待 旬 日 再 议 . 
+menu_china_temple|{s3}
+mno_town_choice_1|入 寺 参 拜 . 
+menu_quest_messenger|驿 卒 飞 马 至 , 勒 缰 宣 令:^^"奉 {s4}钧 旨 , 急 召 阁 下 议 事 . "^^言 毕 策 马 绝 尘 而 去 . 
+mno_choice_01mess_1|继 续 行 程 

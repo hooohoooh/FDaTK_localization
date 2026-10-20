@@ -1,0 +1,95 @@
+
+qst_deliver_message|送 信 给 {s13}
+qst_deliver_message_to_enemy_lord|送 信 给 {s13}
+qst_raise_troops|征 募 {reg1}名 {s14}
+qst_escort_lady|护 送 {s13}至 {s14}
+qst_deal_with_bandits_at_lords_village|从 强 盗 手 中 解 救 {s15}村 
+qst_collect_taxes|向 {s3}征 收 税 赋 
+qst_capture_center|夺 取 {s6}
+qst_capture_center_text|{s9}命 你 攻 占 {s6}
+qst_hunt_down_fugitive|追 捕 逃 犯 {s4}
+qst_kill_local_merchant|刺 杀 {s3}本 地 行 商 
+qst_bring_back_runaway_serfs|追 回 逃 亡 庄 户 
+qst_follow_spy|跟 踪 细 作 至 会 面 地 点 
+qst_capture_enemy_hero|擒 获 {s13}的 领 主 
+qst_lend_companion|将 麾 下 {s3}借 调 给 {s9}
+qst_collect_debt|追 讨 {s3}欠 {s9}的 债 务 
+qst_kill_eunuch|除 去 阉 宦 
+qst_blank_quest_4|剿 灭 逃 卒 团 伙 
+qst_incriminate_loyal_commander|构 陷 {s13}的 忠 勇 都 指 挥 使 {s16}
+qst_meet_spy_in_enemy_town|在 {s13}与 细 作 接 头 
+qst_capture_prisoners|擒 获 {reg1}名 {s3}战 俘 
+qst_lend_surgeon|将 随 军 郎 中 {s3}借 调 给 {s1}
+qst_follow_army|跟 随 {s9}的 军 伍 
+qst_report_to_army|向 军 师 {s13}复 命 
+qst_deliver_cattle_to_army|向 {s13}运 送 {reg3}头 耕 牛 
+qst_join_siege_with_army|参 与 围 攻 {s14}
+qst_screen_army|为 {s13}大 军 担 任 前 哨 
+qst_scout_waypoints|侦 察 {s13}、 {s14}与 {s15}
+qst_rescue_lord_by_replace|从 {s14}手 中 搭 救 {s13}
+qst_deliver_message_to_prisoner_lord|往 {s14}送 信 给 囚 禁 中 的 {s13}
+qst_duel_for_lady|向 {s13}发 出 比 武 决 斗 
+qst_duel_courtship_rival|向 {s13}发 出 比 武 决 斗 （ 可 选 ） 
+qst_duel_avenge_insult|向 {s13}发 出 比 武 决 斗 
+qst_move_cattle_herd|驱 赶 牛 群 至 {s13}
+qst_escort_merchant_caravan|护 送 商 队 骡 马 队 至 {s8}
+qst_deliver_wine|运 送 {reg5}坛 {s6}至 {s4}
+qst_troublesome_bandits|剿 除 流 窜 贼 寇 
+qst_kidnapped_girl|从 贼 人 手 中 赎 取 女 眷 
+qst_persuade_lords_to_make_peace|说 服 两 镇 节 帅 罢 兵 言 和 
+qst_deal_with_looters|平 定 庄 户 作 乱 
+qst_deal_with_night_bandits|清 剿 夜 盗 团 伙 
+qst_deliver_grain|运 送 糙 米 至 {s3}
+qst_blank_quest_7|追 回 逃 亡 奴 婢 交 还 {s3}
+qst_blank_quest_7_text|{s3}的 {s9}命 你 追 回 逃 亡 奴 婢 
+qst_bring_tools|运 送 农 具 至 {s3}
+qst_deliver_cattle|运 送 {reg5}头 耕 牛 至 {s3}
+qst_kill_slavers|保 护 {s3}免 遭 人 牙 子 掳 掠 
+qst_train_peasants_against_bandits|操 练 {s13}庄 户 御 贼 
+qst_eliminate_bandits_infesting_village|从 劫 掠 马 匪 手 中 解 救 {s7}村 
+qst_visit_lady|拜 谒 贵 眷 
+qst_formal_marriage_proposal|正 式 纳 采 问 名 
+qst_obtain_liege_blessing|正 式 纳 采 问 名 
+qst_wed_betrothed|迎 娶 聘 定 之 妇 
+qst_wed_betrothed_female|出 嫁 聘 定 之 身 
+qst_join_faction|向 {s1}宣 誓 效 忠 
+qst_rebel_against_kingdom|助 {s13}问 鼎 {s14}大 位 
+qst_consult_with_minister|咨 议 军 机 
+qst_organize_feast|筹 办 筵 席 
+qst_resolve_dispute|调 解 纷 争 
+qst_offer_gift|备 办 贽 见 礼 
+qst_denounce_lord|弹 劾 节 帅 
+qst_intrigue_against_lord|构 陷 节 帅 
+qst_track_down_bandits|追 剿 流 寇 
+qst_track_down_provocateurs|追 查 寻 衅 之 徒 
+qst_retaliate_for_border_incident|报 复 边 境 冲 突 
+qst_raid_caravan_to_start_war|劫 掠 中 立 商 队 以 启 边 衅 
+qst_cause_provocation|制 造 开 兵 衅 端 
+qst_rescue_prisoner|搭 救 或 赎 取 战 俘 
+qst_destroy_bandit_lair|捣 毁 贼 巢 
+qst_blank_quest_18|送 信 给 {s3}
+qst_blank_quest_18_text|{s11}托 你 带 口 信 给 {s3}
+qst_blank_quest_16|将 {s17}送 至 {s11}
+qst_blank_quest_16_text|{s11}嘱 你 送 来 {s17}
+qst_win_tournament|在 {s17}夺 擂 取 胜 
+qst_win_tournament_text|{s11}要 你 在 {s17}擂 台 夺 魁 
+qst_collect_men|募 集 六 名 壮 丁 
+qst_learn_where_merchant_brother_is|探 查 肉 票 拘 押 之 所 
+qst_save_relative_of_merchant|突 袭 {s7}
+qst_save_town_from_bandits|解 救 遭 贼 困 的 镇 集 
+qst_bring_tax_money|上 缴 征 得 税 赋 
+qst_bring_debt_money|上 缴 追 回 债 务 
+qst_courier_job|送 书 信 至 {s10}
+qst_courier_job_text|{s4}的 {s9}托 你 将 书 信 送 至 {s5}的 {s10}
+qst_destroy_china_temple|惩 处 不 法 僧 众 
+qst_help_china_temple|往 寺 院 参 拜 
+qst_help_china_temple2|搭 救 受 困 僧 人 
+qst_talk_to_king|面 谒 {s9}
+qst_tavern_meeting|在 {s4}酒 肆 会 见 {s9}
+qst_tavern_meeting_text|{s9}约 你 在 {s4}酒 肆 相 会 
+qst_freelancer_enlisted|效 力 于 {s13}牙 军 
+qst_freelancer_vacation|牙 兵 ： 告 假 还 乡 
+qst_freelancer_captured|牙 兵 ： 身 陷 囹 圄 
+qst_freelancer_revolt|牙 兵 ： 举 兵 反 叛 
+qst_freelancer_end|义 从 差 遣 终 结 
+qst_quests_end|差 遣 事 务 终 结 

@@ -23,10 +23,10 @@ str_hold_fire|偃 旗 息 鼓
 str_blunt_hold_fire|钝 器 /止 戈 
 str_tutorial_ammo_refilled|矢 石 已 足 . 
 str_tutorial_failed|此 番 虽 败 , 且 记 用 兵 之 法 . 按 Tab键 重 归 幕 府 , 可 再 整 军 马 . 
-str_finished| [  结 束 ]  
+str_finished|[结 束 ]
 str_delivered_damage|造 成 {reg60}杀 伐 . 
 str_archery_target_hit|距 {reg61}步 , 中 鹄 {reg60}. 
-str_use_baggage_for_inventory|辎 重 车 可 存 取 兵 甲 [  位 于 本 阵 ]  . 
+str_use_baggage_for_inventory|辎 重 车 可 存 取 兵 甲 [位 于 本 阵 ]. 
 str_cant_use_inventory_now|此 刻 不 得 开 箱 . 
 str_cant_use_inventory_arena|校 场 不 得 开 箱 . 
 str_cant_use_inventory_disguised|乔 装 时 不 得 开 箱 . 
@@ -858,7 +858,7 @@ str_npc7_kingsupport_2|自 当 效 命 . 为 君 者 当 保 境 安 民 , 使 �
 str_npc8_kingsupport_2|某 可 从 命 , 但 有 一 请 : 将 军 称 帝 后 , 某 要 自 领 封 邑 . 若 与 他 领 主 有 争 , 当 依 古 法 持 兵 相 见 , 胜 者 即 得 天 道 . 
 str_npc9_kingsupport_2|此 事 易 尔 . 当 务 之 急 是 昭 告 诸 侯 恢 复 旧 制 . 如 今 中 原 权 属 混 乱 — — 封 君 有 地 而 山 林 归 王 室 , 城 关 可 课 市 税 , 平 民 逢 单 周 周 二 可 用 牧 场 , 唯 {s54} 例 外 , 以 周 三 为 准 . 宜 仿 周 制 : 天 子 治 下 , 诸 侯 效 命 , 士 农 工 商 各 安 其 分 . 
 str_npc10_kingsupport_2|谨 遵 钧 旨 . 然 请 陛 下 开 先 例 : 凡 庶 民 蒙 冤 , 皆 可 直 诉 天 听 . 当 世 诸 侯 擅 专 刑 狱 , 此 等 特 权 当 惠 及 万 民 . 
-str_npc11_kingsupport_2|此 乃 天 命 所 归 ! 且 看 将 军 掌 纹 — — 这 「 受 命 于 天 」 的 印 记 , {s54}故 老 相 传 乃 真 龙 之 相 ! 某 尚 记 得 谶 纬 有 云 ... [  捻 须 沉 吟 ]  
+str_npc11_kingsupport_2|此 乃 天 命 所 归 ! 且 看 将 军 掌 纹 — — 这 「 受 命 于 天 」 的 印 记 , {s54}故 老 相 传 乃 真 龙 之 相 ! 某 尚 记 得 谶 纬 有 云 ... [捻 须 沉 吟 ]
 str_npc12_kingsupport_2|华 夷 之 辨 , 首 重 礼 法 . 虽 今 人 鲜 通 古 文 , 然 婚 丧 嫁 娶 皆 循 汉 仪 , 贩 夫 走 卒 亦 守 旧 制 . 将 军 欲 正 大 位 , 当 依 前 朝 典 章 行 登 基 大 礼 . 
 str_npc13_kingsupport_2|某 这 就 为 将 军 谱 写 长 赋 . 想 那 汉 高 祖 《 大 风 歌 》 , 项 王 《 垓 下 歌 》 , 俱 成 帝 王 气 象 . 待 某 将 将 军 破 阵 杀 敌 、 开 仓 济 民 的 事 迹 编 成 鼓 词 , 传 唱 九 州 , 何 愁 民 心 不 附 ? 
 str_npc14_kingsupport_2|将 军 明 鉴 . 某 以 为 您 真 能 一 统 山 河 , 届 时 咱 们 就 能 拉 起 中 原 数 代 未 见 的 雄 师 , 翻 过 太 行 山 收 复 汉 家 故 土 , 让 那 些 胡 马 再 不 敢 度 阴 山 . 
@@ -1458,7 +1458,7 @@ str_credits_8|配 音 : ^塔 西 洛 - 埃 格 洛 夫 斯 坦
 str_credits_9|本 游 戏 获 土 耳 其 科 学 技 术 研 究 理 事 会 支 持 . ^^新 手 教 程 撰 写 : ^史 蒂 夫 - 尼 格 斯 ^阿 尔 玛 甘 - 雅 武 兹 ^爱 德 华 - 斯 波 尔 ^^马 匹 动 作 捕 捉 : ^理 查 德 - 威 杰 里 与 动 能 脉 冲 公 司 ^^物 理 引 擎 : ^Havok^^音 效 库 : ^Firelight科 技 FMODex系 统 ^^天 空 盒 贴 图 : ^杰 - 韦 斯 顿 ^^汉 化 : ^河 套 义 从 ； 高 大 太 郎 ； 静 妒 ； 银 ； 陨 落 十 三 ； 詹 公 ； D.枫 ； 阚 二 ； 阿 历 克 斯 杨 ； 木 易 男 孩 ^^社 区 主 管 : ^阿 里 - 埃 尔 金 ^^论 坛 程 序 : ^布 雷 特 - 弗 兰 尼 根 ^^论 坛 管 理 : ^雅 努 斯 等 ^^特 别 鸣 谢 : ^托 比 - 李 等 众 多 玩 家 
 str_credits_10|发 行 方 : ^Paradox Interactive^^总 裁 : ^西 奥 多 - 伯 格 奎 斯 特 ^^执 行 副 总 裁 : ^弗 雷 德 里 克 - 韦 斯 特 
 str_credits_11|品 牌 设 计 : ^杰 森 - 布 朗 ^^封 面 画 师 : ^彼 得 - 福 克 斯 - 维 索 茨 基 ^^本 地 化 : ^S&H娱 乐 本 地 化 团 队 
-str_credits_12|全 球 合 作 伙 伴 鸣 谢 : ^科 赫 传 媒 [  德 英 ]  ^蓝 标 [  意 法 ]  ^友 商 [  西 ]  等 
+str_credits_12|全 球 合 作 伙 伴 鸣 谢 : ^科 赫 传 媒 [德 英 ]^蓝 标 [意 法 ]^友 商 [西 ]等 
 str_multi_scene_1|废 墟 战 场 
 str_multi_scene_2|乡 野 村 落 
 str_multi_scene_3|黑 石 寨 
@@ -1477,10 +1477,10 @@ str_multi_scene_19|马 达 尔 戍 堡
 str_multi_scene_20|贾 米 耶 德 寨 
 str_multi_scene_21|演 武 场 
 str_multi_scene_22|林 间 秘 径 
-str_multi_scene_12|随 机 平 原 [  中 ]  
-str_multi_scene_13|随 机 平 原 [  大 ]  
-str_multi_scene_14|随 机 草 原 [  中 ]  
-str_multi_scene_15|随 机 草 原 [  大 ]  
+str_multi_scene_12|随 机 平 原 [中 ]
+str_multi_scene_13|随 机 平 原 [大 ]
+str_multi_scene_14|随 机 草 原 [中 ]
+str_multi_scene_15|随 机 草 原 [大 ]
 str_multi_scene_end|多 人 场 景 终 
 str_multi_game_type_1|生 死 斗 
 str_multi_game_type_2|阵 营 死 斗 
@@ -1501,7 +1501,7 @@ str_poll_ban_player|是 否 封 禁 {s0}? 1=准 2=否
 str_poll_change_map|是 否 更 换 {s0}地 图 ? 1=准 2=否 
 str_poll_change_map_with_faction|公 议 将 战 场 改 为 {s0}、 对 阵 藩 镇 改 为 {s1}对 {s2} : 1=准 议 , 2=驳 回 
 str_poll_change_number_of_bots|公 议 更 卒 员 数 : {s0}镇 {reg0}卒 , {s1}镇 {reg1}卒 : 1=准 议 , 2=驳 回 
-str_poll_time_left| [  尚 余 {reg0}息 ]  
+str_poll_time_left| [尚 余 {reg0}息 ]
 str_poll_result_yes|公 议 已 成 , 众 望 所 归 . 
 str_poll_result_no|公 议 未 准 , 众 意 不 从 . 
 str_total_item_cost_reg0|总 计 花 费 : {reg0}文 钱 
@@ -1512,20 +1512,20 @@ str_game_type|演 武 规 制 :
 str_max_number_of_players|从 征 健 儿 限 额 : 
 str_number_of_bots_in_team_reg1|{reg1}镇 兵 卒 员 数 : 
 str_team_reg1_faction|{reg1}镇 藩 属 : 
-str_enable_valve_anti_cheat|启 用 漕 司 稽 查 [  需 漕 运 文 牒 ]  
+str_enable_valve_anti_cheat|启 用 漕 司 稽 查 [需 漕 运 文 牒 ]
 str_allow_friendly_fire|允 弓 弩 误 伤 同 袍 
 str_allow_melee_friendly_fire|允 白 刃 误 伤 同 袍 
-str_friendly_fire_damage_self_ratio|误 伤 己 损 [  百 中 取 几 ]  : 
-str_friendly_fire_damage_friend_ratio|误 伤 同 袍 损 [  百 中 取 几 ]  : 
+str_friendly_fire_damage_self_ratio|误 伤 己 损 [百 中 取 几 ]: 
+str_friendly_fire_damage_friend_ratio|误 伤 同 袍 损 [百 中 取 几 ]: 
 str_spectator_camera|观 战 视 角 : 
 str_control_block_direction|架 式 守 御 : 
-str_map_time_limit|沙 盘 时 限 [  刻 ]  : 
-str_round_time_limit|回 合 时 限 [  息 ]  : 
+str_map_time_limit|沙 盘 时 限 [刻 ]: 
+str_round_time_limit|回 合 时 限 [息 ]: 
 str_players_take_control_of_a_bot_after_death|阵 亡 继 领 兵 卒 : 
 str_team_points_limit|军 功 限 额 : 
-str_point_gained_from_flags|夺 纛 建 功 [  百 中 取 几 ]  : 
+str_point_gained_from_flags|夺 纛 建 功 [百 中 取 几 ]: 
 str_point_gained_from_capturing_flag|夺 纛 功 值 : 
-str_respawn_period|重 生 时 辰 [  息 ]  : 
+str_respawn_period|重 生 时 辰 [息 ]: 
 str_add_to_official_game_servers_list|列 名 官 颁 演 武 场 
 str_combat_speed|交 锋 疾 缓 : 
 str_combat_speed_0|龟 行 
@@ -1548,19 +1548,19 @@ str_make_kick_voteable|允 逐 客 公 议
 str_make_ban_voteable|允 禁 入 公 议 
 str_bots_upper_limit_for_votes|兵 卒 公 议 限 额 : 
 str_make_maps_voteable|允 更 易 沙 盘 公 议 
-str_valid_vote_ratio|公 议 准 成 [  百 中 取 几 ]  : 
+str_valid_vote_ratio|公 议 准 成 [百 中 取 几 ]: 
 str_auto_team_balance_limit|自 均 兵 员 差 限 : 
 str_welcome_message|迎 宾 辞 : 
-str_initial_gold_multiplier|初 赐 钱 粮 [  百 中 取 几 ]  : 
-str_battle_earnings_multiplier|斩 获 钱 粮 [  百 中 取 几 ]  : 
-str_round_earnings_multiplier|回 合 钱 粮 [  百 中 取 几 ]  : 
+str_initial_gold_multiplier|初 赐 钱 粮 [百 中 取 几 ]: 
+str_battle_earnings_multiplier|斩 获 钱 粮 [百 中 取 几 ]: 
+str_round_earnings_multiplier|回 合 钱 粮 [百 中 取 几 ]: 
 str_allow_player_banners|允 立 私 帜 
 str_force_default_armor|限 着 轻 甲 
 str_respawning_in_reg0_seconds|{reg0}息 后 更 生 ...
 str_no_more_respawns_remained_this_round|今 回 合 更 生 数 尽 
-str_reg0_respawns_remained| [  尚 余 {reg0}次 更 生 ]  
-str_this_is_your_last_respawn| [  此 乃 末 次 更 生 ]  
-str_wait_next_round| [  静 候 下 回 合 ]  
+str_reg0_respawns_remained| [尚 余 {reg0}次 更 生 ]
+str_this_is_your_last_respawn| [此 乃 末 次 更 生 ]
+str_wait_next_round| [静 候 下 回 合 ]
 str_yes_wo_dot|诺 
 str_no_wo_dot|否 
 str_we_resign|某 等 力 竭 , 愿 降 于 {playername}麾 下 . 
@@ -1596,13 +1596,13 @@ str_deaths|阵 殁
 str_ping|驿 传 
 str_dead|殁 
 str_reg0_dead|{reg0}殁 
-str_bots_reg0_agents|兵 卒 [  {reg0}员 ]  
-str_bot_1_agent|兵 卒 [  1员 ]  
+str_bots_reg0_agents|兵 卒 [{reg0}员 ]
+str_bot_1_agent|兵 卒 [1员 ]
 str_score_b|军 功 
 str_score_reg0|军 功 : {reg0}
-str_flags_reg0| [  旌 旗 {reg0}面 ]  
-str_reg0_players| [  {reg0}健 儿 ]  
-str_reg0_player| [  {reg0}健 儿 ]  
+str_flags_reg0| [旌 旗 {reg0}面 ]
+str_reg0_players| [{reg0}健 儿 ]
+str_reg0_player| [{reg0}健 儿 ]
 str_open_gate|启 闸 
 str_close_gate|闭 闸 
 str_open_door|启 扉 
@@ -1695,8 +1695,8 @@ str_system_error|节 镇 仪 轨 错 乱 !
 str_prisoner_granted_parole|战 俘 已 准 赎 身 
 str_prisoner_not_offered_parole|战 俘 未 得 赎 契 
 str__age_reg1_family_|^宗 亲 : 
-str_s49_s12_s11_rel_reg0|{s49}{s12} [  {s11}, 亲 缘 {reg0} ]  
-str_s49_s12_s11|{s49}{s12} [  {s11} ]  
+str_s49_s12_s11_rel_reg0|{s49}{s12} [{s11}, 亲 缘 {reg0} ]
+str_s49_s12_s11|{s49}{s12} [{s11} ]
 str_lord_info_string|{reg6?其 乃 {s56} 之 主 . : 其 乃 {s55} 之 臣 .}威 名 : {reg5} 荣 誉 : {reg15} {reg3?此 女 :此 君 }乃 {s20}. {reg9?{reg3?此 女 坐 镇 :此 君 执 掌 }{s58}. : 尚 无 封 邑 .}{s59}^{s49}
 str_foreign_relations__|藩 镇 交 聘 : ^
 str_s21__the_s5_is_at_war_with_the_s14|{s21}^* {s5}藩 镇 正 与 {s14}交 兵 
@@ -1864,8 +1864,8 @@ str_s2s_rebellion|{s2}之 乱
 str_political_suggestion|政 情 简 报 
 str_instability_reg0_of_lords_are_disgruntled_reg1_are_restless|局 势 不 稳 : {reg0}%将 校 心 怀 怨 怼 , {reg1}%躁 动 不 安 
 str_reg1shehe_is_prisoner_of_s1|{reg1?她 :他 }正 被 {s1}羁 押 . 
-str_s39_rival|{s39} [  敌 邦 ]  
-str_s41_s39_rival|{s41}, {s39} [  敌 邦 ]  
+str_s39_rival|{s39} [敌 邦 ]
+str_s41_s39_rival|{s41}, {s39} [敌 邦 ]
 str_love_interest|红 鸾 星 动 
 str_betrothed|已 下 聘 
 str_other_relations_s40_|其 他 亲 眷 : {s40}^
@@ -2114,7 +2114,7 @@ str_s12s15_feels_that_reg4shehe_is_winning_the_war_against_s16_and_sees_no_reaso
 str_s12s15_faces_too_much_internal_discontent_to_feel_comfortable_ignoring_recent_provocations_by_s16s_subjects|{s12}{s15}内 患 频 仍 , 难 容 {s16}部 属 屡 犯 疆 界 . 
 str_s12even_though_reg4shehe_is_fighting_on_two_fronts_s15_is_inclined_to_continue_the_war_against_s16_for_a_little_while_longer_for_the_sake_of_honor|{s12}虽 两 线 用 兵 , {s15}仍 欲 续 战 {s16}以 全 颜 面 . 
 str_s12s15_feels_that_reg4shehe_must_pursue_the_war_against_s16_for_a_little_while_longer_for_the_sake_of_honor|{s12}{s15}以 为 当 续 战 {s16}以 彰 威 仪 . 
-str_s12s15_is_currently_on_the_offensive_against_s17_now_held_by_s16_and_reluctant_to_negotiate|{s12}{s15}正 攻 {s17} [  今 属 {s16} ]  , 不 欲 议 和 . 
+str_s12s15_is_currently_on_the_offensive_against_s17_now_held_by_s16_and_reluctant_to_negotiate|{s12}{s15}正 攻 {s17} [今 属 {s16} ], 不 欲 议 和 . 
 str_s12s15_is_alarmed_by_the_growing_power_of_s16|{s12}{s15}惊 觉 {s16}坐 大 . 
 str_s12s15_distrusts_s16_and_fears_that_any_deals_struck_between_the_two_realms_will_not_be_kept|{s12}{s15}疑 {s16}无 信 , 恐 盟 约 难 守 . 
 str_s12s15_is_at_war_on_too_many_fronts_and_eager_to_make_peace_with_s16|{s12}{s15}多 线 鏖 战 , 亟 欲 与 {s16}媾 和 . 
@@ -2198,15 +2198,15 @@ str_may_find_that_you_are_able_to_take_your_place_among_calradias_great_lords_re
 str_may_face_some_difficulties_establishing_yourself_as_an_equal_among_calradias_great_lords|恐 难 与 中 原 诸 侯 平 起 平 坐 
 str_may_face_great_difficulties_establishing_yourself_as_an_equal_among_calradias_great_lords|欲 跻 身 诸 侯 之 列 恐 非 易 事 
 str_current_party_morale_is_reg5_current_party_morale_modifiers_are__base_morale__50_party_size_s2reg1_leadership_s3reg2_food_variety_s4reg3s5s6_recent_events_s7reg4_total__reg5___|当 前 部 曲 士 气 : {reg5}^士 气 影 响 因 素 分 解 : ^^基 准 士 气 : +{reg6}^部 曲 规 模 : {s2}{reg1}^统 御 之 术 : {s3}{reg2}^饮 食 丰 俭 : {s4}{reg3}{s5}{s6}^时 局 变 动 : {s7}{reg4}^总 计 : {reg5}^^^
-str_s1extra_morale_for_s9_troops__reg6_|{s1}特 殊 士 气 加 成 [  {s9}部 曲 ]  : {reg6}^
+str_s1extra_morale_for_s9_troops__reg6_|{s1}特 殊 士 气 加 成 [{s9}部 曲 ]: {reg6}^
 str_courtships_in_progress_|姻 缘 簿 现 存 : ^
 str_s1_s2_relation_reg3_last_visit_reg4_days_ago|{s1}^{s2}, 亲 疏 {reg3}, 前 次 拜 谒 距 今 {reg4}日 
 str_s1__poems_known|{s1}^^谙 熟 诗 赋 : 
-str_s1_storming_the_castle_of_love_allegoric|{s1}^《 情 关 赋 》 [  喻 世 ]  
-str_s1_kais_and_layali_tragic|{s1}^《 童 蔡 怨 》 [  悲 情 ]  
-str_s1_a_conversation_in_the_garden_comic|{s1}^《 芳 园 记 》 [  谐 趣 ]  
-str_s1_helgered_and_kara_epic|{s1}^《 萨 严 传 》 [  雄 奇 ]  
-str_s1_a_hearts_desire_mystic|{s1}^《 心 经 》 [  玄 妙 ]  
+str_s1_storming_the_castle_of_love_allegoric|{s1}^《 情 关 赋 》 [喻 世 ]
+str_s1_kais_and_layali_tragic|{s1}^《 童 蔡 怨 》 [悲 情 ]
+str_s1_a_conversation_in_the_garden_comic|{s1}^《 芳 园 记 》 [谐 趣 ]
+str_s1_helgered_and_kara_epic|{s1}^《 萨 严 传 》 [雄 奇 ]
+str_s1_a_hearts_desire_mystic|{s1}^《 心 经 》 [玄 妙 ]
 str_no_companions_in_service|暂 无 门 客 效 力 
 str_gathering_support|正 在 延 揽 豪 杰 
 str_expected_back_imminently|不 日 即 返 
@@ -2296,9 +2296,9 @@ str_our_men_are_ready_to_ride_forth_at_your_bidding_are_you_sure_this_is_what_yo
 str_seek_recognition|请 封 
 str_seek_vassalhood|求 附 
 str_seek_a_truce|乞 盟 
-str__promised_fief| [  许 诺 封 地 ]  
-str_no_fiefss12| [  无 封 邑 ]  {s12}
-str_fiefs_s0s12| [  食 邑 : {s0}处 ]  {s12}
+str__promised_fief| [许 诺 封 地 ]
+str_no_fiefss12| [无 封 邑 ]{s12}
+str_fiefs_s0s12| [食 邑 : {s0}处 ]{s12}
 str_please_s65_|伏 惟 {s65}钧 鉴 : 
 str__s15_is_also_being_held_here_and_you_may_wish_to_see_if_reg4shehe_will_join_us|另 有 {s15}羁 留 于 此 , 可 试 说 其 归 附 . 
 str_one_thing_in_our_favor_is_that_s12s_grip_is_very_shaky_he_rules_over_a_labyrinth_of_rivalries_and_grudges_lords_often_fail_to_cooperate_and_many_would_happily_seek_a_better_liege|幸 {s12}统 御 无 方 , 麾 下 将 校 各 怀 异 志 , 常 有 求 贤 若 渴 者 . 
@@ -2544,7 +2544,7 @@ str_do_you_wish_to_award_it_to_one_of_your_vassals|节 度 欲 将 此 封 予 �
 str_who_do_you_wish_to_give_it_to|节 度 欲 将 此 封 赐 何 人 ? 
 str_sire_my_lady_we_have_taken_s1_s2|{reg40?夫 人 :将 军 }, 我 军 已 克 {s1}. {s2}
 str_s12i_want_to_have_s1_for_myself|{s12}某 欲 自 领 {s1}. {s2}
-str_fiefs_s0| [  封 邑 : {s0} ]  
+str_fiefs_s0| [封 邑 : {s0} ]
 str_production_setting_buy_from_market|现 自 市 集 采 买 原 料 
 str_production_setting_buy_from_inventory|仅 用 府 库 现 存 原 料 
 str_production_setting_produce_to_inventory|所 产 皆 入 府 库 
@@ -2654,7 +2654,7 @@ str_s21_the_s8_declared_war_to_regain_lost_territory|{s21}{s8}为 收 复 失 �
 str__family_|^宗 族 : 
 str_we_are_conducting_recce|当 先 哨 探 周 遭 , 再 作 区 处 
 str__family_b|^宗 族 : 
-str_s49_s12_s11_end|{s49}{s12} [  {s11} ]  
+str_s49_s12_s11_end|{s49}{s12} [{s11} ]
 str_center_party_not_active|非 我 征 讨 之 的 , 盖 因 主 将 未 临 战 阵 
 str_center_is_friendly|非 我 仇 雠 
 str_center_is_already_besieged|已 遭 合 围 
@@ -2695,10 +2695,10 @@ str_tutorial_training_ground_warning_shield|当 先 卸 盾 , 滚 轮 下 拨 �
 str_tutorial_training_ground_warning_melee_with_parry|需 持 短 兵 操 演 
 str_tutorial_training_ground_warning_melee|滚 轮 上 拨 换 兵 , 下 拨 换 盾 
 str_tutorial_training_ground_attack_training|中 鹄 : {reg0}/5^失 的 : {reg1}^{s0}
-str_tutorial_training_ground_attack_training_down|下 劈 势 [  左 键 按 定 下 拉 ]  
-str_tutorial_training_ground_attack_training_up|上 挑 势 [  左 键 按 定 上 提 ]  
-str_tutorial_training_ground_attack_training_left|左 扫 势 [  左 键 按 定 左 移 ]  
-str_tutorial_training_ground_attack_training_right|右 扫 势 [  左 键 按 定 右 移 ]  
+str_tutorial_training_ground_attack_training_down|下 劈 势 [左 键 按 定 下 拉 ]
+str_tutorial_training_ground_attack_training_up|上 挑 势 [左 键 按 定 上 提 ]
+str_tutorial_training_ground_attack_training_left|左 扫 势 [左 键 按 定 左 移 ]
+str_tutorial_training_ground_attack_training_right|右 扫 势 [左 键 按 定 右 移 ]
 str_tutorial_training_ground_parry_training|格 挡 得 法 : {reg0}/5
 str_tutorial_training_ground_chamber_training|截 击 得 手 : {reg0}/5
 str_tutorial_training_ground_archer_training|中 的 : {reg0}/3^{s0}
@@ -2799,10 +2799,10 @@ str_greetings_playername__it_is_good_to_see_you_i_hope_that_you_have_had_success
 str_minister_advice_select_fief|诸 镇 皆 议 封 赏 之 事 , 宜 取 {s4}以 安 众 心 
 str_minister_advice_select_fief_wait|臣 建 议 主 公 先 擢 选 军 师 , 如 此 可 待 藩 镇 诸 侯 决 意 拥 戴 之 人 . 
 str_minister_advice_fief_leading_vassal|顺 禀 , {s4}已 得 {reg4}位 藩 镇 效 忠 . 
-str_unassigned_center| [  未 分 封 ]  
+str_unassigned_center| [未 分 封 ]
 str_s43_also_you_should_know_that_an_unprovoked_assault_is_declaration_of_war|{s43}再 者 , 主 公 既 承 天 命 , 当 知 无 故 兴 兵 即 属 宣 战 . 
 str_missing_after_battle|阵 亡 将 士 名 录 
-str_retrieve_garrison_warning| [  若 城 寨 转 授 他 人 则 戍 卒 或 不 可 召 还 ]  
+str_retrieve_garrison_warning| [若 城 寨 转 授 他 人 则 戍 卒 或 不 可 召 还 ]
 str_s12s15_declared_war_to_control_calradia|{s12}{s15}欲 廓 清 寰 宇 , 将 兵 临 {s16}不 宣 而 战 . 
 str_offer_gift_description|进 献 礼 品 以 提 升 声 望 . 
 str_resolve_dispute_description|调 解 纠 纷 以 增 益 威 望 . 
@@ -2838,7 +2838,7 @@ str_your_duel_with_s0_is_cancelled|与 {s0}之 约 战 已 撤 .
 str_a_duel_between_you_and_s0_will_start_in_3_seconds|与 {s0}之 较 技 三 息 后 开 场 . 
 str_you_have_lost_a_duel|主 公 此 番 较 技 落 败 . 
 str_you_have_won_a_duel|主 公 校 场 夺 魁 ! 
-str_server_s0|[驿 传 ] : {s0}
+str_server_s0|[驿 传 ]: {s0}
 str_disallow_ranged_weapons|禁 用 弓 弩 
 str_ranged_weapons_are_disallowed|禁 用 弓 弩 投 石 
 str_ranged_weapons_are_allowed|允 用 弓 弩 投 石 
@@ -2853,7 +2853,7 @@ str_dplmc_hero_not_upgrading_armor|不 更 甲 胄
 str_dplmc_hero_upgrading_armor|自 锻 甲 胄 
 str_dplmc_hero_not_upgrading_horse|不 换 坐 骑 
 str_dplmc_hero_upgrading_horse|自 饲 良 驹 
-str_dplmc_hero_wpn_slot_none|沿 用 旧 式 [  {s10} ]  
+str_dplmc_hero_wpn_slot_none|沿 用 旧 式 [{s10} ]
 str_dplmc_hero_wpn_slot_horse|乘 骑 
 str_dplmc_hero_wpn_slot_one_handed|单 手 兵 械 
 str_dplmc_hero_wpn_slot_two_handed|双 手 兵 械 

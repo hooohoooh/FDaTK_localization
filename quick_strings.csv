@@ -56,9 +56,9 @@ qstr_Experience:_{reg0}|阅 历 :{reg0}
 qstr_Days_Passed:_{reg0}|时 日 流 逝 :{reg0}
 qstr_Difficulty:_{reg0}%|艰 险 程 度 :{reg0}%
 qstr_TOTAL_SCORE:_{reg0}|总 评 :{reg0}
-qstr_{s0}__{s50}_|{s0} [  {s50} ]  
+qstr_{s0}__{s50}_|{s0} [{s50} ]
 qstr_None|无 
-qstr_{s55}__{reg0}%_|{s55} [  {reg0}% ]  
+qstr_{s55}__{reg0}%_|{s55} [{reg0}% ]
 qstr_{s55}|{s55}
 qstr_Staff:|幕 府 :
 qstr_You_paid_{reg0}_cash|你 偿 付 了 {reg0}文 钱 的 债 务 
@@ -123,9 +123,9 @@ qstr_Revengeful|誓 死 复 仇
 qstr_Vengeful|血 债 血 偿 
 qstr_{reg1}|{reg1}
 qstr_{s3}|{s3}
-qstr_{reg61}_{reg58?_{reg|{reg61}{reg58? [  {reg58}州 ]}中 心 
+qstr_{reg61}_{reg58?_{reg|{reg61}{reg58? [{reg58}州 ]}中 心 
 qstr_{reg62}_Caravans|{reg62}商 队 
-qstr_{reg60}_{reg59?_{reg|{reg60}{reg59? [  {reg59}王 ]}藩 镇 
+qstr_{reg60}_{reg59?_{reg|{reg60}{reg59? [{reg59}王 ]}藩 镇 
 qstr_How_will_your_male_v|男 性 封 臣 称 谓 设 定 :
 qstr_How_will_your_female|女 性 封 臣 称 谓 设 定 :
 qstr_Use_the_Titles_Enter|使 用 自 定 义 称 谓 
@@ -221,10 +221,10 @@ qstr_{s54}_is_a_claimant_t|{s54}乃 {s56}正 统 继 嗣 .
 qstr_nowhere|行 踪 不 明 
 qstr_{s57}_and_{s58}|{s57}并 {s58}
 qstr_{reg3?She:He}|{reg3?伊 :彼 }
-qstr_{s66}^{s67}_{s65}__{|{s66}^{s67}{s65} [  {reg7} ]  
+qstr_{s66}^{s67}_{s65}__{|{s66}^{s67}{s65} [{reg7} ]
 qstr_{s0}._^{reg3?She:He}|{s0}, 现 受 雇 于 {s21}藩 镇 
 qstr_The_town_of_{s50}|{s50}州 府 
-qstr_The_village_of_{s50}|{s50}村 邑 [  近 {s52} ]  
+qstr_The_village_of_{s50}|{s50}村 邑 [近 {s52} ]
 qstr_{s51}_belongs_to_{s1|{s51}隶 属 {s2}藩 镇 {s1}, 乃 阁 下 治 所 . 
 qstr_{s51}_belongs_to_{s1}|{s51}隶 属 {s2}藩 镇 {s1}, 乃 {reg0?其 女 :其 子 }治 所 . 
 qstr_{s51}_belongs_to_{s1}_|{s51}隶 属 {s2}藩 镇 {s1}, 乃 {reg0?其 女 :其 子 }居 所 . 
@@ -260,7 +260,7 @@ qstr_Accompany|随 行
 qstr_killed|阵 斩 
 qstr_wounded|负 伤 
 qstr_routed|溃 败 
-qstr_{s0}^TOTAL:_{reg3}__|{s0}^总 数 :{reg3} [  {s2} ]  
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^总 数 :{reg3} [{s2} ]
 qstr_^None|^无 
 qstr_nothing|空 无 一 物 
 qstr_Your_opponents_are_r|敌 军 已 列 阵 待 战 . 
@@ -275,9 +275,9 @@ qstr_{s5}_of_the_{s7}_sta|{s7}国 {s5}已 接 管 {s4}.
 qstr_{s4}_has_been_awarde|{s4}已 划 归 你 治 下 . 
 qstr_{s4}_has_been_awarded|{s4}已 划 归 {s7}国 {s5}治 下 . 
 qstr_Trader_from_{s10}|{s10}行 商 
-qstr__Being_Raided_| [  遭 劫 掠 中 ]  
-qstr__Looted_| [  已 劫 掠 ]  
-qstr__Under_Siege_| [  被 围 困 ]  
+qstr__Being_Raided_|[遭 劫 掠 中 ]
+qstr__Looted_|[已 劫 掠 ]
+qstr__Under_Siege_|[被 围 困 ]
 qstr_{s1}_has_been_looted|{s1}遭 {s2}劫 掠 . 
 qstr_{s3}_is_no_longer_un|{s3}解 围 . 
 qstr_Small_bands_of_enemi|{s1}附 近 发 现 小 股 敌 军 . 
@@ -290,8 +290,8 @@ qstr_Great_host_of_enemie|{s1}附 近 发 现 敌 军 主 力 .
 qstr_{s0}_collects_{reg0}|{s0}从 {s4}征 收 {reg0}文 钱 , 当 前 库 藏 {reg1}文 
 qstr_{s1}_has_been_besieg|{s1}正 遭 {s3}国 {s2}围 困 . 
 qstr_{s1}_has_been_besiege|{s1}正 遭 {s2}围 困 . 
-qstr__{s1}__{s11}:_{s14}| [  {s1} ]  {s11}:{s14}
-qstr_{s14}__{s21}_|{s14} [  {s21} ]  
+qstr__{s1}__{s11}:_{s14}|[{s1} ]{s11}:{s14}
+qstr_{s14}__{s21}_|{s14} [{s21} ]
 qstr_{s5}_has_the_greates|{s5}获 {s4}国 诸 将 推 举 为 新 任 军 师 . 因 {s0}卧 病 难 起 , 不 得 更 易 . 
 qstr_{s5}_has_the_greatest|{s5}获 {s4}国 诸 将 推 举 接 管 {s1}. 因 {s0}卧 病 难 起 , 不 得 更 易 . 
 qstr_{s5}_has_the_greatest_|{s5}虽 获 {s4}国 诸 将 推 举 为 军 师 , 然 {s0}乾 纲 独 断 . 
@@ -587,8 +587,8 @@ qstr_Division_Placement|行 伍 布 阵
 qstr_Complex_Formations|奇 门 阵 式 
 qstr_Formations_turned_OF|阵 法 已 关 闭 于 选 项 菜 单 
 qstr_Division_{reg1}_{s2}_g|第 {reg1}部 {s2}正 按 既 定 方 位 移 防 ...
-qstr_Division_{reg1}_{s2}_f|{reg1}师 与 {s2}组 成 防 线 [  已 记 忆 ]  . 
-qstr_Division_{reg1}_{s2}_fo|{reg1}师 与 {s2}组 成 {reg0}条 防 线 [  已 记 忆 ]  . 
+qstr_Division_{reg1}_{s2}_f|{reg1}师 与 {s2}组 成 防 线 [已 记 忆 ]. 
+qstr_Division_{reg1}_{s2}_fo|{reg1}师 与 {s2}组 成 {reg0}条 防 线 [已 记 忆 ]. 
 qstr_You_have_been_knocke|你 已 被 敌 军 击 倒 . 可 旁 观 部 下 继 续 战 斗 , 或 按 Tab键 撤 退 . 
 qstr_You_were_defeated.|你 已 战 败 . 
 qstr_Rotate_with_the_mous|鼠 标 控 制 视 角 旋 转 , 方 向 键 控 制 移 动 . 
@@ -597,8 +597,8 @@ qstr_Numpad_Plus/Minus_to|小 键 盘 +/-调 整 灵 敏 度 . 小 键 盘 控 �
 qstr_Home_to_reset_positi|Home键 重 置 位 置 . End键 反 转 Y轴 方 向 . 
 qstr_Y_Rotation_Inverted|Y轴 方 向 已 反 转 
 qstr_Y_Rotation_Normal|Y轴 方 向 正 常 
-qstr_Sensitivity___25%__{|灵 敏 度 -25% [  {reg8}, {reg9} ]  
-qstr_Sensitivity_+_25%__{|灵 敏 度 +25% [  {reg8}, {reg9} ]  
+qstr_Sensitivity___25%__{|灵 敏 度 -25% [{reg8}, {reg9} ]
+qstr_Sensitivity_+_25%__{|灵 敏 度 +25% [{reg8}, {reg9} ]
 qstr_You_must_stay_behind|必 须 站 在 地 面 标 线 之 后 ! 此 击 无 效 . 
 qstr_Your_opponent_is_{s4|你 的 对 手 是 {s4}
 qstr_Your_opponent_is_a_{|你 的 对 手 是 {s4}
@@ -705,7 +705,7 @@ qstr_You_ve_been_driven_a|敌 军 已 突 破 城 墙 涌 入 街 巷 . 若 能 
 qstr_You_ve_breached_the_|虽 已 破 城 而 入 , 然 残 敌 仍 在 街 巷 负 隅 顽 抗 . 须 肃 清 余 孽 方 可 直 取 内 城 . 
 qstr_The_town_centre_is_y|城 郭 虽 下 , 残 部 退 守 内 城 . 欲 竟 全 功 , 必 克 此 垒 . 
 qstr_The_remaining_defend|残 敌 退 守 宫 城 作 困 兽 斗 . 须 入 宫 肃 清 余 孽 方 得 完 胜 . 
-qstr_As_the_party_member_|军 中 工 事 造 诣 最 高 者 [  {reg2} ]  {reg3?预 估 :{s3}估 测 }打 造 攻 城 器 械 需 时 {reg4}时 辰 . 
+qstr_As_the_party_member_|军 中 工 事 造 诣 最 高 者 [{reg2} ]{reg3?预 估 :{s3}估 测 }打 造 攻 城 器 械 需 时 {reg4}时 辰 . 
 qstr_However_since_you_ar|然 因 你 未 向 {s9}立 誓 效 忠 , {reg0?她 :他 }断 不 会 承 认 你 是 此 {reg8?镇 :堡 }之 {reg40?女 君 :领 主 }. 
 qstr_myself|本 镇 
 qstr_{s1}_s_siege_engines|{s1}以 攻 城 器 械 破 门 , 正 猛 攻 {s2}
@@ -748,7 +748,7 @@ qstr__There_is_hardly_any| 法 纪 废 弛 , 镇 中 戍 卫 空 虚 .
 qstr__The_town_is_tempora| 镇 务 暂 由 乡 绅 自 治 . 
 qstr__You_have_successful| 你 已 潜 入 成 功 . 
 qstr_{s13}_A_tournament_w|{s13}即 将 举 办 比 武 大 会 . 
-qstr___{reg1}_wen_per_nig|  [  每 晚 {reg1}文 钱 ]  
+qstr___{reg1}_wen_per_nig|  [每 晚 {reg1}文 钱 ]
 qstr_Moreover_you_earn_{r|更 兼 押 中 自 家 胜 负 , 赢 得 {reg8}文 钱 ...
 qstr_Unfortunately_you_di|惜 未 押 注 自 家 胜 负 ...
 qstr_Victory_is_yours!_Yo|大 捷 ! 此 战 虽 胜 , 然 须 速 整 军 备 以 应 下 轮 厮 杀 . 
@@ -788,17 +788,17 @@ qstr_Troops:_{reg1}|部 曲 :{reg1}
 qstr_Prosperity_Report^|民 生 奏 报 ^
 qstr_Total|总 计 
 qstr_{s0}^{s1}_Average_To|{s0}^{s1} 城 邑 均 富 指 数 :{reg0}
-qstr_{s0}^{s1}_towns_with|{s0}^{s1} 富 庶 之 城 [  80 - 100 ] :{reg0}座 
-qstr_{s0}^{s1}_towns_with_|{s0}^{s1} 殷 实 之 城 [  60 - 79 ] :{reg0}座 
-qstr_{s0}^{s1}_towns_with_p|{s0}^{s1} 寻 常 之 城 [  40 - 59 ] :{reg0}座 
-qstr_{s0}^{s1}_towns_with_pr|{s0}^{s1} 困 顿 之 城 [  20 - 39 ] :{reg0}座 
-qstr_{s0}^{s1}_towns_with_pro|{s0}^{s1} 荒 废 之 城 [  0 - 19 ] :{reg0}座 
+qstr_{s0}^{s1}_towns_with|{s0}^{s1} 富 庶 之 城 [80 - 100 ]:{reg0}座 
+qstr_{s0}^{s1}_towns_with_|{s0}^{s1} 殷 实 之 城 [60 - 79 ]:{reg0}座 
+qstr_{s0}^{s1}_towns_with_p|{s0}^{s1} 寻 常 之 城 [40 - 59 ]:{reg0}座 
+qstr_{s0}^{s1}_towns_with_pr|{s0}^{s1} 困 顿 之 城 [20 - 39 ]:{reg0}座 
+qstr_{s0}^{s1}_towns_with_pro|{s0}^{s1} 荒 废 之 城 [0 - 19 ]:{reg0}座 
 qstr_{s0}^{s1}_Average_Vi|{s0}^{s1} 乡 野 均 富 指 数 :{reg0}
-qstr_{s0}^{s1}_villages_w|{s0}^{s1} 丰 饶 之 村 [  80 - 100 ] :{reg0}处 
-qstr_{s0}^{s1}_villages_wi|{s0}^{s1} 小 康 之 村 [  60 - 79 ] :{reg0}处 
-qstr_{s0}^{s1}_villages_wit|{s0}^{s1} 平 常 之 村 [  40 - 59 ] :{reg0}处 
-qstr_{s0}^{s1}_villages_with|{s0}^{s1} 贫 瘠 之 村 [  20 - 39 ] :{reg0}处 
-qstr_{s0}^{s1}_villages_with_|{s0}^{s1} 凋 敝 之 村 [  0 - 19 ] :{reg0}处 
+qstr_{s0}^{s1}_villages_w|{s0}^{s1} 丰 饶 之 村 [80 - 100 ]:{reg0}处 
+qstr_{s0}^{s1}_villages_wi|{s0}^{s1} 小 康 之 村 [60 - 79 ]:{reg0}处 
+qstr_{s0}^{s1}_villages_wit|{s0}^{s1} 平 常 之 村 [40 - 59 ]:{reg0}处 
+qstr_{s0}^{s1}_villages_with|{s0}^{s1} 贫 瘠 之 村 [20 - 39 ]:{reg0}处 
+qstr_{s0}^{s1}_villages_with_|{s0}^{s1} 凋 敝 之 村 [0 - 19 ]:{reg0}处 
 qstr_{s6}_In_addition_you|除 {s6}之 外 ， 你 麾 下 还 有 {reg2}名 辎 重 兵 和 {reg3}名 巡 逻 兵 。 
 qstr_{playername}_when_we|{playername}， 当 初 我 们 举 义 之 时 ， 肯 追 随 我 的 人 寥 寥 无 几 。 愿 为 我 大 业 舍 生 忘 死 者 更 是 屈 指 可 数 。 然 君 未 有 一 刻 迟 疑 ， 披 坚 执 锐 直 取 敌 酋 。 你 我 同 历 生 死 ， 几 度 濒 临 绝 境 。 赖 天 庇 佑 终 得 破 局 。 今 当 别 过 ， 吾 将 取 回 应 得 之 物 。 自 即 日 起 ， 吾 将 承 继 {s3}国 主 大 位 。 前 路 尚 多 艰 险 ， 仍 需 倚 仗 君 助 。 卿 当 永 为 孤 之 股 肱 重 臣 。 
 qstr_Find_and_speak_with_{|前 去 与 {s4}的 {s3}会 面 ， 向 他 宣 誓 效 忠 。 
@@ -958,8 +958,8 @@ qstr_{reg65?madame:sir}|{reg65?夫 人 :郎 君 }
 qstr_{reg65?Madame:Sir}|{reg65?夫 人 :主 公 }
 qstr_{reg65?my_Lady:my_Lo|{reg65?娘 子 :主 公 }
 qstr_{reg65?My_Lady:My_Lo|{reg65?娘 子 :主 公 }
-qstr__no_fiefs_| [  无 封 邑 ]  
-qstr__fiefs:_{s0}_| [  封 邑 : {s0} ]  
+qstr__no_fiefs_|[无 封 邑 ]
+qstr__fiefs:_{s0}_|[封 邑 : {s0} ]
 qstr_Rescue_the_monk_{s8}|或 救 {s8}禅 师 出 {s6}地 牢 , 或 向 狱 吏 告 发 僧 众 密 谋 
 qstr_A_monk_in_{s8}_asked|{s8}寺 僧 请 君 往 {s6}近 郊 禅 院 谒 其 首 座 
 qstr_What_s_going_on?|有 何 蹊 跷 ? 
@@ -1093,7 +1093,7 @@ qstr_{s11}_asked_you_to_r|{s11}求 将 军 解 救 其 {s17}{s13}, 可 更 衣 �
 qstr_{s11}_asked_you_to_re|{s11}求 将 军 自 {s14}处 搭 救 其 {s17}{s13}
 qstr_{s11}_asked_you_to_de|{s11}嘱 托 将 军 传 信 予 囚 于 {s14}之 {s13}
 qstr_You_agreed_to_challe|将 军 已 允 诺 为 {s11}名 誉 与 {s13}决 斗 
-qstr_{s5}__Persuasion_str|{s5} [  游 说 力 度 :{reg5} ]  
+qstr_{s5}__Persuasion_str|{s5} [游 说 力 度 :{reg5} ]
 qstr_Persuasion_Attempt|劝 降 尝 试 
 qstr_Be_warned_{reg40?wen|竖 子 听 真 ! 此 骡 队 受 {s9}庇 护 , 速 速 退 避 免 遭 兵 燹 ! 
 qstr_What_do_you_want_{re|贵 人 欲 何 为 ? 吾 等 行 商 素 无 仇 怨 , 请 高 抬 贵 手 
@@ -1166,8 +1166,8 @@ qstr_Well_if_it_isn_t_the_|噫 ! 绿 林 {reg0?魁 首 }竟 临
 qstr_Time_to_die!|纳 命 来 ! 
 qstr_Looks_like_we_ve_got|兵 刃 相 见 ! 
 qstr_Surrender_or_die._Ma|降 或 死 , 速 决 ! 
-qstr_That_s_funny._Now_my|戏 言 无 用 , 且 看 兵 刃 !  [  劝 降 失 败 ]  
-qstr_Enough_talk!_It_s_ti|多 言 无 益 , 手 底 见 真 章 !  [  劝 降 失 败 ]  
+qstr_That_s_funny._Now_my|戏 言 无 用 , 且 看 兵 刃 !  [劝 降 失 败 ]
+qstr_Enough_talk!_It_s_ti|多 言 无 益 , 手 底 见 真 章 !  [劝 降 失 败 ]
 qstr_Enlisted_as_a_{s5}_in|投 效 {s14}邦 国 {s13}帐 下 任 {s5}
 qstr_{s1}_state|{s1}邦 国 
 qstr_enemy|敌 酋 

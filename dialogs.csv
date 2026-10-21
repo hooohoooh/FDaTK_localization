@@ -4,8 +4,8 @@ dlga_award_fief_to_vassal_defer:close_window|谨 遵 钧 命 , {reg40?夫 人 :�
 dlga_award_fief_to_vassal_2:close_window|谨 遵 钧 命 , {reg40?夫 人 :大 人 }. {reg6?某 家 :{reg7?足 下 :{s11}}}将 受 封 为 {s1}的 {reg3?女 君 :领 主 }. 
 dlga_event_triggered:center_captured_rebellion|{s1}现 下 无 人 打 理 . 该 教 何 人 主 事 ? 
 dlga_center_captured_rebellion:center_captured_rebellion_2|{s11}. {s1}
-dlga_center_captured_rebellion:center_captured_rebellion_2.1|{reg0?{s65}:伏 惟 钧 鉴 }, 某 欲 自 领 {s1}.  [  封 地 数 :{s0} ]  
-dlga_center_captured_rebellion:center_captured_rebellion_2.2|{s66}足 下 当 自 领 {s1}.  [  封 地 数 :{s0} ]  
+dlga_center_captured_rebellion:center_captured_rebellion_2.1|{reg0?{s65}:伏 惟 钧 鉴 }, 某 欲 自 领 {s1}.  [封 地 数 :{s0} ]
+dlga_center_captured_rebellion:center_captured_rebellion_2.2|{s66}足 下 当 自 领 {s1}.  [封 地 数 :{s0} ]
 dlga_center_captured_rebellion:center_captured_rebellion_2_defer|暂 且 莫 要 封 赏 , 容 后 再 议 . 
 dlga_center_captured_rebellion_2_defer:close_window|嗯 ...也 罢 , {playername}. 某 素 重 卿 言 . {s1}的 封 赏 权 且 缓 议 . 
 dlga_center_captured_rebellion_2:close_window|嗯 ...也 罢 , {playername}. 某 素 重 卿 言 . {reg6?某 家 :{reg7?足 下 :{s11}}}将 受 封 为 {s1}的 {reg3?女 君 :领 主 }. 
@@ -51,18 +51,18 @@ dlga_fighter_talk:fighter_talk_train_attack|我 想 练 习 进 攻 招 式 .
 dlga_fighter_talk:fighter_talk_train_parry|我 想 练 习 兵 刃 格 挡 . 
 dlga_fighter_talk:fighter_talk_train_combat|且 来 切 磋 比 试 . 
 dlga_fighter_talk:close_window|[离 开 ]
-dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|善 . 攻 招 有 四 正 势 :劈 、 右 撩 、 左 扫 、 刺 . 某 将 喝 令 攻 向 , 汝 当 依 令 出 招 . ^^ [  运 鼠 标 左 键 时 摆 方 向 定 招 式 . 如 劈 击 须 提 刃 上 举 时 击 发 . 屏 上 图 示 可 助 辨 招 式 .  ]  
+dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|善 . 攻 招 有 四 正 势 :劈 、 右 撩 、 左 扫 、 刺 . 某 将 喝 令 攻 向 , 汝 当 依 令 出 招 . ^^ [运 鼠 标 左 键 时 摆 方 向 定 招 式 . 如 劈 击 须 提 刃 上 举 时 击 发 . 屏 上 图 示 可 助 辨 招 式 .  ]
 dlga_fighter_talk_train_attack_2:close_window|这 便 开 练 . 某 已 备 妥 . 
 dlga_fighter_talk_train_attack_2:fighter_pretalk|某 欲 改 习 他 招 . 
-dlga_fighter_talk_train_parry:fighter_talk_train_parry_2|与 盾 牌 不 同 , 持 械 招 架 只 能 挡 下 来 自 一 个 方 向 的 攻 击 . 若 举 刃 上 格 可 御 劈 击 , 然 左 右 横 扫 及 突 刺 仍 可 破 防 . ^^ [  须 长 按 右 键 格 挡 .  ]  
-dlga_fighter_talk_train_parry_2:fighter_talk_train_parry_3|某 将 以 不 同 招 式 攻 汝 , 待 汝 摆 正 架 势 方 击 . 务 要 及 时 应 对 . ^^ [  若 在 选 项 中 设 为 自 动 格 挡 则 易 习 . 若 改 手 控 方 向 则 更 考 校 功 夫 . 此 练 法 于 手 控 格 挡 者 大 有 裨 益 .  ]  
+dlga_fighter_talk_train_parry:fighter_talk_train_parry_2|与 盾 牌 不 同 , 持 械 招 架 只 能 挡 下 来 自 一 个 方 向 的 攻 击 . 若 举 刃 上 格 可 御 劈 击 , 然 左 右 横 扫 及 突 刺 仍 可 破 防 . ^^ [须 长 按 右 键 格 挡 .  ]
+dlga_fighter_talk_train_parry_2:fighter_talk_train_parry_3|某 将 以 不 同 招 式 攻 汝 , 待 汝 摆 正 架 势 方 击 . 务 要 及 时 应 对 . ^^ [若 在 选 项 中 设 为 自 动 格 挡 则 易 习 . 若 改 手 控 方 向 则 更 考 校 功 夫 . 此 练 法 于 手 控 格 挡 者 大 有 裨 益 .  ]
 dlga_fighter_talk_train_parry_3:close_window|这 便 开 练 . 某 已 备 妥 . 
 dlga_fighter_talk_train_parry_3:fighter_pretalk|某 欲 改 习 他 招 . 
 dlga_fighter_talk_train_combat:fighter_talk_train_combat_2|实 战 操 演 最 利 精 进 . 今 以 木 兵 相 搏 , 直 至 一 方 倒 地 . 虽 不 免 带 彩 , 终 胜 沙 场 饮 刃 . 
 dlga_fighter_talk_train_combat_2:close_window|这 便 开 练 . 某 已 备 妥 . 
 dlga_fighter_talk_train_combat_2:fighter_pretalk|某 欲 改 习 他 招 . 
 dlga_start:fighter_parry_try_again|善 哉 ! 方 才 格 挡 甚 得 法 . 可 复 练 以 求 精 熟 , 直 至 成 竹 在 胸 . 可 要 再 试 ? 
-dlga_start:fighter_parry_try_again.1|这 遭 不 甚 如 意 啊 .  [  切 记 长 按 右 键 方 能 格 挡 .  ]  可 要 再 试 ? 
+dlga_start:fighter_parry_try_again.1|这 遭 不 甚 如 意 啊 .  [切 记 长 按 右 键 方 能 格 挡 .  ]可 要 再 试 ? 
 dlga_fighter_parry_try_again:fighter_talk_train_parry|可 . 再 试 手 . 
 dlga_fighter_parry_try_again:fighter_talk_leave_parry|罢 了 , 今 日 且 到 此 . 
 dlga_start:fighter_parry_warn|咄 ! 此 乃 格 挡 操 演 ! 当 守 御 为 要 , 岂 可 反 攻 ? 
@@ -180,7 +180,7 @@ dlga_manhunter_talk_b1close:close_window|告 辞 .
 dlga_looters_1:looters_2|{s4}
 dlga_looters_2:close_window|尔 等 鼠 辈 岂 能 吓 倒 某 家 ! 有 胆 便 来 厮 杀 ! 
 dlga_looters_2:close_window.1|尔 等 恶 徒 休 想 得 某 分 毫 , 唯 有 利 刃 相 赠 . 
-dlga_looters_2:bandit_escape_talked|何 苦 以 命 相 搏 .  [  劝 说 ]  
+dlga_looters_2:bandit_escape_talked|何 苦 以 命 相 搏 .  [劝 说 ]
 dlga_looters_2:looters_2bribe|可 知 尔 等 在 与 何 人 言 语 ? 若 愿 归 顺 可 饶 性 命 . 
 dlga_looters_2:looters_2bribe.1|某 欲 招 安 尔 等 . 意 下 如 何 ? 
 dlga_looters_2bribe:close_window|管 你 是 何 方 神 圣 , 今 日 必 取 尔 命 . 
@@ -1038,8 +1038,8 @@ dlga_minister_indict_confirm_answer:minister_indict_conclude|无 需 多 言 , �
 dlga_minister_indict_confirm_answer:minister_pretalk|且 暂 观 其 变 
 dlga_minister_indict_conclude:minister_pretalk|檄 文 已 发 , {reg40?夫 人 :主 公 }. 
 dlga_center_captured_lord_advice:center_captured_lord_advice_2|{s11}. {s1}
-dlga_center_captured_lord_advice:center_captured_lord_advice_2.1|{s12}某 欲 自 领 {s1} [  封 邑 :{s0} ]  
-dlga_center_captured_lord_advice:center_captured_lord_advice_2.2|{s66}当 自 领 {s1} [  封 邑 :{s0} ]  
+dlga_center_captured_lord_advice:center_captured_lord_advice_2.1|{s12}某 欲 自 领 {s1} [封 邑 :{s0} ]
+dlga_center_captured_lord_advice:center_captured_lord_advice_2.2|{s66}当 自 领 {s1} [封 邑 :{s0} ]
 dlga_center_captured_lord_advice_2:minister_issues|谨 遵 钧 命 . {reg6?某 :{reg7?君 :{s11}}}将 主 {s1}封 邑 . 
 dlga_center_captured_lord_advice_2:close_window|得 {playername}良 言 , 某 之 幸 也 . {reg6?某 :{reg7?君 :{s11}}}将 主 {s1}封 邑 . 
 dlga_event_triggered:companion_quitting|启 禀 {s5}, 末 将 有 要 事 相 禀 . 
@@ -1577,8 +1577,8 @@ dlga_lord_ask_to_collect_debt_2:debt_convince_begin|{s1}视 此 为 债 , 托 �
 dlga_lord_ask_to_collect_debt_2:lord_pretalk|此 事 不 必 再 提 
 dlga_debt_convince_begin:debt_convince_options|{s10}
 dlga_debt_convince_options:debt_convince_accept_king|某 以 主 君 之 尊 命 汝 偿 债 ! 
-dlga_debt_convince_options:debt_convince_accept|欠 债 不 还 天 下 人 耻 笑 [  说 服 术 ]  
-dlga_debt_convince_options:debt_convince_roll|权 当 予 某 薄 面 [  私 谊 ]  
+dlga_debt_convince_options:debt_convince_accept|欠 债 不 还 天 下 人 耻 笑 [说 服 术 ]
+dlga_debt_convince_options:debt_convince_roll|权 当 予 某 薄 面 [私 谊 ]
 dlga_debt_convince_options:debt_duel_challenge|看 来 汝 已 囊 空 如 洗 , 当 真 寒 酸 ! 
 dlga_debt_duel_challenge:close_window|竖 子 安 敢 无 礼 , {playername}! 速 离 某 眼 前 ! 
 dlga_debt_duel_challenge:debt_convince_options_b|汝 竟 敢 说 某 家 囊 中 羞 涩 ? 看 来 得 教 汝 些 礼 数 了 ! 
@@ -1588,8 +1588,8 @@ dlga_debt_convince_roll:debt_convince_accept_friends|罢 了 , {playername}. 某
 dlga_debt_convince_roll:lord_pretalk|荒 唐 , {playername}! 世 人 皆 知 某 与 汝 不 睦 . 
 dlga_debt_convince_roll:lord_pretalk.1|免 谈 , {playername}. 萍 水 之 交 岂 敢 讨 情 ? 
 dlga_debt_convince_options:lord_pretalk|此 事 不 必 再 提 
-dlga_debt_convince_accept:lord_pretalk|不 还 不 还 ! 速 去 勿 复 言 !  [  说 服 失 败 ]  
-dlga_debt_convince_accept:close_window|细 想 来 某 欠 {s8}之 债 确 已 逾 期 , 常 怀 愧 疚 . 此 乃 {reg10}文 , 劳 烦 转 交 .  [  说 服 成 功 ]  
+dlga_debt_convince_accept:lord_pretalk|不 还 不 还 ! 速 去 勿 复 言 !  [说 服 失 败 ]
+dlga_debt_convince_accept:close_window|细 想 来 某 欠 {s8}之 债 确 已 逾 期 , 常 怀 愧 疚 . 此 乃 {reg10}文 , 劳 烦 转 交 .  [说 服 成 功 ]
 dlga_debt_convince_accept_friends:close_window|此 {reg10}文 劳 交 {s8}, 代 某 致 意 . 
 dlga_debt_convince_accept_king:close_window|谨 遵 {reg40?钧 旨 :钧 命 }, 此 {reg10}文 劳 交 {s8}, 代 某 致 意 . 
 dlga_lord_talk:lord_ask_to_make_peace|恳 请 {s64}罢 兵 , 止 {s12}国 与 {s13}国 干 戈 . 
@@ -1678,7 +1678,7 @@ dlga_lord_talk:lord_active_mission_1|前 番 差 遣 之 事 ...
 dlga_lord_talk:lord_switch_to_spouse|某 欲 议 家 室 之 事 . 
 dlga_lord_switch_to_spouse:lord_pretalk|{s0}且 待 回 府 再 议 , 军 旅 之 中 不 便 处 置 家 事 . 
 dlga_lord_switch_to_spouse:spouse_talk|但 凭 {s0}吩 咐 . 
-dlga_lord_talk:lord_poisoned_by_player|{reg65?夫 人 :主 公 }请 品 此 佳 酿 .  [  下 毒 ]  
+dlga_lord_talk:lord_poisoned_by_player|{reg65?夫 人 :主 公 }请 品 此 佳 酿 .  [下 毒 ]
 dlga_lord_poisoned_by_player:lord_pretalk|此 时 非 饮 酒 之 机 , {playername}. 待 回 府 再 共 谋 一 醉 . 
 dlga_lord_poisoned_by_player:close_window|我 怕 是 饮 多 了 酒 ...身 子 有 些 不 适 ...
 dlga_lord_talk:lord_request_mission_ask|主 公 可 有 差 遣 ? 
@@ -1907,7 +1907,7 @@ dlga_lord_tell_objective:lord_pretalk.12|某 为 {s1}大 军 开 道 . {s14}{s15
 dlga_lord_tell_objective:lord_pretalk.13|护 卫 {s1}行 军 . {s14}{s15}
 dlga_lord_tell_objective:lord_talk_ask_about_strategy|某 乃 {s18}国 行 军 司 马 . 
 dlga_lord_tell_objective:lord_pretalk.14|正 在 商 议 下 步 方 略 . 
-dlga_lord_tell_objective:lord_pretalk.15|未 知 :{reg1} {s1} [  错 误 ]  
+dlga_lord_tell_objective:lord_pretalk.15|未 知 :{reg1} {s1} [错 误 ]
 dlga_lord_talk:lord_ask_follow|可 愿 随 某 出 征 ? 已 有 破 敌 良 策 . 
 dlga_lord_ask_follow:close_window|承 蒙 抬 爱 , 然 军 务 在 身 . 旬 日 之 後 或 可 同 行 . 
 dlga_lord_ask_follow:close_window.1|礼 法 岂 容 僭 越 ? 当 是 汝 随 某 行 军 . 
@@ -2482,8 +2482,8 @@ dlga_lady_talk:lady_leave|某 当 告 辞 .
 dlga_lady_leave:close_window|{s12}
 dlga_convince_begin:convince_options|某 仍 不 明 何 以 应 从 君 之 所 请 . 
 dlga_convince_options:convince_bribe|某 愿 以 {reg8}文 钱 相 酬 
-dlga_convince_options:convince_friendship|恳 请 念 在 往 日 情 分 [  交 情 减 {reg9} ]  
-dlga_convince_options:convince_persuade_begin|某 欲 以 理 相 劝 [  辩 才 说 服 ]  
+dlga_convince_options:convince_friendship|恳 请 念 在 往 日 情 分 [交 情 减 {reg9} ]
+dlga_convince_options:convince_persuade_begin|某 欲 以 理 相 劝 [辩 才 说 服 ]
 dlga_convince_options:lord_pretalk|此 事 作 罢 . 
 dlga_convince_bribe:convince_bribe_verify|若 得 {reg8}文 钱 润 囊 , 此 事 或 可 商 榷 ...
 dlga_convince_bribe_verify:convince_bribe_cant_afford|某 目 下 恐 难 筹 措 此 数 . 
@@ -2498,7 +2498,7 @@ dlga_convince_friendship_go_on:convince_accept|既 如 此 , 某 且 应 承 , �
 dlga_convince_friendship:lord_pretalk|某 不 欠 {playername}君 如 此 人 情 . 
 dlga_convince_friendship:lord_pretalk.1|{playername}君 何 颜 求 此 ? 此 事 断 无 可 能 ! 
 dlga_convince_persuade_begin:convince_persuade_begin_2|且 陈 其 辞 . 
-dlga_convince_persuade_begin_2:convince_persuade| [  尝 试 说 服 ]  
+dlga_convince_persuade_begin_2:convince_persuade| [尝 试 说 服 ]
 dlga_convince_persuade_begin_2:convince_begin|或 可 另 寻 说 辞 . 
 dlga_convince_persuade_begin:lord_pretalk|{playername}君 聒 噪 多 时 , 某 耳 烦 矣 ! 
 dlga_convince_persuade:convince_accept|也 罢 也 罢 , 就 依 你 所 言 行 事 . 
@@ -2824,7 +2824,7 @@ dlga_tavernkeeper_traderoute_invest:tavernkeeper_pretalk|{s4}只 准 许 独 立
 dlga_tavernkeeper_traderoute_invest:tavernkeeper_pretalk.1|足 下 已 开 通 自 {s4}至 {s10}的 骡 队 商 路 . 
 dlga_tavernkeeper_traderoute_invest:tavernkeeper_pretalk.2|足 下 声 名 狼 藉 , 其 余 商 贾 不 愿 与 汝 共 事 . 
 dlga_tavernkeeper_traderoute_invest:tavernkeeper_traderoute_invest2|既 如 此 , 足 下 欲 投 哪 路 骡 队 ? 
-dlga_tavernkeeper_traderoute_invest2:tavernkeeper_traderoute_invest3|{s4} [  需 {reg1}文 钱 ]  
+dlga_tavernkeeper_traderoute_invest2:tavernkeeper_traderoute_invest3|{s4} [需 {reg1}文 钱 ]
 dlga_tavernkeeper_traderoute_invest3:tavernkeeper_pretalk|待 银 钱 凑 足 时 再 来 相 商 . 
 dlga_tavernkeeper_traderoute_invest3:tavernkeeper_pretalk.1|{s10}
 dlga_tavernkeeper_traderoute_invest2:tavernkeeper_pretalk|其 实 我 没 兴 趣 . 
@@ -3539,7 +3539,7 @@ dlga_bandit_barter_2:bandit_barter_3b|某 家 囊 中 羞 涩
 dlga_bandit_barter_3b:close_window|那 便 怨 不 得 某 了 ! 弟 兄 们 , 将 这 厮 绑 去 充 作 奴 工 ! 
 dlga_bandit_barter:close_window|呸 ! 尔 等 屠 戮 绿 林 如 刈 草 , 如 今 还 想 花 钱 消 灾 ? 某 家 以 血 还 血 , 绝 不 相 饶 ! 
 dlga_bandit_barter_3a:close_window|早 这 般 痛 快 多 好 ? 速 速 离 去 , 莫 碍 某 家 眼 目 . 
-dlga_bandit_talk:bandit_escape_talked|刀 剑 无 眼 , 何 苦 相 逼 ?  [  口 才 说 服 ]  
+dlga_bandit_talk:bandit_escape_talked|刀 剑 无 眼 , 何 苦 相 逼 ?  [口 才 说 服 ]
 dlga_start:bandit_meet|嗯 ? 所 为 何 事 ? 
 dlga_bandit_meet:bandit_attack|黄 泉 路 近 , 且 受 死 来 ! 
 dlga_bandit_attack:close_window|{s5}
@@ -3769,7 +3769,7 @@ dlga_dplmc_lord_ask_leave_rebellion_confirm_final:dplmc_lord_ask_leave_rebellion
 dlga_dplmc_lord_ask_leave_rebellion_end:close_window|此 乃 {s1}藩 镇 之 耻 , {playername}! 背 主 求 荣 之 事 必 载 入 青 史 . 还 不 速 速 离 去 ! 
 dlga_dplmc_lord_ask_leave_rebellion_end:close_window.1|你 已 非 当 日 投 效 的 {reg40?女 中 豪 杰 :七 尺 男 儿 }, {playername}! 趁 某 未 改 主 意 前 , 滚 ! 
 dlga_bandit_escape_talked:close_window|{s5}
-dlga_bandit_escape_talked:close_window.1|呃 ...罢 了 , 你 且 去 罢 .  [  说 服 成 功 ]  
+dlga_bandit_escape_talked:close_window.1|呃 ...罢 了 , 你 且 去 罢 .  [说 服 成 功 ]
 dlga_lord_request_enlistment:lord_pretalk|观 尔 等 已 自 领 部 曲 . 
 dlga_lord_request_enlistment:lord_request_enlistment_confirm|某 家 军 中 尚 缺 尔 这 般 {reg4?巾 帼 :儿 郎 }, {playername}. 若 投 效 可 授 {s1}职 , 月 俸 {reg3}文 钱 . 粮 秣 衣 甲 自 会 拨 付 , 立 有 战 功 亦 可 擢 升 . 意 下 如 何 ? 
 dlga_lord_request_enlistment_confirm:close_window|这 般 差 事 稳 当 , 某 愿 追 随 {reg65?娘 子 :主 公 }. 
@@ -3795,4 +3795,4 @@ dlga_ask_return_from_leave:lord_pretalk.3|未 得 军 令 前 , {playername}仍 
 dlga_ask_return_from_leave:lord_pretalk.4|来 得 正 好 , {playername}! 儿 郎 们 盼 你 多 时 矣 . 
 dlga_ask_return_from_leave:lord_pretalk.5|前 番 与 {s1}恶 战 , {playername}来 得 正 是 时 候 . 速 归 本 队 听 用 ! 
 dlga_free:close_window|告 辞 . 
-dlga_free:close_window.1| [  离 去 ]  
+dlga_free:close_window.1| [离 去 ]

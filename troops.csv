@@ -53,10 +53,10 @@ trp_townsman|市 井 子
 trp_townsman_pl|市 井 子 
 trp_watchman|民 壮 护 卫 
 trp_watchman_pl|民 壮 护 卫 
-trp_caravan_guard|镖 局 骑 手 
-trp_caravan_guard_pl|镖 局 骑 手 
-trp_mercenary_swordsman|游 侠 刀 客 
-trp_mercenary_swordsman_pl|游 侠 刀 客 
+trp_caravan_guard|佣 兵 骑 手 
+trp_caravan_guard_pl|佣 兵 骑 手 
+trp_mercenary_swordsman|游 侠 散 卒 
+trp_mercenary_swordsman_pl|游 侠 散 卒 
 trp_secret_agent|暗 杀 者 
 trp_secret_agent_pl|暗 杀 者 
 trp_mercenary_crossbowman|弩 箭 游 侠 
@@ -119,10 +119,10 @@ trp_vaegir_horseman|岐 国 轻 骑
 trp_vaegir_horseman_pl|岐 国 轻 骑 
 trp_vaegir_knight|岐 国 铁 鹞 子 
 trp_vaegir_knight_pl|岐 国 铁 鹞 子 
-trp_vaegir_messenger|维 吉 尔 信 使 
-trp_vaegir_messenger_pl|维 吉 尔 信 使 团 
-trp_vaegir_deserter|维 吉 尔 逃 兵 
-trp_vaegir_deserter_pl|维 吉 尔 逃 兵 队 
+trp_vaegir_messenger|岐 国 信 使 
+trp_vaegir_messenger_pl|岐 国 信 使 团 
+trp_vaegir_deserter|岐 国 逃 兵 
+trp_vaegir_deserter_pl|岐 国 逃 兵 队 
 trp_vaegir_prison_guard|狱 卒 
 trp_vaegir_prison_guard_pl|狱 卒 队 
 trp_vaegir_castle_guard|宫 城 卫 兵 
@@ -385,11 +385,11 @@ trp_kingdom_6_archer_2|蜀 国 神 臂 都
 trp_kingdom_6_archer_2_pl|蜀 国 神 臂 弩 营
 trp_kingdom_6_archer_3|蜀 国 火 鹞 兵
 trp_kingdom_6_archer_3_pl|蜀 国 火 鹞 队
-trp_kingdom_7_peasant|南 诏 部 落 农 兵 
+trp_kingdom_7_peasant|长 和 部 落 农 兵 
 trp_kingdom_7_peasant_pl|部 落 农 兵 队 
-trp_kingdom_7_levy|南 诏 藤 甲 散 兵 
+trp_kingdom_7_levy|长 和 藤 甲 散 兵 
 trp_kingdom_7_levy_pl|藤 甲 散 兵 队 
-trp_kingdom_7_inf_1|南 诏 蛮 牌 手 
+trp_kingdom_7_inf_1|长 和 蛮 牌 手 
 trp_kingdom_7_inf_1_pl|蛮 牌 手 队 
 trp_kingdom_7_inf_2|罗 苴 子 锐 卒 
 trp_kingdom_7_inf_2_pl|罗 苴 子 锐 队 
@@ -471,8 +471,8 @@ trp_kingdom_11_inf_3|吴 越 铁 林 军
 trp_kingdom_11_inf_3_pl|吴 越 铁 林 卫
 trp_kingdom_11_inf_4|吴 越 捍 海 锐 士
 trp_kingdom_11_inf_4_pl|吴 越 捍 海 营
-trp_kingdom_11_cav_1|吴 越 塘 报 骑
-trp_kingdom_11_cav_1_pl|吴 越 塘 报 马 队
+trp_kingdom_11_cav_1|吴 越 驿 报 骑
+trp_kingdom_11_cav_1_pl|吴 越 驿 报 马 队
 trp_kingdom_11_cav_2|吴 越 银 鞍 骑
 trp_kingdom_11_cav_2_pl|吴 越 银 鞍 都
 trp_kingdom_11_cav_3|吴 越 精 骑 
@@ -483,28 +483,28 @@ trp_kingdom_11_archer_2|吴 越 老 练 弓 手
 trp_kingdom_11_archer_2_pl|吴 越 弓 手 精 锐 
 trp_kingdom_11_archer_3|吴 越 海 鹞 弓 
 trp_kingdom_11_archer_3_pl|吴 越 海 鹞 都
-trp_kingdom_12_peasant|南 平 农 兵
-trp_kingdom_12_peasant_pl|南 平 农 兵 队
-trp_kingdom_12_levy|南 平 征 召 兵
-trp_kingdom_12_levy_pl|南 平 征 召 队
-trp_kingdom_12_inf_1|南 平 步 兵
-trp_kingdom_12_inf_1_pl|南 平 步 兵 队
-trp_kingdom_12_inf_2|南 平 毅 勇 军
-trp_kingdom_12_inf_2_pl|南 平 毅 勇 军 团
-trp_kingdom_12_inf_3|南 平 牙 军
-trp_kingdom_12_inf_3_pl|南 平 牙 军 团
-trp_kingdom_12_cav_1|南 平 斥 候 骑
-trp_kingdom_12_cav_1_pl|南 平 斥 候 骑 队
+trp_kingdom_12_peasant|荆 南 农 兵
+trp_kingdom_12_peasant_pl|荆 南 农 兵 队
+trp_kingdom_12_levy|荆 南 征 召 兵
+trp_kingdom_12_levy_pl|荆 南 征 召 队
+trp_kingdom_12_inf_1|荆 南 步 兵
+trp_kingdom_12_inf_1_pl|荆 南 步 兵 队
+trp_kingdom_12_inf_2|荆 南 毅 勇 军
+trp_kingdom_12_inf_2_pl|荆 南 毅 勇 军 团
+trp_kingdom_12_inf_3|荆 南 牙 军
+trp_kingdom_12_inf_3_pl|荆 南 牙 军 团
+trp_kingdom_12_cav_1|荆 南 斥 候 骑
+trp_kingdom_12_cav_1_pl|荆 南 斥 候 骑 队
 trp_kingdom_12_cav_2|荆 南 资 深 骑 兵 
 trp_kingdom_12_cav_2_pl|荆 南 老 骑 营 
-trp_kingdom_12_archer_1|南 平 猎 户 弓
-trp_kingdom_12_archer_1_pl|南 平 猎 户 弓 队
-trp_kingdom_12_archer_2|南 平 水 军 弓
-trp_kingdom_12_archer_2_pl|南 平 水 军 弓 队
+trp_kingdom_12_archer_1|荆 南 猎 户 弓
+trp_kingdom_12_archer_1_pl|荆 南 猎 户 弓 队
+trp_kingdom_12_archer_2|荆 南 水 军 弓
+trp_kingdom_12_archer_2_pl|荆 南 水 军 弓 队
 trp_kingdom_12_archer_2_b|荆 南 弩 手 
 trp_kingdom_12_archer_2_b_pl|荆 南 弩 兵 队 
-trp_kingdom_12_archer_3|南 平 制 胜 营 
-trp_kingdom_12_archer_3_pl|南 平 制 胜 营 
+trp_kingdom_12_archer_3|荆 南 制 胜 营 
+trp_kingdom_12_archer_3_pl|荆 南 制 胜 营 
 trp_kingdom_12_archer_3_b|荆 南 神 射 营 
 trp_kingdom_12_archer_3_b_pl|荆 南 神 射 精 锐 
 trp_kingdom_13_peasant|岐 国 乡 社 兵
@@ -599,8 +599,8 @@ trp_refugee|流 民
 trp_refugee_pl|流 民 
 trp_peasant_woman|农 妇 
 trp_peasant_woman_pl|农 妇 
-trp_caravan_master|大 镖 头 
-trp_caravan_master_pl|大 镖 头 
+trp_caravan_master|驮 队 首 领 
+trp_caravan_master_pl|驮 队 首 领 
 trp_kidnapped_girl|被 掠 民 女 
 trp_kidnapped_girl_pl|被 掠 民 女 
 trp_town_walker_1|市 井 汉 
@@ -787,293 +787,293 @@ trp_kingdom_14_lord|晋 王 李 存 勖
 trp_kingdom_14_lord_pl|李 存 勖 
 trp_kingdom_6_lord|蜀 帝 王 衍 
 trp_kingdom_6_lord_pl|王 衍 
-trp_knight_1_1|王 瓒 将 军 
+trp_knight_1_1|开 封 尹 王 瓒 
 trp_knight_1_1_pl|王 瓒 
-trp_knight_1_2|袁 象 先 将 军 
+trp_knight_1_2|宣 武 军 节 度 使 袁 象 先 
 trp_knight_1_2_pl|袁 象 先 
-trp_knight_1_3|段 凝 将 军 
+trp_knight_1_3|郑 州 刺 史 段 凝 
 trp_knight_1_3_pl|段 凝 
-trp_knight_1_4|霍 彦 威 将 军 
+trp_knight_1_4|陕 州 留 后 霍 彦 威 
 trp_knight_1_4_pl|霍 彦 威 
-trp_knight_1_5|赵 岩 将 军 
+trp_knight_1_5|租 庸 使 赵 岩 
 trp_knight_1_5_pl|赵 岩 
-trp_knight_1_6|董 璋 将 军 
+trp_knight_1_6|泽 州 刺 史 董 璋 
 trp_knight_1_6_pl|董 璋 
-trp_knight_1_7|董 光 业 将 军 
+trp_knight_1_7|董 光 业 
 trp_knight_1_7_pl|董 光 业 
-trp_knight_1_8|王 晏 球 将 军 
+trp_knight_1_8|行 营 马 军 都 指 挥 使 王 晏 球 
 trp_knight_1_8_pl|王 晏 球 
-trp_knight_1_9|康 延 孝 将 军 
+trp_knight_1_9|右 先 锋 指 挥 使 康 延 孝 
 trp_knight_1_9_pl|康 延 孝 
-trp_knight_1_10|温 韬 将 军 
+trp_knight_1_10|静 胜 军 节 度 使 温 韬 
 trp_knight_1_10_pl|温 韬 
-trp_knight_1_11|皇 甫 麟 将 军 
+trp_knight_1_11|控 鹤 都 将 皇 甫 麟 
 trp_knight_1_11_pl|皇 甫 麟 
-trp_knight_1_12|戴 思 远 将 军 
+trp_knight_1_12|天 平 军 节 度 使 戴 思 远 
 trp_knight_1_12_pl|戴 思 远 
-trp_knight_1_13|卢 顺 密 将 军 
+trp_knight_1_13|卢 顺 密 
 trp_knight_1_13_pl|卢 顺 密 
-trp_knight_1_14|刘 嗣 彬 将 军 
+trp_knight_1_14|刘 嗣 彬 
 trp_knight_1_14_pl|刘 嗣 彬 
-trp_knight_1_15|张 宗 奭 将 军 
+trp_knight_1_15|河 南 尹 张 宗 奭 
 trp_knight_1_15_pl|张 宗 奭 
-trp_knight_1_16|王 彦 章 将 军 
+trp_knight_1_16|宣 义 军 节 度 使 王 彦 章 
 trp_knight_1_16_pl|王 彦 章 
-trp_knight_1_17|李 继 韬 将 军 
+trp_knight_1_17|匡 义 节 度 使 李 继 韬 
 trp_knight_1_17_pl|李 继 韬 
-trp_knight_2_1|苏 章 将 军 
+trp_knight_2_1|左 右 街 使 苏 章 
 trp_knight_2_1_pl|苏 章 
-trp_knight_2_2|梁 克 贞 将 军 
+trp_knight_2_2|梁 克 贞 
 trp_knight_2_2_pl|梁 克 贞 
-trp_knight_2_3|李 守 甫 将 军 
+trp_knight_2_3|李 守 甫 
 trp_knight_2_3_pl|李 守 甫 
-trp_knight_2_4|孙 德 威 将 军 
+trp_knight_2_4|孙 德 威 
 trp_knight_2_4_pl|孙 德 威 
-trp_knight_2_5|李 恕 将 军 
+trp_knight_2_5|李 恕 
 trp_knight_2_5_pl|李 恕 
-trp_knight_2_6|万 景 忻 将 军 
+trp_knight_2_6|牙 校 万 景 忻 
 trp_knight_2_6_pl|万 景 忻 
-trp_knight_2_7|李 进 将 军 
+trp_knight_2_7|李 进 
 trp_knight_2_7_pl|李 进 
-trp_knight_2_8|程 宝 将 军 
+trp_knight_2_8|程 宝 
 trp_knight_2_8_pl|程 宝 
-trp_knight_2_9|萧 益 将 军 
+trp_knight_2_9|萧 益 
 trp_knight_2_9_pl|萧 益 
-trp_knight_2_10|杨 洞 潜 将 军 
+trp_knight_2_10|同 平 章 事 杨 洞 潜 
 trp_knight_2_10_pl|杨 洞 潜 
-trp_knight_2_11|李 守 鄘 将 军 
+trp_knight_2_11|李 守 鄘 
 trp_knight_2_11_pl|李 守 鄘 
-trp_knight_2_12|刘 弘 操 将 军 
+trp_knight_2_12|刘 弘 操 
 trp_knight_2_12_pl|刘 弘 操 
-trp_knight_3_1|王 延 美 将 军 
+trp_knight_3_1|王 延 美 
 trp_knight_3_1_pl|王 延 美 
-trp_knight_3_2|王 延 翰 将 军 
+trp_knight_3_2|威 武 军 节 度 副 使 王 延 翰 
 trp_knight_3_2_pl|王 延 翰 
-trp_knight_3_3|王 延 钧 将 军 
+trp_knight_3_3|王 延 钧 
 trp_knight_3_3_pl|王 延 钧 
-trp_knight_3_4|王 延 禀 将 军 
+trp_knight_3_4|建 州 刺 史 王 延 禀 
 trp_knight_3_4_pl|王 延 禀 
-trp_knight_3_5|陈 陶 将 军 
+trp_knight_3_5|陈 陶 
 trp_knight_3_5_pl|陈 陶 
-trp_knight_3_6|王 继 升 将 军 
+trp_knight_3_6|王 继 升 
 trp_knight_3_6_pl|王 继 升 
-trp_knight_3_7|林 仁 翰 将 军 
+trp_knight_3_7|林 仁 翰 
 trp_knight_3_7_pl|林 仁 翰 
-trp_knight_3_8|朱 文 进 将 军 
+trp_knight_3_8|朱 文 进 
 trp_knight_3_8_pl|朱 文 进 
-trp_knight_3_9|李 仁 达 将 军 
+trp_knight_3_9|李 仁 达 
 trp_knight_3_9_pl|李 仁 达 
-trp_knight_3_10|连 重 遇 将 军 
+trp_knight_3_10|连 重 遇 
 trp_knight_3_10_pl|连 重 遇 
-trp_knight_3_11|叶 翘 将 军 
+trp_knight_3_11|叶 翘 
 trp_knight_3_11_pl|叶 翘 
-trp_knight_3_12|王 延 武 将 军 
+trp_knight_3_12|王 延 武 
 trp_knight_3_12_pl|王 延 武 
-trp_knight_4_1|柴 再 用 将 军 
+trp_knight_4_1|武 昌 军 节 度 使 柴 再 用 
 trp_knight_4_1_pl|柴 再 用 
-trp_knight_4_2|蒋 延 徽 将 军 
+trp_knight_4_2|蒋 延 徽 
 trp_knight_4_2_pl|蒋 延 徽 
-trp_knight_4_3|郭 悰 将 军 
+trp_knight_4_3|郭 悰 
 trp_knight_4_3_pl|郭 悰 
-trp_knight_4_4|王 宏 将 军 
+trp_knight_4_4|王 宏 
 trp_knight_4_4_pl|王 宏 
-trp_knight_4_5|周 本 将 军 
+trp_knight_4_5|信 州 刺 史 周 本 
 trp_knight_4_5_pl|周 本 
-trp_knight_4_6|徐 介 将 军 
+trp_knight_4_6|徐 介 
 trp_knight_4_6_pl|徐 介 
-trp_knight_4_7|柯 厚 将 军 
+trp_knight_4_7|柯 厚 
 trp_knight_4_7_pl|柯 厚 
-trp_knight_4_8|宋 齐 丘 将 军 
+trp_knight_4_8|宋 齐 丘 
 trp_knight_4_8_pl|宋 齐 丘 
-trp_knight_4_9|周 宗 将 军 
+trp_knight_4_9|周 宗 
 trp_knight_4_9_pl|周 宗 
-trp_knight_4_10|李 德 诚 将 军 
+trp_knight_4_10|镇 南 军 节 度 使 李 德 诚 
 trp_knight_4_10_pl|李 德 诚 
-trp_knight_4_11|徐 温 将 军 
+trp_knight_4_11|大 丞 相 徐 温 
 trp_knight_4_11_pl|徐 温 
-trp_knight_4_12|徐 知 诰 将 军 
+trp_knight_4_12|参 知 政 事 徐 知 诰 
 trp_knight_4_12_pl|徐 知 诰 
-trp_knight_4_13|严 可 求 将 军 
+trp_knight_4_13|门 下 侍 郎 严 可 求 
 trp_knight_4_13_pl|严 可 求 
-trp_knight_4_14|钟 泰 章 将 军 
+trp_knight_4_14|寿 州 团 练 使 钟 泰 章 
 trp_knight_4_14_pl|钟 泰 章 
-trp_knight_4_15|苗 璘 将 军 
+trp_knight_4_15|苗 璘 
 trp_knight_4_15_pl|苗 璘 
-trp_knight_5_1|姚 彦 章 将 军 
+trp_knight_5_1|宁 远 节 度 副 使 姚 彦 章 
 trp_knight_5_1_pl|姚 彦 章 
-trp_knight_5_2|许 德 勋 将 军 
+trp_knight_5_2|许 德 勋 
 trp_knight_5_2_pl|许 德 勋 
-trp_knight_5_3|廖 匡 齐 将 军 
+trp_knight_5_3|廖 匡 齐 
 trp_knight_5_3_pl|廖 匡 齐 
-trp_knight_5_4|马 希 范 将 军 
+trp_knight_5_4|马 希 范 
 trp_knight_5_4_pl|马 希 范 
-trp_knight_5_5|马 希 声 将 军 
+trp_knight_5_5|马 希 声 
 trp_knight_5_5_pl|马 希 声 
-trp_knight_5_6|高 郁 将 军 
+trp_knight_5_6|都 军 判 官 高 郁 
 trp_knight_5_6_pl|高 郁 
-trp_knight_5_7|王 逵 将 军 
+trp_knight_5_7|王 逵 
 trp_knight_5_7_pl|王 逵 
-trp_knight_5_8|潘 叔 嗣 将 军 
+trp_knight_5_8|潘 叔 嗣 
 trp_knight_5_8_pl|潘 叔 嗣 
-trp_knight_5_9|秦 彦 晖 将 军 
+trp_knight_5_9|秦 彦 晖 
 trp_knight_5_9_pl|秦 彦 晖 
-trp_knight_5_10|李 琼 将 军 
+trp_knight_5_10|李 琼 
 trp_knight_5_10_pl|李 琼 
-trp_knight_5_11|彭 师 暠 将 军 
+trp_knight_5_11|彭 师 暠 
 trp_knight_5_11_pl|彭 师 暠 
-trp_knight_6_1|叶 彦 将 军 
+trp_knight_6_1|叶 彦 
 trp_knight_6_1_pl|叶 彦 
-trp_knight_6_2|张 格 将 军 
+trp_knight_6_2|维 州 司 户 张 格 
 trp_knight_6_2_pl|张 格 
-trp_knight_6_3|王 宗 弼 将 军 
+trp_knight_6_3|太 师 王 宗 弼 
 trp_knight_6_3_pl|王 宗 弼 
-trp_knight_6_4|王 宗 侃 将 军 
+trp_knight_6_4|侍 中 王 宗 侃 
 trp_knight_6_4_pl|王 宗 侃 
-trp_knight_6_5|徐 延 琼 将 军 
+trp_knight_6_5|武 德 军 节 度 使 徐 延 琼 
 trp_knight_6_5_pl|徐 延 琼 
-trp_knight_6_6|王 宗 翰 将 军 
+trp_knight_6_6|同 平 章 事 王 宗 翰 
 trp_knight_6_6_pl|王 宗 翰 
-trp_knight_6_7|宋 光 葆 将 军 
+trp_knight_6_7|宣 徽 北 院 使 宋 光 葆 
 trp_knight_6_7_pl|宋 光 葆 
-trp_knight_6_8|王 承 肇 将 军 
+trp_knight_6_8|武 定 节 度 使 王 承 肇 
 trp_knight_6_8_pl|王 承 肇 
-trp_knight_6_9|潘 峭 将 军 
+trp_knight_6_9|潘 峭 
 trp_knight_6_9_pl|潘 峭 
-trp_knight_6_10|潘 炕 将 军 
+trp_knight_6_10|潘 炕 
 trp_knight_6_10_pl|潘 炕 
-trp_knight_6_11|王 宗 黯 将 军 
+trp_knight_6_11|侍 中 王 宗 黯 
 trp_knight_6_11_pl|王 宗 黯 
-trp_knight_6_12|庾 传 素 将 军 
+trp_knight_6_12|同 平 章 事 庾 传 素 
 trp_knight_6_12_pl|庾 传 素 
-trp_knight_6_13|桑 弘 志 将 军 
+trp_knight_6_13|桑 弘 志 
 trp_knight_6_13_pl|桑 弘 志 
-trp_knight_6_14|林 思 谔 将 军 
+trp_knight_6_14|阆 州 团 练 使 林 思 谔 
 trp_knight_6_14_pl|林 思 谔 
-trp_knight_7_1|郑 昭 淳 将 军 
+trp_knight_7_1|清 容 布 燮 郑 昭 淳 
 trp_knight_7_1_pl|郑 昭 淳 
-trp_knight_7_2|杨 干 贞 将 军 
+trp_knight_7_2|剑 川 节 度 使 杨 干 贞 
 trp_knight_7_2_pl|杨 干 贞 
-trp_knight_7_3|赵 善 政 将 军 
+trp_knight_7_3|清 平 官 赵 善 政 
 trp_knight_7_3_pl|赵 善 政 
-trp_knight_7_4|段 义 宗 将 军 
+trp_knight_7_4|布 燮 段 义 宗 
 trp_knight_7_4_pl|段 义 宗 
-trp_knight_7_5|段 思 平 将 军 
+trp_knight_7_5|幕 览 段 思 平 
 trp_knight_7_5_pl|段 思 平 
-trp_knight_8_1|吴 权 将 军 
+trp_knight_8_1|牙 将 吴 权 
 trp_knight_8_1_pl|吴 权 
-trp_knight_8_2|杨 廷 艺 将 军 
+trp_knight_8_2|爱 州 守 将 杨 廷 艺 
 trp_knight_8_2_pl|杨 廷 艺 
-trp_knight_8_3|矫 公 羡 将 军 
+trp_knight_8_3|矫 公 羡 
 trp_knight_8_3_pl|矫 公 羡 
-trp_knight_8_4|丁 公 著 将 军 
+trp_knight_8_4|丁 公 著 
 trp_knight_8_4_pl|丁 公 著 
-trp_knight_8_5|黎 可 将 军 
+trp_knight_8_5|黎 可 
 trp_knight_8_5_pl|黎 可 
-trp_knight_9_1|耶 律 德 光 将 军 
+trp_knight_9_1|兵 马 大 元 帅 耶 律 德 光 
 trp_knight_9_1_pl|耶 律 德 光 
-trp_knight_9_2|耶 律 倍 将 军 
+trp_knight_9_2|皇 太 子 耶 律 倍 
 trp_knight_9_2_pl|耶 律 倍 
-trp_knight_9_3|卢 文 进 将 军 
+trp_knight_9_3|卢 龙 军 节 度 使 卢 文 进 
 trp_knight_9_3_pl|卢 文 进 
-trp_knight_9_4|王 郁 将 军 
+trp_knight_9_4|王 郁 
 trp_knight_9_4_pl|王 郁 
-trp_knight_9_5|秃 馁 将 军 
+trp_knight_9_5|秃 馁 
 trp_knight_9_5_pl|秃 馁 
-trp_knight_9_6|耶 律 迭 剌 将 军 
+trp_knight_9_6|耶 律 迭 剌 
 trp_knight_9_6_pl|耶 律 迭 剌 
-trp_knight_9_7|耶 律 突 吕 不 将 军 
+trp_knight_9_7|文 班 林 牙 耶 律 突 吕 不 
 trp_knight_9_7_pl|耶 律 突 吕 不 
-trp_knight_9_8|述 律 阿 古 只 将 军 
+trp_knight_9_8|述 律 阿 古 只 
 trp_knight_9_8_pl|述 律 阿 古 只 
-trp_knight_9_9|康 默 记 将 军 
+trp_knight_9_9|夷 离 毕 康 默 记 
 trp_knight_9_9_pl|康 默 记 
-trp_knight_9_10|韩 知 古 将 军 
+trp_knight_9_10|总 知 汉 儿 司 事 韩 知 古 
 trp_knight_9_10_pl|韩 知 古 
-trp_knight_10_1|李 彝 超 将 军 
+trp_knight_10_1|李 彝 超 
 trp_knight_10_1_pl|李 彝 超 
-trp_knight_10_2|李 彝 殷 将 军 
+trp_knight_10_2|李 彝 殷 
 trp_knight_10_2_pl|李 彝 殷 
-trp_knight_10_3|李 仁 宝 将 军 
+trp_knight_10_3|李 仁 宝 
 trp_knight_10_3_pl|李 仁 宝 
-trp_knight_10_4|李 彝 敏 将 军 
+trp_knight_10_4|李 彝 敏 
 trp_knight_10_4_pl|李 彝 敏 
-trp_knight_10_5|李 仁 裕 将 军 
+trp_knight_10_5|宥 州 刺 史 李 仁 裕 
 trp_knight_10_5_pl|李 仁 裕 
-trp_knight_11_1|钱 元 瓘 将 军 
+trp_knight_11_1|镇 海 镇 东 留 后 钱 元 瓘 
 trp_knight_11_1_pl|钱 元 瓘 
-trp_knight_11_2|钱 传 俦 将 军 
+trp_knight_11_2|钱 传 俦 
 trp_knight_11_2_pl|钱 传 俦 
-trp_knight_11_3|钱 传 璙 将 军 
+trp_knight_11_3|镇 东 军 节 度 使 钱 传 璙 
 trp_knight_11_3_pl|钱 传 璙 
-trp_knight_11_4|曹 仲 达 将 军 
+trp_knight_11_4|曹 仲 达 
 trp_knight_11_4_pl|曹 仲 达 
-trp_knight_11_5|沈 崧 将 军 
+trp_knight_11_5|镇 海 掌 书 记 沈 崧 
 trp_knight_11_5_pl|沈 崧 
-trp_knight_11_6|皮 光 业 将 军 
+trp_knight_11_6|皮 光 业 
 trp_knight_11_6_pl|皮 光 业 
-trp_knight_11_7|林 鼎 将 军 
+trp_knight_11_7|林 鼎 
 trp_knight_11_7_pl|林 鼎 
-trp_knight_11_8|仰 仁 诠 将 军 
+trp_knight_11_8|仰 仁 诠 
 trp_knight_11_8_pl|仰 仁 诠 
-trp_knight_11_9|薛 万 忠 将 军 
+trp_knight_11_9|薛 万 忠 
 trp_knight_11_9_pl|薛 万 忠 
-trp_knight_11_10|吴 程 将 军 
+trp_knight_11_10|吴 程 
 trp_knight_11_10_pl|吴 程 
-trp_knight_11_11|元 德 昭 将 军 
+trp_knight_11_11|元 德 昭 
 trp_knight_11_11_pl|元 德 昭 
-trp_knight_12_1|高 从 诲 将 军 
+trp_knight_12_1|马 步 军 都 指 挥 使 高 从 诲 
 trp_knight_12_1_pl|高 从 诲 
-trp_knight_12_2|高 从 诩 将 军 
+trp_knight_12_2|高 从 诩 
 trp_knight_12_2_pl|高 从 诩 
-trp_knight_12_6|梁 震 将 军 
+trp_knight_12_6|梁 震 
 trp_knight_12_6_pl|梁 震 
-trp_knight_12_3|倪 可 福 将 军 
+trp_knight_12_3|都 指 挥 使 倪 可 福 
 trp_knight_12_3_pl|倪 可 福 
-trp_knight_12_4|倪 知 进 将 军 
+trp_knight_12_4|倪 知 进 
 trp_knight_12_4_pl|倪 知 进 
-trp_knight_12_5|孙 光 宪 将 军 
+trp_knight_12_5|陵 州 判 官 孙 光 宪 
 trp_knight_12_5_pl|孙 光 宪 
-trp_knight_13_1|李 继 曮 将 军 
+trp_knight_13_1|彰 义 军 节 度 使 李 继 曮 
 trp_knight_13_1_pl|李 继 曮 
-trp_knight_13_2|李 继 昶 将 军 
+trp_knight_13_2|李 继 昶 
 trp_knight_13_2_pl|李 继 昶 
-trp_knight_13_3|李 从 照 将 军 
+trp_knight_13_3|李 从 照 
 trp_knight_13_3_pl|李 从 照 
-trp_knight_13_4|李 茂 勋 将 军 
+trp_knight_13_4|李 茂 勋 
 trp_knight_13_4_pl|李 茂 勋 
-trp_knight_14_1|夏 鲁 奇 将 军 
+trp_knight_14_1|护 卫 指 挥 使 夏 鲁 奇 
 trp_knight_14_1_pl|夏 鲁 奇 
-trp_knight_14_2|李 嗣 源 将 军 
+trp_knight_14_2|蕃 汉 马 步 副 总 管 李 嗣 源 
 trp_knight_14_2_pl|李 嗣 源 
-trp_knight_14_3|李 存 审 将 军 
+trp_knight_14_3|内 外 蕃 汉 马 步 总 管 李 存 审 
 trp_knight_14_3_pl|李 存 审 
-trp_knight_14_4|王 都 将 军 
+trp_knight_14_4|义 武 军 节 度 使 王 都 
 trp_knight_14_4_pl|王 都 
-trp_knight_14_5|冯 道 将 军 
+trp_knight_14_5|河 东 掌 书 记 冯 道 
 trp_knight_14_5_pl|冯 道 
-trp_knight_14_6|李 继 能 将 军 
+trp_knight_14_6|相 州 刺 史 李 继 能 
 trp_knight_14_6_pl|李 继 能 
-trp_knight_14_7|郭 崇 韬 将 军 
+trp_knight_14_7|中 门 副 使 郭 崇 韬 
 trp_knight_14_7_pl|郭 崇 韬 
-trp_knight_14_8|李 存 渥 将 军 
+trp_knight_14_8|李 存 渥 
 trp_knight_14_8_pl|李 存 渥 
-trp_knight_14_9|张 居 翰 将 军 
+trp_knight_14_9|昭 义 军 监 军 张 居 翰 
 trp_knight_14_9_pl|张 居 翰 
-trp_knight_14_10|任 圜 将 军 
+trp_knight_14_10|潞 州 节 度 判 官 任 圜 
 trp_knight_14_10_pl|任 圜 
-trp_knight_14_11|朱 友 谦 将 军 
+trp_knight_14_11|河 中 节 度 使 朱 友 谦 
 trp_knight_14_11_pl|朱 友 谦 
-trp_knight_14_12|朱 令 德 将 军 
+trp_knight_14_12|同 州 节 度 使 朱 令 德 
 trp_knight_14_12_pl|朱 令 德 
-trp_knight_14_13|朱 令 锡 将 军 
+trp_knight_14_13|朱 令 锡 
 trp_knight_14_13_pl|朱 令 锡 
-trp_knight_14_14|安 重 诲 将 军 
+trp_knight_14_14|中 门 使 安 重 诲 
 trp_knight_14_14_pl|安 重 诲 
-trp_knight_14_15|石 敬 瑭 将 军 
+trp_knight_14_15|左 射 军 使 石 敬 瑭 
 trp_knight_14_15_pl|石 敬 瑭 
-trp_knight_14_16|孟 知 祥 将 军 
+trp_knight_14_16|马 步 都 虞 候 孟 知 祥 
 trp_knight_14_16_pl|孟 知 祥 
-trp_knight_14_17|朱 守 殷 将 军 
+trp_knight_14_17|长 直 军 使 朱 守 殷 
 trp_knight_14_17_pl|朱 守 殷 
 trp_wang_shengui|王 审 知 
 trp_wang_shengui_pl|王 审 知 
@@ -1477,66 +1477,66 @@ trp_town_56_weaponsmith|铸 兵 匠
 trp_town_57_weaponsmith|铸 兵 匠 
 trp_town_58_weaponsmith|铸 兵 匠 
 trp_town_59_weaponsmith|铸 兵 匠 
-trp_town_1_tavernkeeper|酒 馆 掌 柜 
-trp_town_2_tavernkeeper|酒 馆 掌 柜 
-trp_town_3_tavernkeeper|酒 馆 掌 柜 
-trp_town_4_tavernkeeper|酒 馆 掌 柜 
-trp_town_5_tavernkeeper|酒 馆 掌 柜 
-trp_town_6_tavernkeeper|酒 馆 掌 柜 
-trp_town_7_tavernkeeper|酒 馆 掌 柜 
-trp_town_8_tavernkeeper|酒 馆 掌 柜 
-trp_town_9_tavernkeeper|酒 馆 掌 柜 
-trp_town_10_tavernkeeper|酒 馆 掌 柜 
-trp_town_11_tavernkeeper|酒 馆 掌 柜 
-trp_town_12_tavernkeeper|酒 馆 掌 柜 
-trp_town_13_tavernkeeper|酒 馆 掌 柜 
-trp_town_14_tavernkeeper|酒 馆 掌 柜 
-trp_town_15_tavernkeeper|酒 馆 掌 柜 
-trp_town_16_tavernkeeper|酒 馆 掌 柜 
-trp_town_17_tavernkeeper|酒 馆 掌 柜 
-trp_town_18_tavernkeeper|酒 馆 掌 柜 
-trp_town_19_tavernkeeper|酒 馆 掌 柜 
-trp_town_20_tavernkeeper|酒 馆 掌 柜 
-trp_town_21_tavernkeeper|酒 馆 掌 柜 
-trp_town_22_tavernkeeper|酒 馆 掌 柜 
-trp_town_23_tavernkeeper|酒 馆 掌 柜 
-trp_town_24_tavernkeeper|酒 馆 掌 柜 
-trp_town_25_tavernkeeper|酒 馆 掌 柜 
-trp_town_26_tavernkeeper|酒 馆 掌 柜 
-trp_town_27_tavernkeeper|酒 馆 掌 柜 
-trp_town_28_tavernkeeper|酒 馆 掌 柜 
-trp_town_29_tavernkeeper|酒 馆 掌 柜 
-trp_town_30_tavernkeeper|酒 馆 掌 柜 
-trp_town_31_tavernkeeper|酒 馆 掌 柜 
-trp_town_32_tavernkeeper|酒 馆 掌 柜 
-trp_town_33_tavernkeeper|酒 馆 掌 柜 
-trp_town_34_tavernkeeper|酒 馆 掌 柜 
-trp_town_35_tavernkeeper|酒 馆 掌 柜 
-trp_town_36_tavernkeeper|酒 馆 掌 柜 
-trp_town_37_tavernkeeper|酒 馆 掌 柜 
-trp_town_38_tavernkeeper|酒 馆 掌 柜 
-trp_town_39_tavernkeeper|酒 馆 掌 柜 
-trp_town_40_tavernkeeper|酒 馆 掌 柜 
-trp_town_41_tavernkeeper|酒 馆 掌 柜 
-trp_town_42_tavernkeeper|酒 馆 掌 柜 
-trp_town_43_tavernkeeper|酒 馆 掌 柜 
-trp_town_44_tavernkeeper|酒 馆 掌 柜 
-trp_town_45_tavernkeeper|酒 馆 掌 柜 
-trp_town_46_tavernkeeper|酒 馆 掌 柜 
-trp_town_47_tavernkeeper|酒 馆 掌 柜 
-trp_town_48_tavernkeeper|酒 馆 掌 柜 
-trp_town_49_tavernkeeper|酒 馆 掌 柜 
-trp_town_50_tavernkeeper|酒 馆 掌 柜 
-trp_town_51_tavernkeeper|酒 馆 掌 柜 
-trp_town_52_tavernkeeper|酒 馆 掌 柜 
-trp_town_53_tavernkeeper|酒 馆 掌 柜 
-trp_town_54_tavernkeeper|酒 馆 掌 柜 
-trp_town_55_tavernkeeper|酒 馆 掌 柜 
-trp_town_56_tavernkeeper|酒 馆 掌 柜 
-trp_town_57_tavernkeeper|酒 馆 掌 柜 
-trp_town_58_tavernkeeper|酒 馆 掌 柜 
-trp_town_59_tavernkeeper|酒 馆 掌 柜 
-trp_generic_tavernkeeper|客 栈 掌 柜 
+trp_town_1_tavernkeeper|酒 馆 店 主 
+trp_town_2_tavernkeeper|酒 馆 店 主 
+trp_town_3_tavernkeeper|酒 馆 店 主 
+trp_town_4_tavernkeeper|酒 馆 店 主 
+trp_town_5_tavernkeeper|酒 馆 店 主 
+trp_town_6_tavernkeeper|酒 馆 店 主 
+trp_town_7_tavernkeeper|酒 馆 店 主 
+trp_town_8_tavernkeeper|酒 馆 店 主 
+trp_town_9_tavernkeeper|酒 馆 店 主 
+trp_town_10_tavernkeeper|酒 馆 店 主 
+trp_town_11_tavernkeeper|酒 馆 店 主 
+trp_town_12_tavernkeeper|酒 馆 店 主 
+trp_town_13_tavernkeeper|酒 馆 店 主 
+trp_town_14_tavernkeeper|酒 馆 店 主 
+trp_town_15_tavernkeeper|酒 馆 店 主 
+trp_town_16_tavernkeeper|酒 馆 店 主 
+trp_town_17_tavernkeeper|酒 馆 店 主 
+trp_town_18_tavernkeeper|酒 馆 店 主 
+trp_town_19_tavernkeeper|酒 馆 店 主 
+trp_town_20_tavernkeeper|酒 馆 店 主 
+trp_town_21_tavernkeeper|酒 馆 店 主 
+trp_town_22_tavernkeeper|酒 馆 店 主 
+trp_town_23_tavernkeeper|酒 馆 店 主 
+trp_town_24_tavernkeeper|酒 馆 店 主 
+trp_town_25_tavernkeeper|酒 馆 店 主 
+trp_town_26_tavernkeeper|酒 馆 店 主 
+trp_town_27_tavernkeeper|酒 馆 店 主 
+trp_town_28_tavernkeeper|酒 馆 店 主 
+trp_town_29_tavernkeeper|酒 馆 店 主 
+trp_town_30_tavernkeeper|酒 馆 店 主 
+trp_town_31_tavernkeeper|酒 馆 店 主 
+trp_town_32_tavernkeeper|酒 馆 店 主 
+trp_town_33_tavernkeeper|酒 馆 店 主 
+trp_town_34_tavernkeeper|酒 馆 店 主 
+trp_town_35_tavernkeeper|酒 馆 店 主 
+trp_town_36_tavernkeeper|酒 馆 店 主 
+trp_town_37_tavernkeeper|酒 馆 店 主 
+trp_town_38_tavernkeeper|酒 馆 店 主 
+trp_town_39_tavernkeeper|酒 馆 店 主 
+trp_town_40_tavernkeeper|酒 馆 店 主 
+trp_town_41_tavernkeeper|酒 馆 店 主 
+trp_town_42_tavernkeeper|酒 馆 店 主 
+trp_town_43_tavernkeeper|酒 馆 店 主 
+trp_town_44_tavernkeeper|酒 馆 店 主 
+trp_town_45_tavernkeeper|酒 馆 店 主 
+trp_town_46_tavernkeeper|酒 馆 店 主 
+trp_town_47_tavernkeeper|酒 馆 店 主 
+trp_town_48_tavernkeeper|酒 馆 店 主 
+trp_town_49_tavernkeeper|酒 馆 店 主 
+trp_town_50_tavernkeeper|酒 馆 店 主 
+trp_town_51_tavernkeeper|酒 馆 店 主 
+trp_town_52_tavernkeeper|酒 馆 店 主 
+trp_town_53_tavernkeeper|酒 馆 店 主 
+trp_town_54_tavernkeeper|酒 馆 店 主 
+trp_town_55_tavernkeeper|酒 馆 店 主 
+trp_town_56_tavernkeeper|酒 馆 店 主 
+trp_town_57_tavernkeeper|酒 馆 店 主 
+trp_town_58_tavernkeeper|酒 馆 店 主 
+trp_town_59_tavernkeeper|酒 馆 店 主 
+trp_generic_tavernkeeper|客 栈 店 主 
 trp_town_1_merchant|行 商 坐 贾 
 trp_town_2_merchant|行 商 坐 贾 
 trp_town_3_merchant|行 商 坐 贾 
@@ -1944,8 +1944,8 @@ trp_local_merchant|本 地 行 商
 trp_local_merchant_pl|各 地 商 帮 
 trp_tax_rebel|抗 税 义 军 
 trp_tax_rebel_pl|抗 税 义 军 
-trp_trainee_peasant|乡 勇 新 卒 
-trp_trainee_peasant_pl|乡 勇 新 卒 
+trp_trainee_peasant|乡 兵 新 卒 
+trp_trainee_peasant_pl|乡 兵 新 卒 
 trp_fugitive|惊 弓 之 徒 
 trp_fugitive_pl|流 窜 惊 徒 
 trp_belligerent_drunk|醉 汉 莽 夫 
@@ -2055,10 +2055,10 @@ trp_quick_battle_troop_10|扎 伊 拉
 trp_quick_battle_troop_10_pl|扎 伊 拉 
 trp_quick_battle_troop_11|阿 尔 戈 · 森 德 纳 
 trp_quick_battle_troop_11_pl|阿 尔 戈 · 森 德 纳 
-trp_tutorial_fighter_1|新 募 乡 勇 
-trp_tutorial_fighter_1_pl|新 募 乡 勇 
-trp_tutorial_fighter_2|新 募 乡 勇 
-trp_tutorial_fighter_2_pl|新 募 乡 勇 
+trp_tutorial_fighter_1|新 募 乡 兵 
+trp_tutorial_fighter_1_pl|新 募 乡 兵 
+trp_tutorial_fighter_2|新 募 乡 兵 
+trp_tutorial_fighter_2_pl|新 募 乡 兵 
 trp_tutorial_fighter_3|操 练 士 卒 
 trp_tutorial_fighter_3_pl|操 练 士 卒 
 trp_tutorial_fighter_4|百 战 老 卒 

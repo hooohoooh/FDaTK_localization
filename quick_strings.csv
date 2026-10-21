@@ -129,7 +129,7 @@ qstr_{reg60}_{reg59?_{reg|{reg60}{reg59? [  {reg59}王  ]}藩 镇
 qstr_How_will_your_male_v|男 性 封 臣 称 谓 设 定:
 qstr_How_will_your_female|女 性 封 臣 称 谓 设 定:
 qstr_Use_the_Titles_Enter|使 用 自 定 义 称 谓 
-qstr_Use_Default_Titles__|使 用 默 认 称 谓 {主 公 /夫 人} 
+qstr_Use_Default_Titles__|使 用 默 认 称 谓 {主 公/夫 人} 
 qstr_Sell_items_automatic|离 城 时 自 动 出 售:
 qstr_Price_limit_for_auto|自 动 出 售 价 格 上 限:
 qstr_Item_types_for_auto_|自 动 出 售 物 品 种 类:
@@ -146,7 +146,7 @@ qstr_Swadians|沙 陀
 qstr_Vaegirs|契 丹 
 qstr_Khergits|党 项 
 qstr_Nords|渤 海 
-qstr_Rhodoks|南 诏 
+qstr_Rhodoks|长 和 
 qstr_Sarranids|回 鹘 
 qstr_All_Factions|所 有 势 力 
 qstr_Troop_Tree|兵 种 树 
@@ -220,7 +220,7 @@ qstr_{s66}^^{s65}|{s66}^^{s65}
 qstr_{s54}_is_a_claimant_t|{s54}乃 {s56}正 统 继 嗣 . 
 qstr_nowhere|行 踪 不 明 
 qstr_{s57}_and_{s58}|{s57}并 {s58}
-qstr_{reg3?She:He}|{reg3?其 女:其 子}
+qstr_{reg3?She:He}|{reg3?伊:彼}
 qstr_{s66}^{s67}_{s65}__{|{s66}^{s67}{s65} [  {reg7} ]  
 qstr_{s0}._^{reg3?She:He}|{s0}, 现 受 雇 于 {s21}藩 镇 
 qstr_The_town_of_{s50}|{s50}州 府 
@@ -284,7 +284,7 @@ qstr_Small_bands_of_enemi|{s1}附 近 发 现 小 股 敌 军 .
 qstr_Enemy_patrols_spotte|{s1}附 近 发 现 敌 军 斥 候 . 
 qstr_Medium_sized_group_o|{s1}附 近 发 现 中 等 规 模 敌 军 . 
 qstr_Significant_group_of|{s1}附 近 发 现 大 批 敌 军 . 
-qstr_Army_of_enemies_spot|{s1}附 近 发 现 成 建 制 裁 军 . 
+qstr_Army_of_enemies_spot|{s1}附 近 发 现 成 建 制 敌 军 . 
 qstr_Large_army_of_enemie|{s1}附 近 发 现 大 规 模 敌 军 . 
 qstr_Great_host_of_enemie|{s1}附 近 发 现 敌 军 主 力 . 
 qstr_{s0}_collects_{reg0}|{s0}从 {s4}征 收 {reg0}文 钱 , 当 前 库 藏 {reg1}文 
@@ -342,7 +342,7 @@ qstr_Standing|列 阵
 qstr_Free|自 选 
 qstr_Any_Weapon|诸 般 兵 器 
 qstr_Blunt_Weapons|钝 器 
-qstr_Villagers_from_{s10}|{s10}乡 勇 
+qstr_Villagers_from_{s10}|{s10}乡 兵 
 qstr_Your_soldiers_patroll|因 脱 离 阵 营 , {s6}驻 防 部 队 已 遣 散 . 
 qstr_{s1}_Rebels|{s1}叛 军 
 qstr_Given_by:_{s62}|委 托 人:{s62}
@@ -372,8 +372,8 @@ qstr_Watch_Tower|望 楼
 qstr_A_watch_tower_lets_t|望 楼 可 使 乡 民 早 得 警 报 , 敌 军 劫 掠 耗 时 增 50%. 
 qstr_School|乡 校 
 qstr_A_shool_increases_th|乡 校 每 月 可 增 乡 民 忠 忱 度 +1. 
-qstr_Messenger_Post|驿 铺 
-qstr_A_messenger_post_let|驿 铺 可 使 乡 民 随 时 飞 报 敌 情 , 纵 远 在 千 里 亦 可 知 . 
+qstr_Messenger_Post|驿 站 
+qstr_A_messenger_post_let|驿 站 可 使 乡 民 随 时 飞 报 敌 情 , 纵 远 在 千 里 亦 可 知 . 
 qstr_Prison_Tower|狱 所 
 qstr_A_prison_tower_reduc|狱 所 可 降 囚 徒 脱 逃 之 机 . 
 qstr_Prosperity_of_{s2}_h|{s2}繁 荣 度 自 {s3}变 为 {s4}. 
@@ -513,7 +513,7 @@ qstr_Your_followers_were_|从 者 皆 散
 qstr_Evil_Adventurers|绿 林 寇 
 qstr_Current_rank:_{s5}|现 秩:{s5}
 qstr_You_have_left_your_c|已 离 本 阵 
-qstr_If_you_do_not_return|若 不 及 早 归 建 , 以 逃 兵 论 
+qstr_If_you_do_not_return|若 不 及 早 归 队 , 以 逃 兵 论 
 qstr_You_have_rejoined_yo|已 归 本 阵 
 qstr_You_have_been_captur|你 已 被 俘 ! 速 速 脱 身 归 队 
 qstr_If_you_do_not_return_|若 不 速 归 本 阵 或 投 他 部 , 以 逃 兵 论 
@@ -552,7 +552,7 @@ qstr_cavalry|骑 队
 qstr_polearm|矛 兵 
 qstr_skirmisher|游 骑 
 qstr_mounted_archer|弓 骑 
-qstr_support|輜 重 
+qstr_support|辎 重 
 qstr_bodyguard|牙 兵 
 qstr_undetermined_type_of|未 辨 
 qstr_Lame|跛 足 
@@ -615,7 +615,7 @@ qstr_You_are_{s8}._How_yo|你 是 {s8}. 缘 何 现 身 中 原 尚 不 可 知 
 qstr_You_are_{s8}._Your_an|你 是 {s8}. 先 民 曾 臣 服 中 原 , 今 其 帝 国 将 倾 . 何 人 能 剿 灭 群 雄 , 再 建 {s8}王 朝 ! 
 qstr__Next_pay_day:_{s1}|下 次 发 饷 日:{s1}
 qstr_{s1}^^Affiliated_to_|{s1}^^隶 属 于 {s5}
-qstr_You_were_born_the_{r|你 生 为 显 赫 商 贾 之 家 的 {reg3?女 儿:儿 子}. 双 亲 资 财 远 超 常 人 , 尽 心 教 养 于 你 . 然 汝 父 遭 画 皮 妖 物 所 害 , 其 化 身 夺 走 了 商 行 大 权 . 
+qstr_You_were_born_the_{r|你 生 为 显 赫 商 贾 之 家 的 {reg3?女 儿:儿 子}. 双 亲 资 财 远 超 常 人 , 尽 心 教 养 于 你 . 然 汝 父 遭 化 形 妖 物 所 害 , 其 化 身 夺 走 了 商 行 大 权 . 
 qstr_As_a_child_your_fami|少 时 家 道 艰 难 , 父 亲 在 地 方 豪 强 处 当 打 手 讨 生 活 . 饥 寒 交 迫 中 难 求 学 问 , 唯 习 得 街 头 防 身 之 术 , 无 论 空 手 白 刃 皆 能 自 保 . 
 qstr_{reg3?daughter:son}|{reg3?女 儿:儿 子}
 qstr_You_were_the_{reg3?d|你 出 身 耕 读 传 家 之 户 , 春 种 秋 收 、 伐 木 制 箭 , 青 黄 不 接 时 偶 作 猎 户 . 严 冬 常 夺 人 性 命 , 手 足 凋 零 常 见 , 然 你 总 能 熬 到 天 明 . 
@@ -753,11 +753,11 @@ qstr_Moreover_you_earn_{r|更 兼 押 中 自 家 胜 负 , 赢 得 {reg8}文 �
 qstr_Unfortunately_you_di|惜 未 押 注 自 家 胜 负 ...
 qstr_Victory_is_yours!_Yo|大 捷 ! 此 战 虽 胜 , 然 须 速 整 军 备 以 应 下 轮 厮 杀 . 
 qstr_You_have_been_bested|此 战 你 败 下 阵 来 , 然 司 礼 官 念 你 勇 武 , 特 准 入 下 一 轮 较 技 . 
-qstr_You_were_beaten._The|败 于 乡 勇 之 手 . 黔 首 虽 得 胜 气 焰 , 然 尔 欲 示 警 之 效 恐 未 达 ...
-qstr_After_beating_your_l|击 溃 敌 首 后 , 你 教 导 乡 勇 御 敌 之 术 . 望 其 勤 习 以 备 后 患 . 
-qstr_The_bandits_are_brok|贼 众 溃 散 ! 残 兵 败 将 奔 逃 如 丧 家 犬 , 惊 骇 于 乡 勇 与 其 新 主 之 威 . 
+qstr_You_were_beaten._The|败 于 乡 兵 之 手 . 黔 首 虽 得 胜 气 焰 , 然 尔 欲 示 警 之 效 恐 未 达 ...
+qstr_After_beating_your_l|击 溃 敌 首 后 , 你 教 导 乡 兵 御 敌 之 术 . 望 其 勤 习 以 备 后 患 . 
+qstr_The_bandits_are_brok|贼 众 溃 散 ! 残 兵 败 将 奔 逃 如 丧 家 犬 , 惊 骇 于 乡 兵 与 其 新 主 之 威 . 
 qstr_{s1}_s_Ship|{s1}麾 下 艨 艟 
-qstr_However_{reg3?You_ar|然 则 {reg3?尔:其}遍 寻 市 肆 , 未 获 可 牟 利 之 货 殖 . 
+qstr_However_{reg3?You_ar|然 而 {reg3?尔:其}遍 寻 市 肆 , 未 获 可 牟 利 之 货 殖 . 
 qstr_^Buying_{s4}_here_an|^此 间 采 买 {s4}转 售 至 {s5}, 每 件 可 获 {reg6}文 之 利 . {s3}
 qstr_{reg3?You_find:{s1}_|{reg3?尔 探 得:{s1}查 知}如 下 军 情:^{s3}
 qstr_a_travelling_merchan|行 商 贾 客 
@@ -1108,7 +1108,7 @@ qstr_{s12}_{s11}|{s12} -  {s11}
 qstr_You_can_find_ransom_|赎 买 掮 客 聚 于 {s11}
 qstr_A_villager_from_{s7}|{s7}乡 民 哭 诉 求 剿 盘 踞 本 乡 流 寇 
 qstr_You_chose_well_{s0}.|{s0}君 慧 眼 , 但 指 贼 寇 所 在 , 某 当 为 君 除 之 
-qstr_You_chose_well_{s0}._|{s0}君 明 智 , 某 之 {姊 妹/儿 郎}最 重 然 诺 
+qstr_You_chose_well_{s0}._|{s0}君 明 智 , 某 之 {儿 郎/姊 妹}最 重 然 诺 
 qstr_Well_done_{s0}._Keep|{s0}君 干 练 , 但 得 钱 粮 酒 水 不 断 , 中 原 无 人 敢 犯 
 qstr_We_are_at_your_servi|某 等 听 凭 {s0}差 遣 , 但 有 所 指 贼 巢 , 必 为 荡 平 
 qstr_Excellent_gift_{play|{playername}厚 赠 , 某 当 遍 告 四 方 君 乃 贤 明 之 主 
@@ -1132,7 +1132,7 @@ qstr_The_{s9}_of_{s3}_asked_|{s3}之 {s9}索 要 工 具 一 捆
 qstr_The_{s9}_of_{s3}_asked_y|{s3}之 {s9}请 将 军 截 击 自 {s7}来 袭 之 捕 奴 队 
 qstr_The_leader_of_the_vi|{s3}里 正 求 将 军 缉 拿 藏 匿 本 乡 逃 奴 
 qstr_The_slave_has_joined|逃 奴 已 投 将 军 麾 下 
-qstr_The_{s9}_of_{s13}_as|{s13}之 {s9}请 训 {reg5}乡 勇 御 匪 
+qstr_The_{s9}_of_{s13}_as|{s13}之 {s9}请 训 {reg5}乡 兵 御 匪 
 qstr_The_{s9}_of_{s3}_asked_yo|{s3}之 {s9}索 要 {reg5}头 牲 畜 
 qstr_Greetings_{reg40?my_|问 {reg40?娘 子:郎 君}安 , 幸 会 尊 驾 
 qstr_Hello._You_seem_to_b|瞧 着 面 生 , 敢 问 高 姓 大 名 ? 

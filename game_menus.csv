@@ -238,7 +238,7 @@ menu_siege_join_defense|{s4}^^本 部 折 损:{s8}^^盟 军 折 损:{s9}^^敌 �
 menu_enter_your_own_castle|{s10}
 menu_village|{s10}{s12}^{s11}^{s6}{s7}
 mno_village_manage|经 略 此 村 
-mno_recruit_volunteers|募 乡 勇 
+mno_recruit_volunteers|募 乡 兵 
 mno_village_center|往 村 中 
 mno_village_center_door|村 社 门 庭 
 mno_dplmc_village_elder_meeting|谒 {s20}
@@ -251,7 +251,7 @@ mno_village_wait|暂 驻 此 地
 mno_dplmc_village_counter_insurgency|弹 压 民 变 
 mno_dplmc_village_negotiate|开 启 和 谈 
 mno_collect_taxes_qst|{reg5?续 征:开 征}应 缴 {s1}之 赋 税 
-mno_train_peasants_against_bandits_qst|操 练 乡 勇 
+mno_train_peasants_against_bandits_qst|操 练 乡 兵 
 mno_village_hostile_action|行 劫 掠 事 
 mno_village_leave|离 开 村 庄 ...
 menu_village_hostile_action|意 欲 何 为 ? 
@@ -268,10 +268,10 @@ mno_village_bandits_defeated_accept|此 乃 应 得 之 酬
 mno_village_bandits_defeated_cont|推 辞 不 受 , 令 其 自 用 
 menu_center_manage|{s19}^{reg6?^^当 前 营 建 {s7}, 尚 需 {reg8}日 {reg9?可 成:可 成}.:}
 mno_center_build_manor|营 建 庄 院 
-mno_center_build_fish_pond|修 筑 碾 坊 
+mno_center_build_fish_pond|修 筑 鱼 塘 
 mno_center_build_watch_tower|设 立 望 楼 
 mno_center_build_school|兴 办 学 塾 
-mno_center_build_messenger_post|设 置 驿 铺 
+mno_center_build_messenger_post|设 置 驿 站 
 mno_center_build_prisoner_tower|建 造 囚 塔 
 menu_center_improve|{s19}营 建 {s4}需 {reg5}文 钱 、 {reg6}日 , 工 师 {reg3?言 道:{s3}估 算}
 mno_dplmc_improve_cont|着 即 兴 造  [  支 用 官 钱  ]  
@@ -320,7 +320,7 @@ mno_town_enterprise_door|产 业 门 户
 mno_visit_lady|求 见 贵 眷 
 mno_visit_lady_door|后 苑 角 门 
 mno_trade_with_merchants|市 易 坊 市 
-mno_recruit_town_volunteers|募 集 乡 勇 
+mno_recruit_town_volunteers|募 集 乡 兵 
 mno_walled_center_manage|治 理 {reg0?城 邑:堡 寨}
 mno_walled_center_move_court|移 驾 驻 跸 
 mno_castle_station_troops|调 配 驻 军 {s10}
@@ -373,13 +373,13 @@ menu_collect_taxes_revolt_warning|{s3}百 姓 怨 声 载 道 , 斥 尔 横 征 
 mno_continue_collecting_taxes|置 若 罔 闻 , 照 征 不 误 . 
 mno_halve_taxes|允 诺 减 赋 五 成  [  恐 触 怒 {s1} ]  
 menu_collect_taxes_revolt|正 于 {s3}征 敛 之 际 , 忽 见 黑 压 压 数 百 {reg9?乡 民:市 井 之 徒}持 械 举 火 汹 汹 而 来 , 口 中 叫 骂 苛 捐 杂 税 , 竟 欲 与 尔 兵 戎 相 见 ! 
-menu_train_peasants_against_bandits|军 中 操 练 最 精 者 乃 {reg2}之 {reg3?足 下 自 当:{s1}当}操 演 乡 勇 , 预 计 需 费 时 {reg4}时 辰 . 
+menu_train_peasants_against_bandits|军 中 操 练 最 精 者 乃 {reg2}之 {reg3?足 下 自 当:{s1}当}操 演 乡 兵 , 预 计 需 费 时 {reg4}时 辰 . 
 mno_make_preparation|即 刻 操 练 
 mno_train_later|暂 且 搁 置 
-menu_train_peasants_against_bandits_ready|授 乡 勇 阵 法 纪 律 , 约 {reg0}人 {reg1?等:者}已 得 要 领 , 可 临 战 阵 . 
+menu_train_peasants_against_bandits_ready|授 乡 兵 阵 法 纪 律 , 约 {reg0}人 {reg1?等:者}已 得 要 领 , 可 临 战 阵 . 
 mno_peasant_start_practice|开 演 实 战 
 menu_train_peasants_against_bandits_training_result|{s0}
-menu_train_peasants_against_bandits_attack|操 演 方 酣 , 忽 有 乡 民 疾 呼 告 警 , 云 盗 匪 已 犯 {s3}境 . 里 正 恳 请 率 新 训 乡 勇 御 敌 . 
+menu_train_peasants_against_bandits_attack|操 演 方 酣 , 忽 有 乡 民 疾 呼 告 警 , 云 盗 匪 已 犯 {s3}境 . 里 正 恳 请 率 新 训 乡 兵 御 敌 . 
 mno_peasants_against_bandits_attack_resist|列 阵 迎 敌 
 menu_train_peasants_against_bandits_attack_result|{s9}
 menu_train_peasants_against_bandits_success|盗 匪 溃 散 , 余 者 皆 鼠 窜 . 乡 民 感 佩 尔 恩 德 , 虽 经 劫 掠 囊 中 羞 涩 , 仍 倾 其 所 有 以 献 . 
@@ -529,7 +529,7 @@ menu_notification_player_should_consult|政 务 提 醒 ^{reg0?军 师:{s11}}禀
 menu_notification_player_feast_in_progress|宴 会 筹 备 ^{reg40?夫 君:夫 人}正 在 {s11}筹 办 宫 廷 盛 宴 . 
 menu_notification_lady_requests_visit|密 函 邀 约 ^老 妪 递 来 蜡 封 密 信 , 乃 {s15}手 书:"盼 重 聚 . {s14}妾 身 在 {s10}. {s12}
 menu_garden|{s12}
-mno_nurse|随 嬷 嬷 前 往 
+mno_nurse|随 乳 母 前 往 
 menu_kill_local_merchant_begin|暗 杀 行 动 ^你 尾 随 目 标 至 暗 巷 , 此 刻 正 是 下 手 良 机 . 
 menu_debug_alert_from_s65|调 试 警 报:{s65}
 menu_auto_return_to_map|残 本 
@@ -612,7 +612,7 @@ menu_dplmc_scout|细 作 自 {s10}归 来 禀 报:{s11}{s12}
 menu_dplmc_domestic_policy|现 可 调 整 幕 府 治 政 方 略 . 是 否 立 即 更 张 ? 
 mno_dplmc_yes|准 , 即 刻 调 整 治 政 方 略 . 
 mno_dplmc_no|否 , 维 持 现 行 方 略 . 
-menu_dplmc_preferences|外 交 策 略 4.2 [  显 德 七 年 十 一 月 廿 七  ]  {s0}
+menu_dplmc_preferences|外 交 策 略 4.2 [  龙 德 三 年 十 一 月 廿 七  ]  {s0}
 mno_dplmc_disable_horse_speed|停 用 幕 府 策 论 之 马 匹 疾 驰 . 
 mno_dplmc_enable_horse_speed|启 用 幕 府 策 论 之 马 匹 疾 驰 . 
 mno_dplmc_disable_terrain_advantage|停 用 战 阵 推 演 之 地 利 优 势  [  当 前 已 启 用  ]  . 
@@ -662,13 +662,13 @@ menu_recruit_town_volunteers|{s18}
 menu_slave_hideout|发 现 流 民 巢 穴 , 如 何 处 置 ? 
 menu_world_map_soldier|您 现 为 {s6}麾 下 军 士 . 
 mno_join_commander_battle|随 主 将 列 阵 迎 敌 . 
-mno_enter_town|进 驻 屯 驻 城 邑 . 
+mno_enter_town|进 驻 城 邑 . 
 mno_commander|求 见 主 将 议 事 . 
 mno_revolt|举 兵 反 叛 主 将 ! 
 mno_revolt_disabled|时 机 未 至 , 且 待 良 机 . 
 mno_desert|弃 军 逃 亡 . 
 mno_regiment_destroyed|{s4}所 部 已 全 军 覆 没 . 
-mno_report|军 情 塘 报 
+mno_report|军 情 驿 报 
 mno_return_to_duty|返 回 行 伍 . 
 menu_commander_aud|通 传 后 , 主 将 {s6}出 帐 接 见 . 
 mno_reject_talk_lord|无 要 事 禀 告 . 

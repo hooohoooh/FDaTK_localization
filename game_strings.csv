@@ -99,8 +99,8 @@ str_she_b|此 姝
 str_s3s_s2|{s3}之 {s2}
 str_s5_is_s51|{s5}现 居 {s51}. 
 str_s5_is_the_ruler_of_s51|{s5}乃 {s51}藩 镇 之 主 . 
-str_s5_is_a_nobleman_of_s6|{s5}系 {s6}镇 {贵 女/世 家 子 弟}. 
-str_s5_is_a_nobleman_of_s6_old|{s5}乃 {s6}镇 {贵 女/世 家 子 弟}. 
+str_s5_is_a_nobleman_of_s6|{s5}系 {s6}镇 {reg4?贵 女:世 家 子 弟}. 
+str_s5_is_a_nobleman_of_s6_old|{s5}乃 {s6}镇 {reg4?贵 女:世 家 子 弟}. 
 str_relation_mnus_100|血 仇 
 str_relation_mnus_90|血 仇 
 str_relation_mnus_80|血 仇 
@@ -235,12 +235,12 @@ str_war_report_plus_2|战 事 进 展 顺 利
 str_war_report_plus_3|破 敌 如 探 囊 取 物 
 str_war_report_plus_4|我 军 胜 券 在 握 
 str_persuasion_summary_very_bad|你 竭 力 游 说 {s50}, 然 言 辞 多 有 错 漏 . 每 每 欲 申 明 大 义 , 却 总 口 不 择 言 . 待 到 语 罢 , 非 但 未 能 自 圆 其 说 , 反 令 处 境 愈 艰 . 观 {s50}神 色 , 显 然 不 为 所 动 . 
-str_persuasion_summary_bad|你 欲 说 服 {s50}, 然 {伊/彼}机 锋 处 处 占 先 . 纵 是 妙 语 亦 显 苍 白 , {s50}闻 之 不 过 付 之 一 哂 . 
+str_persuasion_summary_bad|你 欲 说 服 {s50}, 然 {reg51?伊:彼}机 锋 处 处 占 先 . 纵 是 妙 语 亦 显 苍 白 , {s50}闻 之 不 过 付 之 一 哂 . 
 str_persuasion_summary_average|{s50}辩 才 无 碍 机 锋 锐 利 , 你 每 有 高 论 必 遭 驳 斥 . 往 来 交 锋 , 终 究 难 分 轩 轾 . 
-str_persuasion_summary_good|你 巧 言 令 色 步 步 紧 逼 , 迫 得 {s50}数 度 让 步 . 然 {伊/彼}眉 间 犹 存 疑 虑 , 未 肯 全 然 应 允 . 
+str_persuasion_summary_good|你 巧 言 令 色 步 步 紧 逼 , 迫 得 {s50}数 度 让 步 . 然 {reg51?伊:彼}眉 间 犹 存 疑 虑 , 未 肯 全 然 应 允 . 
 str_persuasion_summary_very_good|你 慷 慨 陈 词 声 震 屋 瓦 , 闻 者 莫 不 屏 息 . 天 地 似 也 为 之 一 肃 . {s50}深 受 触 动 , 相 助 之 意 已 然 分 明 . 
 str_secret_sign_1|衣 橱 子 夜 起 舞 ...
-str_secret_sign_2|某 有 上 品 西 域 织 锦 , 客 官 可 要 置 办 些 ? 
+str_secret_sign_2|某 有 上 品 西 域 织 锦 , 客 人 可 要 置 办 些 ? 
 str_secret_sign_3|故 人 之 友 遣 某 前 来 ...
 str_secret_sign_4|东 来 罡 风 劲 , 赤 水 漫 河 床 ...
 str_countersign_1|然 其 为 五 斗 柜 舞 , 抑 或 烛 台 旋 ? 
@@ -329,10 +329,10 @@ str_retirement_text_2|待 钱 财 散 尽 方 知 悔 , 往 日 积 蓄 早 已 
 str_retirement_text_3|待 你 幡 然 醒 悟 时 , 囊 中 钱 帛 早 已 散 尽 . 转 眼 间 便 挥 霍 完 微 薄 积 蓄 , 沦 落 成 沿 路 乞 食 的 游 民 , 只 能 在 酒 肆 里 靠 着 给 善 心 酒 客 讲 些 无 人 相 信 的 沙 场 旧 事 , 讨 几 口 残 酒 喝 . 
 str_retirement_text_4|攒 下 的 银 钱 虽 不 经 花 , 倒 也 置 办 得 起 {s7}村 外 的 几 亩 薄 田 . 你 成 了 自 由 农 人 , 很 快 便 有 说 媒 的 上 门 提 亲 . 日 子 久 了 , 乡 邻 都 将 你 奉 为 本 地 豪 杰 . 每 逢 节 庆 必 留 上 座 , 酒 肆 里 反 反 复 复 传 颂 你 的 事 迹 , 好 教 孩 童 们 世 世 代 代 记 得 你 威 名 . 
 str_retirement_text_5|积 蓄 虽 不 丰 厚 , 足 够 在 {s9}盘 下 间 小 酒 肆 . 起 初 乡 人 还 对 你 心 存 戒 备 , 日 久 便 打 成 一 片 . 凭 着 赫 赫 威 名 和 沙 场 轶 事 , 你 的 酒 肆 渐 渐 成 了 远 近 闻 名 的 宴 饮 之 所 , 八 方 来 客 皆 为 听 你 说 书 演 义 . 
-str_retirement_text_6|多 年 沙 场 攒 下 的 银 钱 都 作 了 精 明 买 卖 , 在 {s9}置 办 商 铺 货 栈 . 凭 着 过 人 手 段 , 你 成 了 城 里 数 一 数 二 的 豪 商 巨 贾 , 既 是 战 阵 骁 将 亦 是 商 界 翘 楚 的 {巾 帼/须 眉}. 
+str_retirement_text_6|多 年 沙 场 攒 下 的 银 钱 都 作 了 精 明 买 卖 , 在 {s9}置 办 商 铺 货 栈 . 凭 着 过 人 手 段 , 你 成 了 城 里 数 一 数 二 的 豪 商 巨 贾 , 既 是 战 阵 骁 将 亦 是 商 界 翘 楚 的 {须 眉/巾 帼}. 
 str_retirement_text_7|既 已 封 爵 立 府 , 余 生 自 是 无 忧 . 你 坐 镇 {s7}的 坞 堡 , 理 田 亩 、 断 讼 案 、 奉 节 度 . 偶 尔 应 召 随 主 君 出 征 , 也 不 过 是 短 暂 操 练 兵 马 , 再 不 复 少 年 时 浪 迹 天 涯 的 游 侠 生 涯 . 自 有 庄 园 田 产 , 富 贵 已 极 , 凡 所 求 取 无 不 可 得 . 
 str_retirement_text_8|毋 庸 置 疑 , 你 已 为 自 己 挣 得 锦 绣 前 程 . 广 袤 封 邑 与 冒 险 所 得 足 以 令 余 生 尽 享 富 贵 安 逸 . 你 退 隐 至 {s8}的 贵 族 庄 园 , 将 冒 险 换 作 权 谋 , 很 快 在 主 君 朝 廷 中 崭 露 头 角 . 周 旋 于 阴 谋 诡 计 , 狩 猎 于 自 家 林 苑 , 宴 饮 于 华 堂 之 上 , 讲 述 百 战 传 奇 , 往 后 的 岁 月 自 有 一 番 逍 遥 快 意 . 
-str_retirement_text_9|主 君 感 念 你 忠 心 勤 勉 , 特 赐 世 袭 爵 位 , 跻 身 王 国 显 贵 之 列 . 你 受 封 为 {s7}男 爵 , 成 为 主 君 近 臣 幕 僚 . 赫 赫 威 名 既 带 来 显 赫 权 柄 , 亦 暗 藏 翻 云 覆 雨 之 力 . 如 今 你 终 日 运 筹 帷 幄 , 治 理 广 袤 封 地 , 追 忆 往 昔 峥 嵘 岁 月 . 
+str_retirement_text_9|主 君 感 念 你 忠 心 勤 勉 , 特 赐 世 袭 爵 位 , 跻 身 王 国 显 贵 之 列 . 你 受 封 为 {s7}开 国 县 男 , 成 为 主 君 近 臣 幕 僚 . 赫 赫 威 名 既 带 来 显 赫 权 柄 , 亦 暗 藏 翻 云 覆 雨 之 力 . 如 今 你 终 日 运 筹 帷 幄 , 治 理 广 袤 封 地 , 追 忆 往 昔 峥 嵘 岁 月 . 
 str_retirement_text_10|您 虽 出 身 寒 微 , 主 君 却 对 您 器 重 有 加 . 当 敕 封 为 {s9}世 袭 平 章 事 时 , 朝 野 为 之 震 动 . 广 袤 封 邑 与 万 贯 家 财 尽 归 您 治 下 . 转 瞬 间 您 便 成 主 君 最 倚 重 的 谋 臣 , 几 近 并 肩 而 治 , 代 摄 国 政 , 高 坐 华 殿 宝 座 , 俨 然 当 世 最 煊 赫 的 辅 弼 之 臣 . 
 str_loot_village|劫 掠 无 辜 村 民 
 str_steal_from_villagers|窃 取 穷 苦 村 民 财 物 
@@ -366,7 +366,7 @@ str_bar_weary|师 老 兵 疲
 str_bar_disgruntled|怨 声 载 道 
 str_bar_miserable|溃 乱 在 即 
 str_here_plus_space|此 处 ?
-str_npc1_intro|客 官 留 步 . 敢 问 阁 下 可 需 斥 候 随 行 ? 
+str_npc1_intro|客 人 留 步 . 敢 问 阁 下 可 需 斥 候 随 行 ? 
 str_npc2_intro|幸 会 . 可 否 赏 光 共 饮 一 杯 ? 如 今 小 可 只 剩 五 文 铜 钱 , 实 不 愿 独 酌 . 
 str_npc3_intro|贵 客 万 安 ! 
 str_npc4_intro|幸 会 . 某 乃 {s60}, {s60}之 子 , 出 自 {s60}郡 望 世 家 . 
@@ -419,7 +419,7 @@ str_npc2_backstory_a|此 事 说 来 凄 怆 .
 str_npc3_backstory_a|问 得 在 理 , 某 当 细 禀 . 
 str_npc4_backstory_a|竟 不 知 耶 ? 倒 也 难 怪 . 某 族 故 土 远 在 关 山 之 外 . 
 str_npc5_backstory_a|某 乃 {s60}. 若 非 化 外 之 人 , 当 知 某 乃 高 原 游 牧 世 家 , 出 自 大 川 巨 谷 , 或 可 推 知 某 何 以 漂 泊 至 此 . 
-str_npc6_backstory_a|某 犯 天 条 , {公 子/娘 子}权 当 某 之 告 解 神 父 可 好 ? 
+str_npc6_backstory_a|某 犯 天 条 , {公 子/娘 子}权 当 某 之 忏 悔 师 可 好 ? 
 str_npc7_backstory_a|运 蹇 ? 倒 也 贴 切 . 
 str_npc8_backstory_a|既 蒙 垂 问 , 某 当 尽 述 . 
 str_npc9_backstory_a|某 眼 拙 , 这 烟 瘴 之 地 实 难 辨 人 . 落 魄 至 此 , 诚 难 自 处 . 
@@ -452,7 +452,7 @@ str_npc3_backstory_c|婚 嫁 之 事 岂 容 他 人 置 喙 ? 纵 是 严 父 �
 str_npc4_backstory_c|但 求 避 祸 , 若 有 军 伍 可 投 , 感 激 不 尽 . 
 str_npc5_backstory_c|眼 下 但 凭 三 尺 剑 谋 生 . 
 str_npc6_backstory_c|像 我 这 般 的 人 还 有 救 赎 之 机 吗 ? 我 能 否 找 到 正 道 , 还 是 注 定 要 追 随 盘 踞 心 中 的 邪 魔 ? 
-str_npc7_backstory_c|客 官 莫 要 觉 得 我 命 苦 , 中 原 大 地 的 妇 人 哪 个 不 是 这 般 ? 这 腌 臜 穷 乡 僻 壤 , 列 国 中 如 同 粪 坑 般 的 存 在 , 尽 是 些 猿 猴 蠢 驴 之 徒 . 
+str_npc7_backstory_c|客 人 莫 要 觉 得 我 命 苦 , 中 原 大 地 的 妇 人 哪 个 不 是 这 般 ? 这 腌 臜 穷 乡 僻 壤 , 列 国 中 如 同 粪 坑 般 的 存 在 , 尽 是 些 猿 猴 蠢 驴 之 徒 . 
 str_npc8_backstory_c|待 我 攒 够 招 兵 买 马 的 金 铢 , 定 要 杀 回 故 里 夺 回 属 于 我 的 东 西 . 
 str_npc9_backstory_c|本 欲 投 效 明 主 帐 下 为 将 , 毕 竟 我 们 这 等 世 家 子 弟 除 了 守 祖 产 也 就 从 军 算 正 经 营 生 . 可 眼 下 还 得 与 流 寇 、 行 商 、 浪 荡 子 这 些 下 九 流 厮 混 . 
 str_npc10_backstory_c|今 朝 有 酒 今 朝 醉 , 明 日 愁 来 明 日 当 . 
@@ -470,7 +470,7 @@ str_npc5_backstory_later|在 这 兵 荒 马 乱 的 世 道 里 游 荡 , 想 �
 str_npc6_backstory_later|走 遍 中 原 州 县 , 却 始 终 未 能 赎 清 罪 孽 . 
 str_npc7_backstory_later|本 想 靠 追 踪 本 事 谋 生 , 奈 何 中 原 人 多 是 粗 鄙 愚 钝 之 辈 , 实 在 难 以 共 事 . 
 str_npc8_backstory_later|想 找 位 愿 带 兵 征 战 的 统 帅 投 效 , 可 如 今 藩 镇 多 龟 缩 在 坞 堡 里 , 哪 有 建 功 立 业 的 机 会 ? 
-str_npc9_backstory_later|给 本 地 几 位 节 帅 递 过 名 帖 , 结 果 净 是 些 跑 腿 传 话 、 操 练 乡 勇 的 差 事 , 辱 没 斯 文 ! 
+str_npc9_backstory_later|给 本 地 几 位 节 帅 递 过 名 帖 , 结 果 净 是 些 跑 腿 传 话 、 操 练 乡 兵 的 差 事 , 辱 没 斯 文 ! 
 str_npc10_backstory_later|当 初 有 个 衙 内 无 故 要 鞭 笞 我 , 一 怒 之 下 揍 了 他 就 开 溜 . 幸 亏 临 走 顺 了 队 正 的 钱 囊 , 如 今 也 快 见 底 了 . 
 str_npc11_backstory_later|老 身 这 把 年 纪 , 军 营 都 不 愿 收 . 别 看 老 , 收 拾 三 五 个 后 生 不 在 话 下 . 
 str_npc12_backstory_later|靠 行 医 勉 强 糊 口 , 可 乡 民 愚 昧 不 识 岐 黄 , 挣 的 钱 连 药 材 都 买 不 起 . 
@@ -646,7 +646,7 @@ str_npc3_personalityclash_speech_b|治 军 严 厉 无 可 厚 非 , 可 那 厮
 str_npc4_personalityclash_speech_b|如 今 真 是 世 风 日 下 , 黔 首 都 敢 嘲 弄 贵 胄 了 . 
 str_npc5_personalityclash_speech_b|某 回 他 说 看 不 惯 就 去 做 和 尚 , 省 得 在 军 中 聒 噪 . 
 str_npc6_personalityclash_speech_b|某 虽 罪 孽 深 重 , 可 那 巫 婆 凭 甚 用 邪 术 辱 我 ? 
-str_npc7_personalityclash_speech_b|那 厮 饭 后 剔 牙 盯 着 某 家 的 眼 神 , 活 像 当 年 劫 道 的 响 马 . 
+str_npc7_personalityclash_speech_b|那 厮 饭 后 剔 牙 盯 着 某 家 的 眼 神 , 活 像 当 年 劫 道 的 马 贼 . 
 str_npc8_personalityclash_speech_b|要 不 是 给 您 面 子 , 某 早 割 了 {s11}的 舌 头 ! 
 str_npc9_personalityclash_speech_b|再 敢 造 次 , 某 家 定 要 与 他 白 刃 相 见 ! 
 str_npc10_personalityclash_speech_b|什 么 世 家 子 弟 , 分 明 是 个 冒 牌 货 ! 某 刚 讥 了 他 两 句 就 急 眼 . 
@@ -722,11 +722,11 @@ str_npc15_personalitymatch_speech_b|用 兵 之 道 , 贵 在 庙 算 . 咱 们 
 str_npc16_personalitymatch_speech_b|大 人 可 听 过 她 的 遭 遇 ? 那 帮 畜 生 简 直 该 千 刀 万 剐 ! 哪 天 撞 见 , 某 家 定 要 让 他 们 尝 尝 "鱼 鳞 剐 "的 滋 味 ! 
 str_npc1_retirement_speech|刀 头 舔 血 的 日 子 某 家 过 腻 了 . 这 些 年 攒 的 银 子 够 回 乡 下 娶 房 媳 妇 , 买 几 亩 薄 田 , 养 群 好 马 踏 踏 实 实 过 日 子 . 
 str_npc2_retirement_speech|某 打 算 用 积 蓄 贩 批 皮 货 丝 绸 , 翻 过 太 行 山 去 北 边 卖 . 这 些 年 承 蒙 关 照 , 就 此 别 过 , 祝 大 人 前 程 似 锦 . 
-str_npc3_retirement_speech|奴 家 思 前 想 后 , 终 究 不 适 军 旅 . 这 些 积 蓄 够 在 汴 梁 盘 间 铺 面 , 卖 些 胭 脂 水 粉 . 望 大 人 莫 怪 奴 家 半 途 而 废 . 
+str_npc3_retirement_speech|奴 家 思 前 想 后 , 终 究 不 适 军 旅 . 这 些 积 蓄 够 盘 下 一 间 铺 面 , 卖 些 胭 脂 水 粉 . 望 大 人 莫 怪 奴 家 半 途 而 废 . 
 str_npc4_retirement_speech|某 以 {s60}氏 之 名 随 征 , 然 观 大 人 治 军 , 实 非 明 主 . 某 这 就 回 祖 宅 整 顿 家 业 , 告 辞 . 
 str_npc5_retirement_speech|某 随 可 汗 出 生 入 死 , 却 未 得 应 有 器 重 . 如 今 攒 够 赎 身 钱 , 该 回 草 原 找 父 兄 去 了 . 长 生 天 保 佑 您 . 
 str_npc6_retirement_speech|某 本 欲 借 行 伍 洗 刷 罪 孽 , 然 观 大 人 所 为 , 恐 非 正 道 . 此 去 云 游 四 方 , 或 可 觅 得 真 解 脱 . 
-str_npc7_retirement_speech|这 般 杀 来 抢 去 的 腌 臜 日 子 某 过 够 了 . 攒 的 银 子 够 买 船 下 南 洋 , 听 说 那 边 有 片 净 土 . 咱 们 就 此 别 过 . 
+str_npc7_retirement_speech|这 般 杀 来 抢 去 的 腌 臜 日 子 某 过 够 了 . 攒 的 银 子 够 买 船 泛 海 , 听 说 那 边 有 片 净 土 . 咱 们 就 此 别 过 . 
 str_npc8_retirement_speech|我 曾 在 你 盾 墙 中 浴 血 奋 战 , 也 立 下 不 少 战 功 . 但 你 的 指 挥 方 式 总 不 合 我 心 意 , 况 且 我 另 有 要 务 . 我 要 带 着 积 攒 的 战 利 品 自 组 战 团 , 前 往 {s54}夺 回 亡 夫 厅 堂 — — 那 背 信 弃 义 的 姻 亲 兄 弟 强 占 了 它 . 祝 君 武 运 昌 隆 . 
 str_npc9_retirement_speech|我 们 并 肩 作 战 赢 得 无 数 荣 光 . 但 你 的 统 御 之 道 令 我 有 所 保 留 , 且 我 需 收 复 祖 传 封 地 . 就 此 别 过 , 或 许 他 日 江 湖 再 会 . 
 str_npc10_retirement_speech|老 子 受 够 在 中 原 大 地 南 北 奔 波 的 日 子 了 ! 攒 的 钱 够 买 块 薄 田 , 打 算 试 试 农 耕 活 计 . 后 会 有 期 , 愿 你 福 星 高 照 . 
@@ -795,7 +795,7 @@ str_npc8_home_description_2|游 吟 诗 人 的 鬼 话 倒 给 了 李 克 用 
 str_npc9_home_description_2|沙 陀 人 能 找 北 山 亲 戚 , 汉 人 也 能 找 南 山 同 族 . 要 不 是 我 爹 把 我 赶 出 家 门 , 我 本 要 去 {s54}效 忠 领 主 的 . 现 在 倒 好 , 没 了 家 业 也 不 用 尽 忠 , 是 皇 帝 老 儿 的 损 失 . 
 str_npc10_home_description_2|咱 们 这 产 桑 养 蚕 , 胭 脂 虫 染 红 绸 . 料 子 送 到 {s54}织 天 鹅 绒 — — 虽 然 咱 买 不 起 . 不 过 {s54}工 匠 造 的 弩 机 确 实 好 , 这 点 服 气 . 
 str_npc11_home_description_2|皇 帝 老 说 {s54}是 前 朝 中 原 第 一 大 城 , 所 以 该 他 坐 龙 椅 . 要 我 说 , 管 他 谁 当 皇 帝 , 军 粮 钱 款 不 到 手 绝 不 发 货 ! 这 些 贵 人 咋 就 老 赖 账 呢 ? 哎 呦 , 扯 远 了 . 
-str_npc12_home_description_2|药 毒 本 一 家 , 全 看 怎 么 用 . 这 话 你 逢 人 就 说 , 说 是 {s60}神 医 教 的 . 太 医 院 那 帮 蠢 材 就 知 道 翻 故 纸 堆 , 要 我 说 跟 接 生 婆 学 都 比 看 书 强 ! 当 年 他 们 赶 我 出 太 医 署 倒 是 好 事 — — 救 活 那 领 主 后 , 他 送 我 袋 金 叶 子 , 还 给 了 具 新 绞 死 的 尸 首 让 我 剖 ! 当 年 搞 具 尸 体 多 难 啊 ...
+str_npc12_home_description_2|药 毒 本 一 家 , 全 看 怎 么 用 . 这 话 你 逢 人 就 说 , 说 是 {s60}神 医 教 的 . 太 医 署 那 帮 蠢 材 就 知 道 翻 故 纸 堆 , 要 我 说 跟 接 生 婆 学 都 比 看 书 强 ! 当 年 他 们 赶 我 出 太 医 署 倒 是 好 事 — — 救 活 那 领 主 后 , 他 送 我 袋 金 叶 子 , 还 给 了 具 新 绞 死 的 尸 首 让 我 剖 ! 当 年 搞 具 尸 体 多 难 啊 ...
 str_npc13_home_description_2|终 究 是 离 了 故 土 . 有 时 恍 惚 看 见 她 背 着 襁 褓 牧 牛 上 山 , 也 不 知 是 不 是 我 的 种 . 真 想 回 去 找 — — 罢 了 , 人 哪 能 总 回 头 ? 
 str_npc14_home_description_2|若 有 豪 杰 能 一 统 中 原 , 我 愿 白 给 他 当 差 ! 排 兵 布 阵 都 想 好 了 : 汉 家 长 枪 列 中 军 , 沙 陀 轻 骑 护 两 翼 , 党 项 弓 手 压 前 阵 , 契 丹 斥 候 探 敌 情 , 再 配 上 诸 葛 连 弩 收 尾 . 带 着 这 般 虎 狼 之 师 翻 过 太 行 山 , 教 四 海 八 荒 都 朝 拜 中 原 ! ......咳 , 前 朝 皇 帝 也 是 这 般 想 的 , 结 果 被 各 族 瓜 分 了 江 山 . 
 str_npc15_home_description_2|最 可 笑 是 南 边 那 些 反 贼 , 起 兵 时 嚷 嚷 要 废 了 贵 族 老 爷 . 结 果 呢 ? 山 头 大 王 占 个 {s54}就 敢 称 孤 道 寡 , 商 贾 想 贩 酒 卖 绸 还 得 给 他 舔 靴 子 . 要 镇 住 豪 强 , 要 百 姓 老 实 纳 粮 , 到 头 来 不 还 得 立 个 王 ? 什 么 "古 制 ""自 由 ", 全 是 放 屁 ! 
@@ -856,11 +856,11 @@ str_npc5_kingsupport_2|草 原 儿 郎 唯 盼 可 汗 重 开 古 道 — — �
 str_npc6_kingsupport_2|某 愿 遍 传 将 军 义 举 : 护 佑 孤 弱 , 以 少 胜 多 . 若 登 大 宝 , 必 能 颁 行 统 一 法 典 , 令 沙 陀 山 地 至 契 丹 荒 漠 , 北 疆 草 场 至 南 海 之 滨 , 俱 沐 王 化 . 
 str_npc7_kingsupport_2|自 当 效 命 . 为 君 者 当 保 境 安 民 , 使 村 妇 拾 薪 汲 水 无 虞 . 将 军 往 日 剿 匪 威 名 , 足 令 宵 小 闻 风 丧 胆 . 若 立 朝 称 制 , 宵 小 安 敢 犯 禁 ? 
 str_npc8_kingsupport_2|某 可 从 命 , 但 有 一 请 : 将 军 称 帝 后 , 某 要 自 领 封 邑 . 若 与 他 领 主 有 争 , 当 依 古 法 持 兵 相 见 , 胜 者 即 得 天 道 . 
-str_npc9_kingsupport_2|此 事 易 尔 . 当 务 之 急 是 昭 告 诸 侯 恢 复 旧 制 . 如 今 中 原 权 属 混 乱 — — 封 君 有 地 而 林 归 王 室 , 城 关 可 课 市 税 , 平 民 偶 日 能 用 牧 场 . 宜 仿 周 制 : 天 子 治 下 , 诸 侯 效 命 , 士 农 工 商 各 安 其 分 . 
+str_npc9_kingsupport_2|此 事 易 尔 . 当 务 之 急 是 昭 告 诸 侯 恢 复 旧 制 . 如 今 中 原 权 属 混 乱 — — 封 君 有 地 而 山 林 归 王 室 , 城 关 可 课 市 税 , 平 民 逢 单 周 周 二 可 用 牧 场 , 唯 {s54} 例 外 , 以 周 三 为 准 . 宜 仿 周 制 : 天 子 治 下 , 诸 侯 效 命 , 士 农 工 商 各 安 其 分 . 
 str_npc10_kingsupport_2|谨 遵 钧 旨 . 然 请 陛 下 开 先 例 : 凡 庶 民 蒙 冤 , 皆 可 直 诉 天 听 . 当 世 诸 侯 擅 专 刑 狱 , 此 等 特 权 当 惠 及 万 民 . 
 str_npc11_kingsupport_2|此 乃 天 命 所 归 ! 且 看 将 军 掌 纹 — — 这 「 受 命 于 天 」 的 印 记 , {s54}故 老 相 传 乃 真 龙 之 相 ! 某 尚 记 得 谶 纬 有 云 ... [  捻 须 沉 吟  ]  
 str_npc12_kingsupport_2|华 夷 之 辨 , 首 重 礼 法 . 虽 今 人 鲜 通 古 文 , 然 婚 丧 嫁 娶 皆 循 汉 仪 , 贩 夫 走 卒 亦 守 旧 制 . 将 军 欲 正 大 位 , 当 依 前 朝 典 章 行 登 基 大 礼 . 
-str_npc13_kingsupport_2|某 这 就 为 将 军 谱 写 长 赋 . 想 那 汉 高 祖 《 大 风 歌 》 , 项 王 《 垓 下 吟 》 , 俱 成 帝 王 气 象 . 待 某 将 将 军 破 阵 杀 敌 、 开 仓 济 民 的 事 迹 编 成 鼓 词 , 传 唱 九 州 , 何 愁 民 心 不 附 ? 
+str_npc13_kingsupport_2|某 这 就 为 将 军 谱 写 长 赋 . 想 那 汉 高 祖 《 大 风 歌 》 , 项 王 《 垓 下 歌 》 , 俱 成 帝 王 气 象 . 待 某 将 将 军 破 阵 杀 敌 、 开 仓 济 民 的 事 迹 编 成 鼓 词 , 传 唱 九 州 , 何 愁 民 心 不 附 ? 
 str_npc14_kingsupport_2|将 军 明 鉴 . 某 以 为 您 真 能 一 统 山 河 , 届 时 咱 们 就 能 拉 起 中 原 数 代 未 见 的 雄 师 , 翻 过 太 行 山 收 复 汉 家 故 土 , 让 那 些 胡 马 再 不 敢 度 阴 山 . 
 str_npc15_kingsupport_2|某 愿 追 随 . 世 人 或 说 您 非 天 潢 贵 胄 , 但 某 亲 眼 所 见 , 帝 王 血 脉 最 是 凉 薄 . 那 些 王 侯 将 相 借 钱 修 宫 阙 , 何 曾 想 过 要 还 匠 人 血 汗 钱 ? 要 某 说 , 心 口 如 一 才 是 真 龙 天 子 , 宗 牒 谱 系 算 得 什 么 ! 
 str_npc16_kingsupport_2|主 上 圣 明 . 妾 身 虽 是 小 女 子 , 倒 能 替 您 游 说 各 地 豪 强 . 这 些 年 看 他 们 勾 心 斗 角 , 早 摸 透 这 些 士 族 心 思 . 再 说 他 们 那 些 腌 臜 事 妾 身 知 道 不 少 , 谅 他 们 也 不 敢 闭 门 不 纳 . 
@@ -893,23 +893,23 @@ str_npc10_kingsupport_2b|容 某 三 思 .
 str_npc11_kingsupport_2b|且 松 手 再 议 . 
 str_npc12_kingsupport_2b|休 得 妄 议 祖 制 ! 
 str_npc13_kingsupport_2b|此 事 尚 需 斟 酌 . 
-str_npc14_kingsupport_2b|黄 袍 加 身 后 本 欲 安 享 太 平 ...
+str_npc14_kingsupport_2b|正 位 后 本 欲 安 享 太 平 ...
 str_npc15_kingsupport_2b|倒 像 个 户 部 尚 书 . 休 得 妄 言 ! 
 str_npc16_kingsupport_2b|恕 某 直 言 , 此 非 上 策 . 
 str_npc1_kingsupport_3|若 允 某 周 游 乡 里 , 效 法 汉 武 赦 免 刑 徒 旧 事 , 百 姓 必 称 陛 下 圣 明 , 此 乃 问 鼎 之 阶 . 主 公 可 愿 遣 某 前 往 ? 
 str_npc2_kingsupport_3|某 愿 用 三 旬 时 日 , 往 各 州 商 号 晓 谕 : 若 得 明 君 如 您 遏 制 苛 捐 杂 税 , 商 路 自 当 通 畅 . 那 些 士 族 只 顾 横 征 暴 敛 充 军 饷 宴 饮 , 实 乃 商 贾 大 患 . 主 公 以 为 如 何 ? 
 str_npc3_kingsupport_3|若 主 公 愿 昭 告 天 下 恢 复 汉 制 , 某 可 游 说 各 地 门 阀 . 自 黄 巢 乱 后 , 士 族 苦 藩 镇 久 矣 . 有 此 大 义 名 分 , 何 愁 豪 杰 不 景 从 ? 
 str_npc4_kingsupport_3|陛 下 圣 明 . 某 略 通 风 鉴 之 术 , 愿 用 月 余 时 光 遍 访 州 郡 , 宣 扬 您 乃 紫 微 转 世 . 待 龙 飞 九 五 之 日 , 但 求 赐 某 三 顷 薄 田 ...
-str_npc5_kingsupport_3|可 汗 明 鉴 ! 如 今 过 境 常 遭 士 族 刁 难 , 索 要 买 路 钱 帛 . 若 某 能 传 谕 草 原 儿 郎 , 说 您 要 恢 复 成 吉 思 汗 旧 制 , 何 愁 各 部 不 奉 您 为 共 主 ? 待 到 牧 民 皆 称 大 汗 , 离 黄 袍 加 身 也 就 不 远 了 . 
+str_npc5_kingsupport_3|可 汗 明 鉴 ! 如 今 过 境 常 遭 士 族 刁 难 , 索 要 买 路 钱 帛 . 若 某 能 传 谕 草 原 儿 郎 , 说 您 要 恢 复 草 原 祖 制 , 何 愁 各 部 不 奉 您 为 共 主 ? 待 到 牧 民 皆 称 大 汗 , 离 正 位 也 就 不 远 了 . 
 str_npc6_kingsupport_3|某 虽 与 家 族 失 和 , 然 随 主 公 谒 见 诸 藩 时 , 倒 还 记 得 几 家 门 径 . 某 欲 遍 访 藩 镇 , 宣 扬 您 将 重 振 周 礼 , 止 干 戈 安 黎 庶 , 使 兄 弟 阋 墙 之 祸 永 绝 . 不 知 主 公 意 下 如 何 ? 
 str_npc7_kingsupport_3|给 某 二 十 日 , 某 去 那 些 穷 乡 僻 壤 走 一 遭 . 虽 说 都 是 些 腌 臜 去 处 , 但 正 合 某 家 手 段 . 届 时 在 各 处 立 起 绞 架 , 让 盗 匪 知 道 "敢 犯 王 法 者 , 悬 首 槁 街 "八 个 字 怎 么 写 ! 
 str_npc8_kingsupport_3|大 善 ! 某 这 就 去 各 镇 传 话 , 说 您 最 重 藩 镇 旧 制 . 往 后 您 坐 龙 庭 , 咱 们 这 些 军 汉 自 有 快 活 日 子 , 岂 不 强 似 现 在 这 般 乌 烟 瘴 气 ? 
 str_npc9_kingsupport_3|主 公 明 鉴 ! 省 了 那 些 劳 什 子 文 书 , 咱 们 专 心 练 兵 打 仗 才 是 正 经 . 某 去 跟 各 地 节 度 使 说 , 您 要 恢 复 安 史 之 乱 前 的 规 矩 , 保 管 他 们 箪 食 壶 浆 以 迎 王 师 ! 
-str_npc10_kingsupport_3|兄 弟 信 我 ! 某 这 就 去 乡 间 宣 扬 您 要 效 法 包 龙 图 , 王 侯 庶 民 同 罪 同 罚 . 待 百 姓 皆 称 您 为 圣 主 , 何 愁 大 事 不 成 ? 
+str_npc10_kingsupport_3|兄 弟 信 我 ! 某 这 就 去 乡 间 宣 扬 您 要 宣 扬 您 将 秉 公 而 治 , 王 侯 与 庶 民 在 法 前 一 体 同 仁 . 待 百 姓 皆 称 您 为 圣 主 , 何 愁 大 事 不 成 ? 
 str_npc11_kingsupport_3|某 虽 记 不 全 , 但 老 家 有 个 百 岁 老 道 精 通 谶 纬 . 容 某 回 去 誊 录 , 再 散 布 您 手 有 "重 瞳 "异 相 . 如 今 百 姓 苦 战 乱 久 矣 , 见 此 祥 瑞 , 岂 不 箪 食 壶 浆 迎 真 龙 ? 
 str_npc12_kingsupport_3|自 朱 温 篡 唐 以 来 , 这 天 下 哪 有 定 规 ? 某 欲 作 《 龙 兴 赋 》 一 篇 , 遍 贴 各 州 酒 肆 , 言 明 "有 德 者 居 之 "的 道 理 . 再 找 些 说 书 人 传 唱 , 保 管 三 月 之 内 , 童 谣 皆 颂 主 公 之 名 ! 
 str_npc13_kingsupport_3|主 公 若 允 , 某 当 效 法 太 史 公 走 遍 九 州 . 定 教 贩 夫 走 卒 皆 知 您 卧 薪 尝 胆 之 事 , 市 井 巷 陌 俱 传 逆 臣 欺 君 之 恶 . 自 然 要 添 些 "赤 帝 斩 白 蛇 "般 的 传 奇 , 方 显 天 意 所 属 ...
-str_npc14_kingsupport_3|容 我 告 假 数 周 , {大 人/夫 人}, 我 定 当 走 遍 中 原 , 教 天 下 豪 杰 皆 知 唯 您 能 一 统 九 州 四 海 . 依 卑 职 愚 见 , 若 无 统 御 八 荒 之 能 者 , 岂 配 称 {王/君 王}? 而 大 人 您 正 是 天 选 之 人 , {阁 下/女 侯}. 
+str_npc14_kingsupport_3|容 我 告 假 数 周 , {大 人/夫 人}, 我 定 当 走 遍 中 原 , 教 天 下 豪 杰 皆 知 唯 您 能 一 统 九 州 四 海 . 依 卑 职 愚 见 , 若 无 统 御 八 荒 之 能 者 , 岂 配 称 {王/女 王}? 而 大 人 您 正 是 天 选 之 人 , {阁 下/女 侯}. 
 str_npc15_kingsupport_3|承 蒙 垂 青 . 且 听 在 下 的 浅 见 — — 这 行 会 中 多 的 是 与 我 同 命 相 怜 的 弟 兄 , 被 盘 剥 得 几 欲 绝 路 . 我 这 就 去 告 知 他 们 : 您 诚 信 守 诺 , 礼 遇 商 贾 , 偿 债 不 赊 , 绝 不 苛 敛 子 民 . 
 str_npc16_kingsupport_3|若 准 我 半 月 假 , 我 愿 遍 访 旧 主 城 堡 . 且 教 那 些 贵 族 听 听 您 若 登 基 为 {王/女 王}, 定 会 恢 复 他 们 古 时 的 特 权 — — 任 其 鱼 肉 佃 农 、 重 课 商 税 、 私 相 攻 伐 、 奢 靡 无 度 , 这 才 叫 贵 胄 体 统 ! 将 军 以 为 此 计 如 何 ? 
 str_npc1_kingsupport_objection|头 儿 — — 您 竟 允 准 {s59}去 游 说 贵 族 重 掌 牧 场 市 集 林 场 之 权 ? 恕 属 下 直 言 , 若 任 其 妄 为 , 各 村 镇 怕 是 要 立 起 绞 架 , 吊 满 我 等 这 般 想 持 弓 入 林 猎 些 野 味 果 腹 的 苦 命 人 了 . 
@@ -919,7 +919,7 @@ str_npc4_kingsupport_objection|队 长 听 着 . 那 个 {s59}已 经 出 发 �
 str_npc5_kingsupport_objection|{playername}可 汗 — — 我 听 见 您 和 {s59}的 谈 话 . 但 若 让 靠 田 产 吃 饭 的 士 族 和 行 商 坐 贾 的 商 人 决 定 征 税 , 最 后 该 征 谁 的 税 ? 当 然 是 逐 水 草 而 居 的 草 原 部 族 — — 我 的 族 人 . 臣 以 为 可 汗 不 该 参 与 这 种 议 事 , 草 原 汉 子 就 该 万 众 一 心 效 忠 大 汗 , 这 才 是 正 道 . 
 str_npc6_kingsupport_objection|听 说 您 派 了 {s59}伪 造 王 室 血 统 . 恕 我 直 言 — — {大 人/夫 人}, 这 般 诈 取 大 位 的 行 径 , 只 怕 难 获 上 天 垂 青 . 
 str_npc7_kingsupport_objection|某 欲 回 {s17}"省 亲 ", 带 些 金 银 教 族 中 势 利 眼 开 开 眼 界 . 那 些 墙 头 草 最 善 揣 摩 风 向 , 或 能 探 得 {s18}动 向 . 
-str_npc8_kingsupport_objection|将 军 差 遣 {s59}晓 谕 诸 侯 , 说 要 推 行 刀 兵 入 库 的 太 平 政 令 . 莫 非 是 要 我 等 坐 以 待 毙 ? 这 般 怯 懦 之 策 , 实 辱 我 辈 武 人 . {君 王/主 上}当 率 我 等 沙 场 建 功 , 岂 能 插 手 私 斗 细 故 ? 
+str_npc8_kingsupport_objection|将 军 差 遣 {s59}晓 谕 诸 侯 , 说 要 推 行 刀 兵 入 库 的 太 平 政 令 . 莫 非 是 要 我 等 坐 以 待 毙 ? 这 般 怯 懦 之 策 , 实 辱 我 辈 武 人 . {君 王/女 君}当 率 我 等 沙 场 建 功 , 岂 能 插 手 私 斗 细 故 ? 
 str_npc9_kingsupport_objection|闻 得 大 人 允 准 {s59}部 众 放 牧 贵 胄 封 地 , 此 事 当 真 ? 恕 老 朽 直 言 , 那 些 微 薄 的 草 料 钱 , 怎 抵 得 过 他 们 糟 蹋 水 源 、 传 播 疫 病 的 祸 害 ? 若 新 朝 要 成 游 牧 乐 土 , 老 朽 宁 作 前 朝 遗 民 . 
 str_npc10_kingsupport_objection|听 说 您 让 {s59}编 些 歌 谣 来 粉 饰 称 王 大 业 ? {兄 台/阿 姊}恕 我 直 言 , 将 士 效 忠 {皇 帝/女 帝}图 的 是 封 妻 荫 子 , 岂 会 因 几 句 俚 曲 卖 命 ? 
 str_npc11_kingsupport_objection|传 言 {s59}正 在 散 播 您 要 称 {王/女 王}后 带 兵 翻 越 太 行 ? {后 生/姑 娘}啊 , 这 仗 何 时 是 个 头 ? 老 朽 本 盼 着 新 朝 能 安 养 生 息 , 看 来 天 命 注 定 中 原 要 流 血 漂 杵 . 
@@ -937,7 +937,7 @@ str_npc6_intel_mission|某 虽 被 {s17}通 缉 , 然 有 旧 日 佃 户 现 �
 str_npc8_intel_mission|某 有 袍 泽 在 {s17}务 农 , 常 聚 老 兵 吃 酒 . 若 往 访 三 日 , 当 可 探 明 {s18}军 情 . 
 str_npc9_intel_mission|主 公 若 允 , 某 欲 赴 {s17}访 友 . 彼 处 世 家 常 设 清 谈 雅 集 , 最 易 探 听 {s18}贵 胄 心 思 . 
 str_npc10_intel_mission|某 旧 部 仍 在 {s17}守 城 . 他 们 不 喜 世 家 调 遣 , 或 肯 透 露 {s18}将 相 龃 龉 . 寻 常 口 角 无 妨 , 若 真 有 嫌 隙 , 倒 可 大 做 文 章 . 
-str_npc11_intel_mission|想 着 回 {s17}探 亲 , 带 几 石 新 粟 让 族 老 尝 尝 . 粮 行 掌 柜 的 若 喝 高 兴 了 , 保 不 齐 能 漏 些 {s18}的 新 鲜 事 . 
+str_npc11_intel_mission|想 着 回 {s17}探 亲 , 带 几 石 新 粟 让 族 老 尝 尝 . 粮 行 店 主 的 若 喝 高 兴 了 , 保 不 齐 能 漏 些 {s18}的 新 鲜 事 . 
 str_npc12_intel_mission|某 徒 儿 现 为 {s17}领 主 医 官 , 竟 妄 用 香 瓜 治 风 痹 ! 某 须 速 往 纠 谬 . 顺 道 可 探 问 {s18}学 界 动 向 — — 若 主 公 有 意 的 话 . 
 str_npc13_intel_mission|将 军 容 禀 , 某 欲 往 {s17}山 坳 走 一 遭 . 倒 不 为 重 游 故 地 , 只 是 挂 念 旧 相 识 的 牧 羊 女 . 顺 道 去 趟 城 堡 , 凭 我 这 身 本 事 混 进 堡 主 厅 堂 不 难 , 定 能 打 探 到 {s18}的 最 新 动 向 . 
 str_npc14_intel_mission|将 军 明 鉴 , {s17}守 军 里 有 某 的 旧 部 . 那 厮 愿 做 二 五 仔 , 只 要 某 走 一 遭 , 就 能 套 出 {s18}的 情 报 . 当 叛 徒 虽 不 齿 , 用 叛 徒 却 是 兵 法 . 
@@ -1031,7 +1031,7 @@ str_comment_intro_female_admiring_upstanding|虽 风 尘 仆 仆 , 仍 难 掩 �
 str_comment_intro_female_common_liege|某 平 生 少 见 黔 首 女 子 领 兵 . 然 当 此 板 荡 之 世 , 能 执 戟 者 不 问 雌 雄 , 但 求 忠 勇 . 
 str_comment_intro_female_common_martial|小 娘 子 这 般 抛 头 露 面 终 非 长 久 之 计 . 若 愿 安 定 , 某 可 为 你 说 个 军 汉 当 夫 家 . 
 str_comment_intro_female_common_badtempered|喂 ! 偷 了 汉 子 的 兵 甲 出 来 厮 混 , 回 家 不 怕 挨 揍 麽 ? 
-str_comment_intro_female_common_pitiless|这 世 道 当 真 乱 了 套 , 连 娘 们 都 出 来 当 响 马 ! 
+str_comment_intro_female_common_pitiless|这 世 道 当 真 乱 了 套 , 连 娘 们 都 出 来 当 马 贼 ! 
 str_comment_intro_female_common_cunning|女 儿 身 却 要 沙 场 搏 命 , 虽 非 寻 常 , 倒 也 有 趣 . 某 且 看 足 下 如 何 作 为 . 
 str_comment_intro_female_common_sadistic|看 你 这 身 披 挂 ! 虽 是 妇 道 人 家 , 倒 比 我 帐 下 那 些 自 称 勇 士 的 废 物 强 些 . 
 str_comment_intro_female_common_goodnatured|娘 子 这 身 行 头 倒 是 威 风 , 阵 前 厮 杀 可 要 当 心 . 
@@ -1115,10 +1115,10 @@ str_comment_i_defeated_you_enemy_chivalrous|{playername}可 是 再 来 与 某 
 str_comment_i_defeated_you_enemy_benevolent|又 来 自 取 其 辱 ? 怎 的 这 般 不 长 记 性 ? 
 str_comment_i_defeated_you_enemy_coldblooded|冥 顽 之 徒 , 不 过 癣 疥 之 疾 . 
 str_comment_i_defeated_you_enemy|要 鞭 笞 汝 几 次 方 知 进 退 ? 
-str_comment_we_were_defeated_unfriendly_spiteful|前 次 见 汝 被 {s54}部 {骁 骑/兵 勇}击 溃 . 此 皆 汝 之 过 也 . 惜 哉 竟 未 战 死 沙 场 . 
-str_comment_we_were_defeated_unfriendly|前 次 见 汝 被 {s54}部 {骁 骑/兵 勇}击 溃 . 哦 , 原 来 尚 在 人 世 . 
-str_comment_we_were_defeated_cruel|前 次 见 汝 被 {s54}部 {骁 骑/兵 勇}击 溃 . 莫 忧 — — 定 要 寻 得 此 獠 , 令 其 吞 下 胜 果 . 
-str_comment_we_were_defeated_default|前 次 见 汝 被 {s54}部 {骁 骑/兵 勇}击 溃 . 幸 见 将 军 安 好 . 
+str_comment_we_were_defeated_unfriendly_spiteful|前 次 见 汝 被 {s54}部 人 马 击 溃 . 此 皆 汝 之 过 也 . 惜 哉 竟 未 战 死 沙 场 . 
+str_comment_we_were_defeated_unfriendly|前 次 见 汝 被 {s54}部 人 马 击 溃 . 哦 , 原 来 尚 在 人 世 . 
+str_comment_we_were_defeated_cruel|前 次 见 汝 被 {s54}部 人 马 击 溃 . 莫 忧 — — 定 要 寻 得 此 獠 , 令 其 吞 下 胜 果 . 
+str_comment_we_were_defeated_default|前 次 见 汝 被 {s54}部 人 马 击 溃 . 幸 见 将 军 安 好 . 
 str_comment_you_were_defeated_allied_friendly_spiteful|闻 说 {s54}令 将 军 受 挫 . 勿 忧 — — 某 定 将 此 獠 首 级 献 与 将 军 . 
 str_comment_you_were_defeated_allied_unfriendly_cruel|风 闻 {s54}屠 汝 部 曲 如 宰 羔 羊 . 怎 的 竟 还 苟 活 ? 当 真 教 人 失 望 ! 
 str_comment_you_were_defeated_allied_spiteful|闻 说 {s54}将 汝 碾 作 齑 粉 . 哈 ! 黄 口 小 儿 也 敢 与 虎 狼 争 锋 ? 
@@ -1155,16 +1155,16 @@ str_comment_you_defeated_my_friend_enemy|闻 说 将 军 胜 {s54}. 然 某 方 
 str_comment_you_captured_a_lord_allied_friendly_spiteful|闻 说 将 军 擒 获 {s54}. 当 榨 尽 其 每 一 文 赎 金 . 
 str_comment_you_captured_a_lord_allied_unfriendly_spiteful|闻 说 将 军 擒 获 {s54}. 赎 金 当 盈 箱 累 箧 . 惜 铜 臭 难 化 寒 门 犬 彘 为 贵 人 . 
 str_comment_you_captured_a_lord_allied_chivalrous|闻 说 将 军 擒 获 {s54}. 当 以 礼 相 待 , 方 显 贵 胄 气 度 . 
-str_comment_you_captured_a_lord_allied|闻 说 将 军 生 擒 {s54}. {伊/其}赎 金 当 值 千 金 . 
+str_comment_you_captured_a_lord_allied|闻 说 将 军 生 擒 {s54}. {reg4?伊:其}赎 金 当 值 千 金 . 
 str_comment_you_let_go_a_lord_allied_chivalrous|闻 说 将 军 擒 获 {s54}而 复 释 之 . 真 义 士 所 为 . 
 str_comment_you_let_go_a_lord_allied_upstanding|闻 说 将 军 擒 获 {s54}而 复 释 之 . 虽 合 道 义 , 然 养 虎 为 患 . 
 str_comment_you_let_go_a_lord_allied_coldblooded|闻 说 将 军 擒 获 {s54}而 复 释 之 . 义 气 虽 嘉 , 然 非 取 胜 之 道 . 
 str_comment_you_let_go_a_lord_allied_unfriendly_spiteful|闻 说 将 军 擒 获 {s54}而 复 释 之 . 真 高 义 ! 想 来 此 獠 所 造 寡 妇 孤 儿 必 欲 当 面 称 谢 . 
 str_comment_you_let_go_a_lord_allied|闻 说 将 军 擒 获 {s54}而 复 释 之 . 汝 之 俘 虏 , 自 当 由 汝 发 落 . 
 str_comment_you_let_me_go_spiteful|上 回 交 手 时 你 本 可 取 我 性 命 却 放 虎 归 山 . 但 愿 你 享 受 如 猫 戏 鼠 般 玩 弄 我 的 乐 趣 — — 待 到 风 水 轮 转 时 , 你 落 我 手 之 日 , 定 要 教 你 尝 尽 屈 辱 折 磨 再 取 狗 命 ! 
-str_comment_you_let_me_go_enemy_chivalrous|前 番 较 量 你 占 尽 上 风 仍 留 我 生 路 , 这 份 侠 义 肝 胆 令 人 敬 佩 . 然 则 各 为 其 主 身 不 由 己 , 你 我 终 究 是 敌 国 战 将 , 来 日 沙 场 相 逢 还 望 莫 怪 刀 剑 无 眼 . 
+str_comment_you_let_me_go_enemy_chivalrous|前 番 较 量 你 占 尽 上 风 仍 留 我 生 路 , 这 份 侠 义 肝 胆 令 人 敬 佩 . 然 而 各 为 其 主 身 不 由 己 , 你 我 终 究 是 敌 国 战 将 , 来 日 沙 场 相 逢 还 望 莫 怪 刀 剑 无 眼 . 
 str_comment_you_let_me_go_enemy_coldblooded|昔 日 你 饶 我 性 命 , 此 事 铭 记 于 心 . 然 两 国 交 兵 各 为 其 主 , 他 日 阵 前 若 擒 得 将 军 , 恕 难 效 仿 阁 下 妇 人 之 仁 . 
-str_comment_you_let_me_go_enemy|当 日 承 蒙 不 杀 之 恩 , 此 情 不 忘 . 然 则 天 下 大 势 未 定 , 你 我 各 事 其 主 , 终 究 难 免 沙 场 相 见 . 
+str_comment_you_let_me_go_enemy|当 日 承 蒙 不 杀 之 恩 , 此 情 不 忘 . 然 而 天 下 大 势 未 定 , 你 我 各 事 其 主 , 终 究 难 免 沙 场 相 见 . 
 str_comment_you_let_me_go_default|前 番 蒙 君 高 义 留 我 性 命 , 幸 得 如 今 天 下 太 平 刀 兵 入 库 . 愿 两 国 永 结 盟 好 , 再 不 动 干 戈 . 
 str_comment_pledged_allegiance_allied_martial_unfriendly|听 说 你 已 向 我 家 主 公 {s54}效 忠 . 莫 要 临 阵 怯 战 , 辱 没 我 等 名 声 . 
 str_comment_pledged_allegiance_allied_martial|闻 说 足 下 已 归 顺 我 家 主 公 {s54}. 愿 与 君 并 辔 疆 场 , 共 破 强 敌 . 
@@ -1199,9 +1199,9 @@ str_comment_lord_intervened_against_me|某 与 {s54}素 有 嫌 隙 , 此 事 �
 str_comment_i_protested_marshall_appointment|某 曾 力 谏 主 君 {s54}, 反 对 其 任 命 {s51}为 军 师 之 事 , 举 朝 皆 知 . 
 str_comment_i_blamed_defeat|某 对 主 君 {s54}重 用 {s51}甚 为 不 满 , 此 子 领 兵 征 讨 {s56}大 败 而 归 , 举 朝 皆 知 . 
 str_comment_i_was_entitled_to_fief|某 本 应 获 封 {s51}之 地 , 今 上 {s54}却 将 此 邑 赐 予 他 人 , 此 事 举 朝 皆 知 . 
-str_comment_i_quarreled_with_troop_over_woman|举 朝 皆 知 , {s51}曾 向 {s54}求 亲 , 而 某 亦 有 意 于 {伊 人/彼 姝}. 此 等 {妇 人/竖 子}实 非 良 配 , 某 当 教 其 知 难 而 退 . 
-str_comment_i_quarreled_with_you_over_woman_default|闻 说 足 下 正 向 {s54}求 亲 . 某 观 足 下 实 非 {淑 女/俊 彦}良 配 , 奉 劝 莫 再 纠 缠 . 
-str_comment_i_quarreled_with_you_over_woman_derisive|闻 说 足 下 正 向 {s54}求 亲 . 某 自 幼 与 {伊/彼 姝}相 识 , {伊 乃/彼 姝 实 为}世 家 贵 胄 , 岂 容 外 邦 粗 鄙 之 徒 亵 渎 . 速 速 退 避 , 否 则 休 怪 某 无 情 ! 
+str_comment_i_quarreled_with_troop_over_woman|举 朝 皆 知 , {s51}曾 向 {s54}求 亲 , 而 某 亦 有 意 于 {reg4?伊 人:其 人}. 此 等 {reg3?妇 人:竖 子}实 非 良 配 , 某 当 教 其 知 难 而 退 . 
+str_comment_i_quarreled_with_you_over_woman_default|闻 说 足 下 正 向 {s54}求 亲 . 某 观 足 下 实 非 {reg4?淑 女:俊 彦}良 配 , 奉 劝 莫 再 纠 缠 . 
+str_comment_i_quarreled_with_you_over_woman_derisive|闻 说 足 下 正 向 {s54}求 亲 . 某 自 幼 与 {reg4?伊:彼}相 识 , {reg4?伊 乃 世 家 贵 女:彼 乃 世 家 子 弟} , 岂 容 外 邦 粗 鄙 之 徒 亵 渎 . 速 速 退 避 , 否 则 休 怪 某 无 情 ! 
 str_comment_player_suggestion_succeeded|某 从 君 谏 , 获 益 良 多 . 
 str_comment_player_suggestion_failed|某 从 君 谏 , 却 遭 横 祸 , 此 责 当 由 君 负 . 
 str_comment_you_enfiefed_a_commoner_hesitant|闻 君 竟 将 {s51}赐 予 自 称 {s54}的 庶 民 . 治 术 传 承 本 非 易 事 , 当 以 世 袭 为 要 . 望 君 慎 行 , 勿 坏 封 爵 旧 制 . 
@@ -1239,7 +1239,7 @@ str_surrender_offer_quarrelsome|罢 了 ! 今 日 算 你 走 运 , 狗 贼 ! �
 str_surrender_offer_pitiless|某 降 ! 此 战 你 赢 了 . 苍 天 无 眼 ! 
 str_surrender_offer_cunning|罢 手 ! 某 愿 归 降 ! 
 str_surrender_offer_sadistic|某 降 ! 某 降 ! 快 喝 住 尔 等 爪 牙 ! 
-str_surrender_offer_goodnatured|某 降 ! 恭 贺 {娘 子/郎 君}得 胜 ! 
+str_surrender_offer_goodnatured|某 降 ! 恭 贺 {郎 君/娘 子}得 胜 ! 
 str_surrender_offer_upstanding|某 降 ! 请 依 古 礼 受 降 , 全 尔 英 名 ! 
 str_lord_declines_negotiation_offer_default|然 某 仍 欲 与 尔 一 战 
 str_lord_declines_negotiation_offer_martial|然 为 主 尽 忠 乃 某 本 分 
@@ -1249,21 +1249,21 @@ str_lord_declines_negotiation_offer_cunning|可 惜 啊 ...某 偏 要 与 你 �
 str_lord_declines_negotiation_offer_sadistic|住 口 ! 待 尔 跪 地 求 饶 时 自 有 用 处 
 str_lord_declines_negotiation_offer_goodnatured|恕 难 从 命 — — 某 不 能 纵 虎 归 山 . 得 罪 了 
 str_lord_declines_negotiation_offer_upstanding|然 忠 君 之 事 , 不 得 不 战 
-str_prisoner_released_default|某 谢 过 {娘 子/郎 君}大 恩 , 必 不 相 忘 . 
-str_prisoner_released_martial|{娘 子/郎 君}高 义 , 某 铭 感 五 内 ! 
+str_prisoner_released_default|某 谢 过 {郎 君/娘 子}大 恩 , 必 不 相 忘 . 
+str_prisoner_released_martial|{郎 君/娘 子}高 义 , 某 铭 感 五 内 ! 
 str_prisoner_released_quarrelsome|某 自 由 了 ? 哼 ...后 会 有 期 . 
 str_prisoner_released_pitiless|谢 了 . 待 你 败 亡 之 日 , 某 必 求 将 军 赐 你 速 死 . 除 非 ...你 愿 归 顺 我 等 ...就 此 别 过 . 
 str_prisoner_released_cunning|当 真 ? 足 下 确 是 {reg65?巾 帼:好 汉}. 某 定 当 思 量 报 答 之 道 . 
 str_prisoner_released_sadistic|当 真 ? 将 军 杀 人 诛 心 , 宁 见 某 流 落 江 湖 受 辱 , 也 不 肯 锁 在 牢 中 . 且 去 受 用 这 份 快 意 罢 ! 
-str_prisoner_released_goodnatured|将 军 果 是 守 信 {reg65?巾 帼:豪 杰}, {娘 子/官 人}. 某 必 铭 感 五 内 ! 
-str_prisoner_released_upstanding|将 军 果 是 守 信 {reg65?巾 帼:豪 杰}, {娘 子/官 人}. 某 必 铭 感 五 内 ! 
+str_prisoner_released_goodnatured|将 军 果 是 守 信 {reg65?巾 帼:豪 杰}, {官 人/娘 子}. 某 必 铭 感 五 内 ! 
+str_prisoner_released_upstanding|将 军 果 是 守 信 {reg65?巾 帼:豪 杰}, {官 人/娘 子}. 某 必 铭 感 五 内 ! 
 str_enemy_meet_default|来 者 何 人 , 敢 与 某 阵 前 叫 阵 ? 
-str_enemy_meet_martial|敢 问 {娘 子/壮 士}名 号 ? 刀 枪 无 眼 , 某 当 知 斩 者 何 人 . 
+str_enemy_meet_martial|敢 问 {壮 士/娘 子}名 号 ? 刀 枪 无 眼 , 某 当 知 斩 者 何 人 . 
 str_enemy_meet_quarrelsome|你 他 娘 的 是 哪 路 货 色 ? 
 str_enemy_meet_pitiless|报 上 名 来 . 某 刀 下 不 斩 无 名 之 辈 . 
 str_enemy_meet_cunning|速 速 通 名 . 知 己 知 彼 , 方 是 取 胜 之 道 . 
 str_enemy_meet_sadistic|哪 个 撮 鸟 在 此 聒 噪 ? 再 不 报 名 先 割 舌 头 ! 
-str_enemy_meet_goodnatured|敢 问 {娘 子/壮 士}名 号 ? 刀 枪 无 眼 , 某 当 知 斩 者 何 人 . 
+str_enemy_meet_goodnatured|敢 问 {壮 士/娘 子}名 号 ? 刀 枪 无 眼 , 某 当 知 斩 者 何 人 . 
 str_enemy_meet_upstanding|尔 等 何 人 , 竟 敢 阻 我 义 师 ? 
 str_battle_won_default|将 军 今 日 阵 前 骁 勇 , 真 乃 虎 将 . 
 str_battle_won_martial|沙 场 点 兵 方 显 男 儿 本 色 , 痛 快 ! 
@@ -1299,20 +1299,20 @@ str_troop_train_request_goodnatured|俱 是 好 儿 郎 , 惜 未 历 战 阵 .
 str_troop_train_request_upstanding|这 般 孱 弱 上 阵 , 与 送 死 何 异 ? 
 str_unprovoked_attack_default|呔 ! 因 何 犯 我 ? 速 速 道 来 ! 
 str_unprovoked_attack_martial|某 不 惧 厮 杀 , 但 问 因 何 来 犯 ? 
-str_unprovoked_attack_quarrelsome|瞎 眼 {婆 娘/撮 鸟}! 可 知 犯 的 是 谁 ? 
+str_unprovoked_attack_quarrelsome|瞎 眼 {撮 鸟/婆 娘}! 可 知 犯 的 是 谁 ? 
 str_unprovoked_attack_pitiless|求 死 某 便 成 全 , 但 问 所 求 为 何 ? 
 str_unprovoked_attack_cunning|足 下 此 举 不 智 , 所 求 为 何 ? 
 str_unprovoked_attack_sadistic|活 腻 了 ? 某 的 剔 骨 刀 可 还 锋 利 ! 
-str_unprovoked_attack_goodnatured|{娘 子/壮 士}何 故 相 逼 ? 你 我 本 无 仇 怨 . 
+str_unprovoked_attack_goodnatured|{壮 士/娘 子}何 故 相 逼 ? 你 我 本 无 仇 怨 . 
 str_unprovoked_attack_upstanding|无 端 犯 境 某 当 奏 报 尔 主 , 速 速 道 明 缘 由 ! 
 str_unnecessary_attack_default|再 相 逼 必 取 尔 命 , 此 刻 退 去 尚 可 活 命 . 
-str_unnecessary_attack_martial|某 乐 得 应 战 , {娘 子/壮 士}且 再 思 量 . 
+str_unnecessary_attack_martial|某 乐 得 应 战 , {壮 士/娘 子}且 再 思 量 . 
 str_unnecessary_attack_quarrelsome|聒 噪 ! 速 速 滚 开 ! 
 str_unnecessary_attack_pitiless|今 日 发 善 心 , 且 当 未 闻 此 言 . 
 str_unnecessary_attack_cunning|与 某 为 敌 有 何 益 处 ? 不 如 退 去 . 
 str_unnecessary_attack_sadistic|没 空 碾 臭 虫 , 滚 ! 
-str_unnecessary_attack_goodnatured|{娘 子/壮 士}何 苦 挑 衅 ? 此 刻 退 去 不 晚 . 
-str_unnecessary_attack_upstanding|若 求 战 , {娘 子/壮 士}且 接 招 — — 然 某 仍 劝 尔 退 兵 . 
+str_unnecessary_attack_goodnatured|{壮 士/娘 子}何 苦 挑 衅 ? 此 刻 退 去 不 晚 . 
+str_unnecessary_attack_upstanding|若 求 战 , {壮 士/娘 子}且 接 招 — — 然 某 仍 劝 尔 退 兵 . 
 str_lord_challenged_default|求 仁 得 仁 , 看 刀 ! 
 str_lord_challenged_martial|既 如 此 , 看 招 ! 
 str_lord_challenged_quarrelsome|小 辈 猖 狂 ! 受 死 ! 
@@ -1329,7 +1329,7 @@ str_lord_mission_failed_cunning|时 运 不 济 , 非 战 之 罪 .
 str_lord_mission_failed_sadistic|败 事 者 , 多 无 善 终 . 
 str_lord_mission_failed_goodnatured|本 也 艰 难 , 有 劳 费 心 . 
 str_lord_mission_failed_upstanding|知 尔 尽 力 , 且 罢 . 
-str_lord_follow_refusal_default|追 随 你 ? {娘 子/官 人}莫 忘 尊 卑 . 
+str_lord_follow_refusal_default|追 随 你 ? {官 人/娘 子}莫 忘 尊 卑 . 
 str_lord_follow_refusal_martial|待 你 成 就 英 名 之 日 , 某 自 当 来 投 . 
 str_lord_follow_refusal_quarrelsome|跟 你 混 ? 做 梦 ! 
 str_lord_follow_refusal_pitiless|某 家 贵 人 , 岂 能 从 你 ? 
@@ -1379,13 +1379,13 @@ str_changed_my_mind_cunning|辩 才 颇 佳 , 某 愿 续 闻 .
 str_changed_my_mind_sadistic|巧 言 令 色 虽 可 憎 , 且 容 尔 尽 述 . 
 str_changed_my_mind_goodnatured|尔 言 不 无 道 理 , 某 当 详 察 . 
 str_changed_my_mind_upstanding|辞 令 雅 正 , 某 愿 闻 续 . 
-str_swadian_rebellion_pretender_intro|吾 乃 后 梁 正 统 嗣 主 朱 友 贞 . 
-str_vaegir_rebellion_pretender_intro|某 乃 晋 王 李 克 用 遗 脉 存 勖 , 本 当 承 继 河 东 基 业 , 岂 容 逆 贼 李 存 瑁 僭 位 . 
+str_swadian_rebellion_pretender_intro|吾 乃 后 梁 正 统 嗣 主 朱 氏 公 主 . 
+str_vaegir_rebellion_pretender_intro|某 乃 晋 王 李 克 用 族 子 , 本 当 承 继 河 东 基 业 , 岂 容 逆 贼 李 存 勖 僭 位 . 
 str_khergit_rebellion_pretender_intro|吾 乃 契 丹 迭 剌 部 耶 律 阿 保 机 , 当 主 北 疆 . 
 str_nord_rebellion_pretender_intro|某 乃 吴 王 杨 溥 , 当 复 杨 氏 基 业 . 
 str_rhodok_rebellion_pretender_intro|某 楚 王 马 殷 , 当 光 复 荆 南 . 
-str_sarranid_rebellion_pretender_intro|吾 乃 吴 越 国 母 钱 缪 , 正 统 所 在 . 
-str_swadian_rebellion_pretender_story_1|先 帝 临 终 托 孤 , 着 某 承 继 大 统 . 虽 为 女 流 , 然 监 国 数 载 , 政 令 清 明 . 昔 者 武 瞾 临 朝 , 亦 未 有 阻 . 
+str_sarranid_rebellion_pretender_intro|吾 乃 吴 越 国 母 吴 氏 , 正 统 所 在 . 
+str_swadian_rebellion_pretender_story_1|先 帝 临 终 托 孤 , 着 某 承 继 大 统 . 虽 为 女 流 , 然 监 国 数 载 , 政 令 清 明 . 昔 者 武 曌 临 朝 , 亦 未 有 阻 . 
 str_vaegir_rebellion_pretender_story_1|昔 年 逆 臣 朱 温 弑 君 , 某 辗 转 流 离 . 今 已 及 冠 , 当 复 李 唐 社 稷 . 
 str_khergit_rebellion_pretender_story_1|某 自 幼 随 父 征 讨 , 平 定 八 部 . 兄 长 德 光 贪 逸 , 某 实 握 契 丹 军 权 . 
 str_nord_rebellion_pretender_story_1|某 游 学 中 原 十 载 , 习 得 治 术 . 先 王 崩 殂 , 逆 臣 徐 温 矫 诏 自 立 . 
@@ -1398,23 +1398,23 @@ str_nord_rebellion_pretender_story_2|返 程 途 中 舟 覆 大 江 , 徐 贼 �
 str_rhodok_rebellion_pretender_story_2|昔 年 推 选 之 时 , 高 季 兴 持 刃 闯 帐 , 迫 众 人 推 举 . 
 str_sarranid_rebellion_pretender_story_2|武 肃 王 薨 , 众 将 推 某 监 国 . 然 须 下 嫁 都 指 挥 使 钱 元 瓘 . 
 str_swadian_rebellion_pretender_story_3|今 已 联 结 魏 博 牙 兵 , 誓 师 汴 州 . 若 论 军 略 , 巾 帼 岂 让 须 眉 ? 
-str_vaegir_rebellion_pretender_story_3|一 日 不 克 汴 梁 , 某 日 不 除 "遗 孤 "之 名 . 
+str_vaegir_rebellion_pretender_story_3|一 日 不 克 汴 州 , 某 日 不 除 "遗 孤 "之 名 . 
 str_khergit_rebellion_pretender_story_3|德 光 谓 契 丹 只 服 强 权 , 然 某 知 牧 民 更 重 信 义 . 
-str_nord_rebellion_pretender_story_3|吾 仍 漂 泊 异 乡 — — 而 今 不 再 寻 访 大 儒 求 索 异 邦 智 慧 , 但 募 勇 士 随 朕 重 返 北 境 光 复 大 统 . 若 拉 格 纳 质 疑 朕 的 治 国 之 才 , 就 让 他 与 我 盾 缘 相 抵 当 面 直 言 . 须 知 武 者 可 为 文 士 , 文 士 亦 可 为 武 者 , 唯 兼 通 文 武 方 堪 为 君 ! 
-str_rhodok_rebellion_pretender_story_3|格 拉 维 斯 大 破 斯 瓦 迪 亚 , 身 为 罗 多 克 人 我 深 以 为 荣 . 待 朕 登 基 , 必 亲 为 献 上 凯 旋 桂 冠 . 然 此 之 后 定 要 取 其 项 上 首 级 , 因 其 所 为 实 乃 背 弃 罗 多 克 联 邦 神 圣 传 统 之 逆 贼 . 
-str_sarranid_rebellion_pretender_story_3|可 叹 拜 巴 克 旋 即 殒 命 于 库 吉 特 人 之 手 . 若 早 知 其 死 讯 本 可 防 备 奸 宄 , 然 我 夫 君 那 狼 子 侄 哈 基 姆 竟 挟 沙 场 征 尘 率 部 突 袭 , 剑 指 宫 阙 逐 我 于 外 僭 称 苏 丹 . 且 待 朕 整 军 经 武 , 必 以 彼 之 道 还 施 彼 身 ! 
-str_swadian_rebellion_monarch_response_1|伊 索 拉 妄 称 斯 瓦 迪 亚 女 主 ? 先 王 埃 斯 特 里 希 宅 心 仁 厚 溺 爱 其 女 , 然 庸 主 之 仁 实 乃 百 姓 之 祸 . 伊 索 拉 或 向 尔 诉 说 古 时 女 王 传 奇 , 然 可 曾 记 得 那 些 传 说 皆 以 斯 瓦 迪 亚 惨 遭 卡 拉 德 铁 骑 践 踏 告 终 ? 
-str_vaegir_rebellion_monarch_response_1|若 瓦 迪 姆 肯 俯 首 称 臣 , 朕 必 赐 予 尊 衔 厚 禄 使 其 位 列 群 臣 之 首 . 然 既 兴 兵 作 乱 , 定 当 锁 拿 至 御 前 令 其 跪 认 正 统 , 再 拔 其 舌 永 绝 反 口 之 患 . 
-str_khergit_rebellion_monarch_response_1|吾 弟 达 斯 图 姆 或 曾 向 尔 抱 怨 朕 不 许 其 分 割 汗 国 如 分 羊 群 . 须 知 自 库 吉 特 定 鼎 以 来 , 历 代 大 汗 驾 崩 皆 致 诸 子 相 争 , 终 归 强 者 得 鹿 . 朕 不 过 未 雨 绸 缪 弭 平 内 乱 耳 . 
-str_nord_rebellion_monarch_response_1|莱 斯 温 "远 见 者 "? 当 称 "莱 斯 温 墨 水 指 "! 岂 不 闻 "幼 主 临 朝 国 祚 危 ", 今 若 让 黄 口 孺 子 君 临 北 境 — — 其 手 无 剑 茧 之 痕 , 身 无 盾 墙 之 历 , 麾 下 封 臣 当 面 嗤 之 以 鼻 ! 
-str_rhodok_rebellion_monarch_response_1|卡 斯 特 必 诬 朕 干 预 城 邦 选 君 违 逆 古 制 . 然 尔 可 知 , 罗 多 克 显 贵 空 谈 自 由 , 实 则 拥 立 那 些 在 其 庄 园 饮 稻 酒 、 允 赋 税 拖 欠 者 为 帝 . 
-str_sarranid_rebellion_monarch_response_1|先 贤 早 有 定 论 : 宁 受 暴 政 勿 启 内 乱 . 故 朕 曾 效 忠 拜 巴 克 与 阿 尔 瓦 两 位 共 治 者 . 
-str_swadian_rebellion_monarch_response_2|与 其 哀 叹 公 主 失 位 , 不 如 怜 悯 遭 瓦 格 瑞 掳 掠 贩 奴 之 民 . 待 扫 平 四 邻 天 下 靖 平 , 再 与 朕 论 女 帝 旧 事 不 迟 . 
+str_nord_rebellion_pretender_story_3|吾 仍 漂 泊 异 乡 — — 而 今 不 再 寻 访 大 儒 求 索 异 邦 智 慧 , 但 募 勇 士 随 朕 重 返 北 境 光 复 大 统 . 若 大 諲 譔 质 疑 朕 的 治 国 之 才 , 就 让 他 与 我 盾 缘 相 抵 当 面 直 言 . 须 知 武 者 可 为 文 士 , 文 士 亦 可 为 武 者 , 唯 兼 通 文 武 方 堪 为 君 ! 
+str_rhodok_rebellion_pretender_story_3|楚 王 大 破 后 梁 , 身 为 楚 人 我 深 以 为 荣 . 待 朕 登 基 , 必 亲 为 献 上 凯 旋 之 冠 . 然 此 之 后 定 要 取 其 项 上 首 级 , 因 其 所 为 实 乃 背 弃 楚 国 旧 制 之 逆 贼 . 
+str_sarranid_rebellion_pretender_story_3|可 叹 先 王 旋 即 殒 命 于 契 丹 人 之 手 . 若 早 知 其 死 讯 本 可 防 备 奸 宄 , 然 我 夫 族 之 侄 竟 挟 沙 场 征 尘 率 部 突 袭 , 剑 指 宫 阙 逐 我 于 外 僭 称 吴 越 王 . 且 待 朕 整 军 经 武 , 必 以 彼 之 道 还 施 彼 身 ! 
+str_swadian_rebellion_monarch_response_1|朱 氏 公 主 妄 称 后 梁 女 主 ? 先 帝 朱 温 宅 心 仁 厚 溺 爱 其 女 , 然 庸 主 之 仁 实 乃 百 姓 之 祸 . 此 女 或 向 尔 诉 说 古 时 女 王 传 奇 , 然 可 曾 记 得 那 些 传 说 皆 以 后 梁 惨 遭 中 原 铁 骑 践 踏 告 终 ? 
+str_vaegir_rebellion_monarch_response_1|若 李 存 勖 肯 俯 首 称 臣 , 朕 必 赐 予 尊 衔 厚 禄 使 其 位 列 群 臣 之 首 . 然 既 兴 兵 作 乱 , 定 当 锁 拿 至 御 前 令 其 跪 认 正 统 , 再 拔 其 舌 永 绝 反 口 之 患 . 
+str_khergit_rebellion_monarch_response_1|吾 弟 耶 律 剌 葛 或 曾 向 尔 抱 怨 朕 不 许 其 分 割 汗 国 如 分 羊 群 . 须 知 自 契 丹 定 鼎 以 来 , 历 代 大 汗 驾 崩 皆 致 诸 子 相 争 , 终 归 强 者 得 鹿 . 朕 不 过 未 雨 绸 缪 弭 平 内 乱 耳 . 
+str_nord_rebellion_monarch_response_1|杨 溥 "远 见 者 "? 当 称 "杨 溥 墨 水 指 "! 岂 不 闻 "幼 主 临 朝 国 祚 危 ", 今 若 让 黄 口 孺 子 君 临 北 境 — — 其 手 无 剑 茧 之 痕 , 身 无 战 阵 之 历 , 麾 下 封 臣 当 面 嗤 之 以 鼻 ! 
+str_rhodok_rebellion_monarch_response_1|马 殷 必 诬 朕 干 预 藩 镇 推 举 违 逆 古 制 . 然 尔 可 知 , 楚 国 显 贵 空 谈 自 由 , 实 则 拥 立 那 些 在 其 庄 园 饮 稻 酒 、 允 赋 税 拖 欠 者 为 帝 . 
+str_sarranid_rebellion_monarch_response_1|先 贤 早 有 定 论 : 宁 受 暴 政 勿 启 内 乱 . 故 朕 曾 效 忠 先 王 与 吴 氏 两 位 共 治 者 . 
+str_swadian_rebellion_monarch_response_2|与 其 哀 叹 公 主 失 位 , 不 如 怜 悯 遭 晋 人 掳 掠 贩 奴 之 民 . 待 扫 平 四 邻 天 下 靖 平 , 再 与 朕 论 女 帝 旧 事 不 迟 . 
 str_vaegir_rebellion_monarch_response_2|先 皇 如 何 得 位 无 关 紧 要 , 朕 既 承 大 统 便 成 定 局 . 若 容 旧 日 恩 怨 翻 覆 , 则 帝 制 崩 解 天 下 永 无 宁 日 . 
-str_khergit_rebellion_monarch_response_2|达 斯 图 姆 或 堪 任 牧 群 司 或 田 土 判 , 然 为 汗 则 必 使 库 吉 特 丧 土 失 地 , 重 归 草 原 饥 寒 岁 月 . 
-str_nord_rebellion_monarch_response_2|先 王 哈 克 瑞 姆 虽 有 禅 让 之 念 , 然 北 境 立 君 非 仅 凭 血 胤 . 朕 得 封 臣 拥 戴 以 武 称 尊 , 此 重 逾 血 脉 , 逆 者 当 诛 ! 
-str_rhodok_rebellion_monarch_response_2|城 邦 显 贵 但 求 饕 餮 自 由 , 而 朕 与 将 士 餐 风 露 宿 枕 戈 待 旦 , 以 血 肉 护 商 路 畅 通 . 若 有 商 贾 身 负 库 吉 特 箭 创 或 斯 瓦 迪 亚 刀 痕 , 其 言 方 值 一 听 . 
-str_sarranid_rebellion_monarch_response_2|尔 当 知 晓 , 阿 尔 瓦 得 位 非 因 贤 明 , 实 乃 妖 妇 惑 主 之 术 . 然 朕 恪 守 誓 言 尊 其 共 治 , 直 至 傀 儡 身 死 法 统 尽 丧 . 今 其 当 奉 朕 为 尊 ! 
+str_khergit_rebellion_monarch_response_2|耶 律 剌 葛 或 堪 任 牧 群 司 或 田 土 判 , 然 为 汗 则 必 使 契 丹 丧 土 失 地 , 重 归 草 原 饥 寒 岁 月 . 
+str_nord_rebellion_monarch_response_2|先 王 杨 行 密 虽 有 禅 让 之 念 , 然 北 境 立 君 非 仅 凭 血 胤 . 朕 得 封 臣 拥 戴 以 武 称 尊 , 此 重 逾 血 脉 , 逆 者 当 诛 ! 
+str_rhodok_rebellion_monarch_response_2|藩 镇 显 贵 但 求 饕 餮 自 由 , 而 朕 与 将 士 餐 风 露 宿 枕 戈 待 旦 , 以 血 肉 护 商 路 畅 通 . 若 有 商 贾 身 负 契 丹 箭 创 或 后 梁 刀 痕 , 其 言 方 值 一 听 . 
+str_sarranid_rebellion_monarch_response_2|尔 当 知 晓 , 吴 氏 得 位 非 因 贤 明 , 实 乃 妖 妇 惑 主 之 术 . 然 朕 恪 守 誓 言 尊 其 共 治 , 直 至 傀 儡 身 死 法 统 尽 丧 . 今 其 当 奉 朕 为 尊 ! 
 str_courtship_comment_conventional_generic|颇 有 世 家 风 范 
 str_courtship_comment_adventurous_generic|尚 知 礼 数 进 退 
 str_courtship_comment_otherworldly_generic|礼 数 周 全 举 止 得 体 
@@ -1444,7 +1444,7 @@ str_kingdom_9_adjective|契 丹
 str_kingdom_10_adjective|定 难 
 str_kingdom_11_adjective|吴 越 
 str_kingdom_12_adjective|荆 南 
-str_kingdom_13_adjective|齐 
+str_kingdom_13_adjective|岐 
 str_kingdom_14_adjective|晋 
 str_kingdom_15_adjective|中 立 
 str_credits_1|《 骑 马 与 砍 杀 : 战 团 》 版 权 所 有 2008-2010 泰 尔 世 界 娱 乐 
@@ -1643,7 +1643,7 @@ str_command|军 令 状 :
 str_profile_banner_selection_text|择 选 汝 之 牙 旗 : 
 str_use_default_banner|用 节 镇 本 旗 
 str_party_morale_is_low|部 曲 士 气 低 迷 ! 
-str_weekly_report|旬 日 塘 报 
+str_weekly_report|旬 日 驿 报 
 str_has_deserted_the_party|已 离 营 遁 走 
 str_have_deserted_the_party|皆 离 营 遁 走 
 str_has_deserted_the_party_sea|殁 于 漕 运 
@@ -1697,7 +1697,7 @@ str_prisoner_not_offered_parole|战 俘 未 得 赎 契
 str__age_reg1_family_|^宗 亲 : 
 str_s49_s12_s11_rel_reg0|{s49}{s12} [  {s11}, 亲 缘 {reg0} ]  
 str_s49_s12_s11|{s49}{s12} [  {s11} ]  
-str_lord_info_string|{reg6?其 乃 {s56} 之 主 . : 其 乃 {s55} 之 臣 .}威 名 : {reg5} 荣 誉 : {reg15} {此 君/此 女}乃 {s20}. {reg9?{此 君 执 掌 /此 女 坐 镇}{s58}. : 尚 无 封 邑 .}{s59}^{s49}
+str_lord_info_string|{reg6?其 乃 {s56} 之 主 . : 其 乃 {s55} 之 臣 .}威 名 : {reg5} 荣 誉 : {reg15} {reg3?此 女:此 君}乃 {s20}. {reg9?{reg3?此 女 坐 镇:此 君 执 掌}{s58}. : 尚 无 封 邑 .}{s59}^{s49}
 str_foreign_relations__|藩 镇 交 聘 : ^
 str_s21__the_s5_is_at_war_with_the_s14|{s21}^* {s5}藩 镇 正 与 {s14}交 兵 
 str_s21_the_s5_has_had_the_upper_hand_in_the_fighting|{s21} {s5}藩 镇 已 占 上 风 
@@ -1776,23 +1776,23 @@ str_trade_explanation_oil|我 在 豆 坊 做 豆 豉 .
 str_trade_explanation_linen|我 用 亚 麻 织 夏 布 , {s0}, 轻 便 结 实 , 做 夏 衣 船 帆 都 好 . 
 str_trade_explanation_velvet|我 在 大 织 坊 制 锦 缎 , 用 山 那 边 的 生 丝 , 调 天 下 奇 色 , 织 出 四 海 难 寻 的 好 料 子 . 
 str_do_you_wish_to_surrender|尔 欲 降 否 ？ 
-str_npc7_intel_mission|都 尉 。 昔 年 自 {s17}故 园 出 走 时 ， 某 曾 立 誓 永 不 还 乡 ， 惟 待 复 仇 之 日 。 此 恐 意 气 用 事 矣 。 偶 尔 ， 亦 念 及 宗 族 近 况 。 或 许 可 携 礼 归 省 ， 令 彼 等 知 吾 今 日 之 成 就 ！ 然 则 彼 辈 终 是 卑 劣 之 徒 ， 虽 如 丧 家 之 犬 般 竖 耳 听 风 ， 然 耳 目 灵 通 。 若 允 某 数 日 探 访 ， 或 可 探 得 {s18}军 情 。 
-str_npc10_fief_acceptance|封 某 为 领 主 ？ 不 必 — — 若 以 古 制 『 护 民 官 』 相 称 ， 则 愿 为 君 治 理 {s17}。 当 使 黎 庶 饱 食 ， 更 练 党 项 精 兵 为 君 前 驱 ， {兄 弟 /姊 妹}。 然 则 朝 堂 公 卿 恐 难 与 某 同 席 议 事 。 
+str_npc7_intel_mission|都 尉 。 昔 年 自 {s17}故 园 出 走 时 ， 某 曾 立 誓 永 不 还 乡 ， 惟 待 复 仇 之 日 。 此 恐 意 气 用 事 矣 。 偶 尔 ， 亦 念 及 宗 族 近 况 。 或 许 可 携 礼 归 省 ， 令 彼 等 知 吾 今 日 之 成 就 ！ 然 而 彼 辈 终 是 卑 劣 之 徒 ， 虽 如 丧 家 之 犬 般 竖 耳 听 风 ， 然 耳 目 灵 通 。 若 允 某 数 日 探 访 ， 或 可 探 得 {s18}军 情 。 
+str_npc10_fief_acceptance|封 某 为 领 主 ？ 不 必 — — 若 以 古 制 『 都 统 』 相 称 ， 则 愿 为 君 治 理 {s17}。 当 使 黎 庶 饱 食 ， 更 练 党 项 精 兵 为 君 前 驱 ， {兄 弟/姊 妹}。 然 而 朝 堂 公 卿 恐 难 与 某 同 席 议 事 。 
 str_lord_derogatory_pitiles_action|苛 待 百 姓 ， 激 起 民 变 
 str_lord_derogatory_cunning_action|暗 通 敌 寇 ， 图 谋 不 轨 
 str_lord_derogatory_sadistic_action|辱 没 国 体 ， 败 坏 纲 常 
 str_lord_derogatory_goodnatured_action|妇 人 之 仁 ， 贻 误 战 机 
 str_lord_derogatory_upstanding_action|迂 腐 守 节 ， 罔 顾 大 局 
 str_rebellion_dilemma_martial|{s45}确 然 蒙 冤 。 虽 曾 向 {s46}立 誓 效 忠 ， 然 若 其 以 非 法 手 段 篡 夺 大 位 ， 吾 之 誓 约 便 无 约 束 之 力 。 
-str_rebellion_dilemma_quarrelsome|哼 。 {s46}素 来 亏 待 于 某 ， 本 无 忠 义 可 言 。 然 则 {s45}未 必 贤 明 ， {s46}至 少 尚 有 ...
+str_rebellion_dilemma_quarrelsome|哼 。 {s46}素 来 亏 待 于 某 ， 本 无 忠 义 可 言 。 然 而 {s45}未 必 贤 明 ， {s46}至 少 尚 有 ...
 str_rebellion_dilemma_pitiless|{s45}自 称 {s46}大 统 之 合 法 承 继 者 。 此 说 甚 善 ， 可 解 某 效 忠 之 誓 。 然 仍 须 审 慎 决 断 。 
 str_rebellion_dilemma_cunning|虽 与 {s46}有 君 臣 之 盟 ， 然 强 者 不 受 誓 约 所 困 。 吾 等 之 责 ， 惟 在 维 持 纲 纪 ， 免 使 天 下 大 乱 。 
 str_rebellion_dilemma_sadistic|当 此 浊 世 ， 智 者 必 先 谋 己 ， 因 无 人 顾 念 尔 。 故 — — 某 有 何 利 可 图 ？ 
 str_rebellion_dilemma_goodnatured|某 实 难 决 断 。 既 奉 {s46}为 合 法 之 主 ， 然 若 其 果 非 正 统 ， 则 誓 约 效 力 存 疑 。 
 str_rebellion_dilemma_upstanding|此 事 棘 手 。 背 弃 {s46}有 违 纲 常 ， 然 {s45}亦 具 法 统 ， 支 持 正 统 承 继 亦 属 臣 子 本 分 。 
-str_rebellion_dilemma_2_martial|然 则 {s46}久 经 战 阵 ， 某 实 不 忍 背 弃 。 
-str_rebellion_dilemma_2_quarrelsome|既 如 此 ， 某 何 须 弃 旧 主 而 奉 素 未 谋 面 之 {reg3?妇 人 :竖 子}？ 
-str_rebellion_dilemma_2_pitiless|择 立 {女 主/新 君}实 乃 危 局 ， 然 亦 机 遇 所 在 ， 正 可 攫 取 应 得 之 利 ！ 
+str_rebellion_dilemma_2_martial|然 而 {s46}久 经 战 阵 ， 某 实 不 忍 背 弃 。 
+str_rebellion_dilemma_2_quarrelsome|既 如 此 ， 某 何 须 弃 旧 主 而 奉 素 未 谋 面 之 {reg3?妇 人:竖 子}？ 
+str_rebellion_dilemma_2_pitiless|择 立 {reg3?女 主:新 君}实 乃 危 局 ， 然 亦 机 遇 所 在 ， 正 可 攫 取 应 得 之 利 ！ 
 str_rebellion_dilemma_2_cunning|{s46}既 遭 质 疑 ， 威 权 必 损 。 {s45}若 以 武 力 夺 位 ， 其 势 亦 难 比 和 平 继 统 者 。 
 str_rebellion_dilemma_2_sadistic|若 于 {s45}势 弱 时 投 效 ， 或 可 得 厚 赏 ； 然 若 献 {s46}尔 首 级 ， 恐 获 利 更 丰 。 
 str_rebellion_dilemma_2_goodnatured|{s46}待 某 尚 可 ， 然 其 确 有 负 于 {s45}。 背 誓 不 义 ， 助 纣 亦 非 善 举 。 
@@ -1829,23 +1829,23 @@ str_rebellion_relation_favorable|某 素 知 足 下 为 人
 str_rebellion_relation_neutral|某 与 足 下 交 浅 言 深 
 str_rebellion_relation_unfavorable|某 实 难 信 足 下 所 言 
 str_and_comma_3|再 者 ， 
-str_but_comma_3|然 则 ， 
+str_but_comma_3|然 而 ， 
 str_and_comma_1|， 兼 之 
-str_but_comma_1|， 然 则 
+str_but_comma_1|， 然 而 
 str_and_comma_2|。 更 有 甚 者 ， 
-str_but_comma_2|。 然 则 ， 
+str_but_comma_2|。 然 而 ， 
 str_rebellion_agree_martial|某 已 决 意 ， 当 奉 {s45}为 正 统 。 
 str_rebellion_agree_quarrelsome|罢 了 ， 某 本 不 喜 {s46}， 且 夺 其 大 位 ！ 
 str_rebellion_agree_pitiless|尔 等 幸 甚 ， 某 已 决 意 附 逆 。 望 勿 令 某 悔 此 抉 择 。 
 str_rebellion_agree_cunning|此 诚 危 局 ， 然 细 思 量 ， 当 与 尔 等 共 举 大 事 。 惟 愿 天 佑 。 
-str_rebellion_agree_sadistic|某 已 决 意 襄 助 尔 之 {女 主/新 君}{s45}。 然 须 保 某 得 厚 赏 ！ 
-str_rebellion_agree_goodnatured|罢 了 。 观 尔 之 {女 主/新 君}可 为 明 主 ， 某 当 附 议 。 
+str_rebellion_agree_sadistic|某 已 决 意 襄 助 尔 之 {reg3?女 主:新 君}{s45}。 然 须 保 某 得 厚 赏 ！ 
+str_rebellion_agree_goodnatured|罢 了 。 观 尔 之 {reg3?女 主:新 君}可 为 明 主 ， 某 当 附 议 。 
 str_rebellion_agree_upstanding|既 如 此 ， 当 以 社 稷 为 重 ， 奉 {s45}而 背 {s46}。 若 某 行 差 踏 错 ， 惟 天 可 鉴 。 
 str_rebellion_refuse_martial|恕 难 从 命 。 {s45}虽 具 法 统 ， 然 不 足 令 某 背 弃 {s46}。 
 str_rebellion_refuse_quarrelsome|哼 ！ 尔 之 竖 子 {s45}难 堪 大 任 ， 某 当 续 奉 {s46}。 
 str_rebellion_refuse_pitiless|不 允 。 尔 等 行 径 如 稚 子 索 糖 ， 某 当 续 奉 久 经 考 验 之 {s46}。 
 str_rebellion_refuse_cunning|恕 难 从 命 。 尔 等 难 成 气 候 ， 某 不 欲 陪 葬 ， 当 续 奉 {s46}。 
-str_rebellion_refuse_sadistic|不 奉 陪 。 尔 等 求 冠 冕 而 恐 得 断 头 台 ， 某 当 侍 {s46}观 尔 等 授 首 。 
+str_rebellion_refuse_sadistic|不 奉 陪 。 尔 等 求 冠 冕 而 恐 得 刑 戮 ， 某 当 侍 {s46}观 尔 等 授 首 。 
 str_rebellion_refuse_goodnatured|恕 难 从 命 。 背 弃 {s46}有 违 本 心 ， 沙 场 相 见 各 为 其 主 。 
 str_rebellion_refuse_upstanding|恕 难 从 命 。 {s45}法 统 不 足 令 苍 生 陷 于 水 火 ， 某 当 续 奉 {s46}。 若 某 行 差 踏 错 ， 惟 天 可 鉴 。 
 str_you_speak_of_unifying_calradia_id_be_impressed_if_i_thought_you_could_do_it_but_unfortunately_you_dont|尔 言 一 统 江 山 。 若 真 可 成 ， 某 当 刮 目 。 惜 乎 尔 等 实 无 此 能 。 
@@ -1897,11 +1897,11 @@ str_we_have_received_many_traders_in_town_here_although_there_is_some_danger_on_
 str_we_have_received_many_traders_in_town_heres42|近 日 城 里 商 队 络 绎 不 绝 . {s42}
 str_there_is_little_news_about_the_caravan_routes_to_the_towns_of_s44_and_nearby_parts_but_no_news_is_good_news_and_those_are_therefore_considered_safe|往 {s44}等 处 的 商 道 暂 无 消 息 , 既 是 无 风 无 浪 , 当 是 太 平 . 
 str_s47_also_the_roads_to_the_villages_of_s44_and_other_outlying_hamlets_are_considered_safe|{s47}另 则 往 {s44}等 村 落 的 道 路 还 算 安 稳 . 
-str_however_the_roads_to_the_villages_of_s44_and_other_outlying_hamlets_are_considered_safe|然 则 往 {s44}等 村 落 的 道 路 尚 称 太 平 . 
+str_however_the_roads_to_the_villages_of_s44_and_other_outlying_hamlets_are_considered_safe|然 而 往 {s44}等 村 落 的 道 路 尚 称 太 平 . 
 str_we_have_shortages_of|如 今 短 缺 
 str_we_have_adequate_stores_of_all_commodities|各 色 货 殖 俱 已 齐 备 
 str_s33_and_some_other_commodities|{s33}及 其 他 货 物 
-str_the_roads_are_full_of_brigands_friend_but_that_name_in_particular_does_not_sound_familiar_good_hunting_to_you_nonetheless|道 上 响 马 横 行 , 郎 君 所 言 之 人 某 实 未 听 闻 . 愿 君 此 行 斩 获 颇 丰 , 某 当 备 酒 以 待 捷 报 . 
+str_the_roads_are_full_of_brigands_friend_but_that_name_in_particular_does_not_sound_familiar_good_hunting_to_you_nonetheless|道 上 马 贼 横 行 , 郎 君 所 言 之 人 某 实 未 听 闻 . 愿 君 此 行 斩 获 颇 丰 , 某 当 备 酒 以 待 捷 报 . 
 str_less_than_an_hour_ago|未 满 半 个 时 辰 前 
 str_maybe_reg3_hours_ago|约 {reg3}个 时 辰 前 
 str_reg3_days_ago|{reg3}日 前 
@@ -2078,7 +2078,7 @@ str__i_am_not_accompanying_the_marshal_because_i_fear_that_he_may_lead_us_into_d
 str_i_am_not_accompanying_the_marshal_because_i_question_his_judgment|某 不 从 都 指 挥 使 , 实 疑 其 军 略 . 
 str_i_am_not_accompanying_the_marshal_because_i_can_do_greater_deeds|某 不 随 都 指 挥 使 , 自 可 建 更 大 功 业 . 
 str__s16_has_kept_us_on_campaign_on_far_too_long_and_there_are_other_pressing_matters_to_which_i_must_attend|{s16}驱 使 我 等 征 战 过 久 , 某 另 有 要 务 待 理 . 
-str__i_am_not_participating_in_the_marshals_campaign_because_i_do_not_know_where_to_find_our_main_army|某 未 参 都 指 挥 使 之 战 , 实 不 知 主 力 所 在 . 
+str__i_am_not_participating_in_the_marshals_campaign_because_i_do_not_know_where_to_find_our_main_army|某 未 参 与 都 指 挥 使 之 战 , 实 不 知 主 力 所 在 . 
 str__i_am_acting_independently_although_some_enemies_have_been_spotted_within_our_borders_they_havent_come_in_force_and_the_local_troops_should_be_able_to_dispatch_them|某 虽 见 敌 踪 现 于 边 境 , 然 其 势 未 盛 , 驻 军 足 可 剿 灭 . 
 str__the_needs_of_the_realm_must_come_first|社 稷 大 计 当 为 第 一 . 
 str_we_are_likely_to_be_overwhelmed_by_the_s9_let_each_defend_their_own|恐 为 {s9}所 破 , 当 各 守 其 土 . 
@@ -2093,7 +2093,7 @@ str_the_vassals_are_tired_we_let_them_rest_for_some_time|诸 镇 疲 于 征 战
 str_the_vassals_still_need_time_to_attend_to_their_own_business|藩 镇 尚 需 时 日 料 理 本 务 . 
 str_it_is_time_to_go_on_the_offensive_and_we_must_first_assemble_the_army|当 兴 兵 伐 敌 , 然 须 先 聚 大 军 . 
 str_we_must_continue_to_gather_the_army_before_we_ride_forth_on_an_offensive_operation|目 下 兵 寡 , 当 续 募 军 士 再 图 进 取 . 
-str_there_is_no_need_to_beat_around_the_borders__we_can_take_one_of_their_important_towns|毋 需 边 地 周 旋 , 直 取 其 要 镇 . 
+str_there_is_no_need_to_beat_around_the_borders__we_can_take_one_of_their_important_towns|无 需 边 地 周 旋 , 直 取 其 要 镇 . 
 str_we_should_exploit_our_success_over_s21_by_seizing_one_of_their_fortresses|当 乘 胜 夺 {s21}要 寨 . 
 str_we_shall_leave_a_fiery_trail_through_the_heart_of_the_enemys_lands_targeting_the_wealthy_settlements_if_we_can|当 长 驱 敌 境 , 焚 其 膏 腴 之 地 . 
 str_the_army_will_be_disbanded_because_we_have_been_waiting_too_long_without_a_target|久 候 无 的 , 大 军 当 散 . 
@@ -2145,18 +2145,18 @@ str_my_lady_you_are_possessed_of_great_charms_but_no_properties_until_you_obtain
 str_my_lady_you_are_a_woman_of_no_known_family_of_no_possessions__in_short_a_nobody_do_you_think_that_you_are_fit_to_marry_into_may_family|卿 出 身 寒 微 , 既 无 显 赫 家 世 , 又 无 封 邑 财 帛 — — 区 区 白 身 , 安 敢 高 攀 某 家 姻 亲 ? 
 str_my_lady__forgive_me__the_quality_of_our_bond_is_not_of_the_sort_which_the_poets_tell_us_is_necessary_to_sustain_a_happy_marriage|娘 子 恕 罪 — — 你 我 情 谊 浅 薄 , 非 诗 书 所 言 琴 瑟 和 鸣 之 态 . 
 str_um_i_think_that_if_i_want_to_stay_on_s4s_good_side_id_best_not_marry_you|某 若 欲 得 {s4}垂 青 , 与 卿 联 姻 恐 非 良 策 . 
-str_you_serve_another_realm_i_dont_see_s4_granting_reg4herhis_blessing_to_our_union|卿 既 侍 他 主 , {s4}岂 会 赐 {凤 诏/龙 敕}以 成 姻 缘 ? 
+str_you_serve_another_realm_i_dont_see_s4_granting_reg4herhis_blessing_to_our_union|卿 既 侍 他 主 , {s4}岂 会 赐 {reg4?凤 诏:龙 敕}以 成 姻 缘 ? 
 str_madame_my_heart_currently_belongs_to_s4|某 之 心 志 , 今 系 于 {s4}. 
 str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grace_and_wit_i_shall_give_your_proposal_consideration|娘 子 英 姿 飒 爽 , 容 止 端 丽 , 某 当 慎 思 此 议 . 
 str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grace_and_wit_i_would_be_most_honored_were_you_to_become_my_wife|娘 子 巾 帼 英 豪 , 姿 容 绝 世 , 若 得 结 秦 晋 之 好 , 实 某 三 生 之 幸 . 
 str_ah__kais_and_layali__such_a_sad_tale_many_a_time_has_it_been_recounted_for_my_family_by_the_wandering_poets_who_come_to_our_home_and_it_has_never_failed_to_bring_tears_to_our_eyes|嗟 乎 — — "童 蔡 遗 恨 "— — 实 乃 悲 情 之 事 . 多 少 寒 暑 过 往 , 云 游 说 书 人 至 寒 舍 讲 此 典 故 , 每 闻 之 必 使 吾 等 涕 泗 沾 襟 . 
-str_kais_and_layali_three_hundred_stanzas_of_pathetic_sniveling_if_you_ask_me_if_kais_wanted_to_escape_heartbreak_he_should_have_learned_to_live_within_his_station_and_not_yearn_for_what_he_cannot_have|童 蔡 之 事 "三 百 韵 ? 若 依 某 之 见 , 不 过 小 儿 啼 泣 之 语 . 若 童 生 欲 避 情 殇 , 当 安 守 本 分 莫 觊 觎 非 分 之 物 . 
-str_kais_and_layali_no_one_should_ever_have_written_such_a_sad_poem_if_it_was_the_destiny_of_kais_and_layali_to_be_together_than_their_love_should_have_conquered_all_obstacles|《 董 和 蔡 》 ? 岂 有 此 理 ! 若 天 命 注 定 董 蔡 二 人 当 结 连 理 , 何 须 这 般 凄 绝 诗 篇 ? 真 真 情 比 金 坚 , 自 当 踏 破 万 千 险 阻 ! 
-str_ah_kais_and_layali_a_very_old_standby_but_moving_in_its_way|啊 , 《 董 和 蔡 》 ? 虽 是 陈 腔 滥 调 , 却 也 别 有 一 番 动 人 之 处 . 
-str_the_saga_of_helgered_and_kara_such_happy_times_in_which_our_ancestors_lived_women_like_kara_could_venture_out_into_the_world_like_men_win_a_name_for_themselves_and_not_linger_in_their_husbands_shadow|《 萨 拉 迪 与 严 木 jin》 ? 彼 时 诚 乃 黄 金 岁 月 ! 严 木 氏 这 般 巾 帼 , 竟 可 如 男 儿 般 闯 荡 江 湖 , 自 创 名 号 , 不 囿 于 夫 君 荫 蔽 . 
+str_kais_and_layali_three_hundred_stanzas_of_pathetic_sniveling_if_you_ask_me_if_kais_wanted_to_escape_heartbreak_he_should_have_learned_to_live_within_his_station_and_not_yearn_for_what_he_cannot_have|童 蔡 之 事 "三 百 韵 ? 若 依 某 之 见 , 不 过 小 儿 啼 泣 之 语 . 若 童 蔡 欲 避 情 殇 , 当 安 守 本 分 莫 觊 觎 非 分 之 物 . 
+str_kais_and_layali_no_one_should_ever_have_written_such_a_sad_poem_if_it_was_the_destiny_of_kais_and_layali_to_be_together_than_their_love_should_have_conquered_all_obstacles|《 童 蔡 》 ? 岂 有 此 理 ! 若 天 命 注 定 童 蔡 二 人 当 结 连 理 , 何 须 这 般 凄 绝 诗 篇 ? 真 真 情 比 金 坚 , 自 当 踏 破 万 千 险 阻 ! 
+str_ah_kais_and_layali_a_very_old_standby_but_moving_in_its_way|啊 , 《 童 蔡 》 ? 虽 是 陈 腔 滥 调 , 却 也 别 有 一 番 动 人 之 处 . 
+str_the_saga_of_helgered_and_kara_such_happy_times_in_which_our_ancestors_lived_women_like_kara_could_venture_out_into_the_world_like_men_win_a_name_for_themselves_and_not_linger_in_their_husbands_shadow|《 萨 拉 迪 与 颜 慕 金》 ? 彼 时 诚 乃 黄 金 岁 月 ! 颜 慕 氏 这 般 巾 帼 , 竟 可 如 男 儿 般 闯 荡 江 湖 , 自 创 名 号 , 不 囿 于 夫 君 荫 蔽 . 
 str_ah_the_saga_of_helgered_and_kara_now_there_was_a_lady_who_knew_what_she_wanted_and_was_not_afraid_to_obtain_it|啊 , 《 萨 严 传 奇 》 ? 此 等 奇 女 子 , 胸 有 丘 壑 而 行 事 果 决 , 当 真 令 人 钦 慕 . 
 str_the_saga_of_helgered_and_kara_a_terrible_tale__but_it_speaks_of_a_very_great_love_if_she_were_willing_to_make_war_on_her_own_family|《 萨 严 演 义 》 ? 虽 为 惊 世 骇 俗 之 篇 , 然 若 非 情 深 似 海 , 焉 能 令 她 举 兵 伐 亲 ? 
-str_the_saga_of_helgered_and_kara_as_i_recall_kara_valued_her_own_base_passions_over_duty_to_her_family_that_she_made_war_on_her_own_father_i_have_no_time_for_a_poem_which_praises_such_a_woman|《 萨 严 传 》 ? 严 木 氏 竟 为 一 己 私 欲 背 弃 宗 族 , 甚 而 兵 戈 相 向 生 身 父 . 此 等 悖 逆 之 女 , 何 堪 入 诗 ? 
+str_the_saga_of_helgered_and_kara_as_i_recall_kara_valued_her_own_base_passions_over_duty_to_her_family_that_she_made_war_on_her_own_father_i_have_no_time_for_a_poem_which_praises_such_a_woman|《 萨 严 传 》 ? 颜 慕 氏 竟 为 一 己 私 欲 背 弃 宗 族 , 甚 而 兵 戈 相 向 生 身 父 . 此 等 悖 逆 之 女 , 何 堪 入 诗 ? 
 str_the_saga_of_helgered_and_kara_how_could_a_woman_don_armor_and_carry_a_sword_how_could_a_man_love_so_ungentle_a_creature|《 萨 严 轶 事 》 ? 女 子 怎 能 披 甲 佩 剑 ! 男 儿 怎 会 钟 情 这 般 粗 野 之 人 ! 
 str_a_conversation_in_the_garden_i_cannot_understand_the_lady_in_that_poem_if_she_loves_the_man_why_does_she_tease_him_so|《 芳 园 对 谈 》 ? 诗 中 佳 人 当 真 费 解 , 既 怀 情 愫 , 何 故 作 态 撩 拨 ? 
 str_a_conversation_in_the_garden_let_us_see__it_is_morally_unedifying_it_exalts_deception_it_ends_with_a_maiden_surrendering_to_her_base_passions_and_yet_i_cannot_help_but_find_it_charming_perhaps_because_it_tells_us_that_love_need_not_be_tragic_to_be_memorable|《 芳 园 记 》 ? 观 其 文 , 有 悖 伦 常 , 诡 诈 为 美 , 终 以 闺 秀 纵 欲 收 场 ...然 掩 卷 细 思 , 竟 觉 妙 趣 横 生 . 许 是 道 出 情 爱 未 必 悲 怆 方 得 隽 永 ? 
@@ -2168,7 +2168,7 @@ str_storming_the_fortress_of_love_ah_yes_but_although_it_is_a_fine_tale_of_virtu
 str_storming_the_fortress_of_love_ah_a_sermon_dressed_up_as_a_love_poem_if_you_ask_me|《 情 关 吟 》 ? 依 某 之 见 , 不 过 借 风 月 之 名 行 说 教 之 实 . 
 str_a_hearts_desire_ah_such_a_beautiful_account_of_the_perfect_perfect_love_to_love_like_that_must_be_to_truly_know_rapture|《 心 经 》 ? 字 字 珠 玑 , 道 尽 至 情 至 性 ! 得 此 良 缘 , 方 知 何 谓 神 魂 俱 醉 . 
 str_a_hearts_desire_silly_if_you_ask_me_if_the_poet_desires_a_lady_then_he_should_endeavor_to_win_her__and_not_dress_up_his_desire_with_a_pretense_of_piety|《 心 鉴 》 ? 愚 不 可 及 ! 既 慕 淑 女 , 自 当 竭 力 求 取 , 何 苦 假 托 清 修 ? 
-str_a_hearts_desire_hmm__it_is_an_interesting_exploration_of_earthly_and_divine_love_it_does_speak_of_the_spiritual_quest_which_brings_out_the_best_in_man_but_i_wonder_if_the_poet_has_not_confused_his_yearning_for_higher_things_with_his_baser_passions|《 心 典 》 ? 嗯 ...此 篇 妙 参 尘 世 情 缘 与 天 道 至 爱 . 虽 言 修 真 可 激 扬 人 性 , 然 则 作 者 恐 将 慕 道 之 心 与 凡 俗 之 欲 混 为 一 谈 ? 
+str_a_hearts_desire_hmm__it_is_an_interesting_exploration_of_earthly_and_divine_love_it_does_speak_of_the_spiritual_quest_which_brings_out_the_best_in_man_but_i_wonder_if_the_poet_has_not_confused_his_yearning_for_higher_things_with_his_baser_passions|《 心 典 》 ? 嗯 ...此 篇 妙 参 尘 世 情 缘 与 天 道 至 爱 . 虽 言 修 真 可 激 扬 人 性 , 然 而 作 者 恐 将 慕 道 之 心 与 凡 俗 之 欲 混 为 一 谈 ? 
 str_a_hearts_desire_oh_yes__it_is_very_worthy_and_philosophical_but_if_i_am_to_listen_to_a_bard_strum_a_lute_for_three_hours_i_personally_prefer_there_to_be_a_bit_of_a_story|《 心 传 》 ? 确 乃 玄 妙 高 深 之 作 . 然 若 教 某 枯 听 乐 工 弹 阮 三 时 辰 , 宁 取 有 起 承 转 合 之 传 奇 . 
 str_reg3_units_of_s4_for_reg5_guests_and_retinue|{reg3}石 {s4}以 供 {reg5}位 宾 客 及 随 从 
 str_reg3_units_of_spice_of_reg5_to_be_consumed|{reg3}斛 {reg5}香 药 以 备 宴 飨 
@@ -2203,7 +2203,7 @@ str_courtships_in_progress_|姻 缘 簿 现 存 : ^
 str_s1_s2_relation_reg3_last_visit_reg4_days_ago|{s1}^{s2}, 亲 疏 {reg3}, 前 次 拜 谒 距 今 {reg4}日 
 str_s1__poems_known|{s1}^^谙 熟 诗 赋 : 
 str_s1_storming_the_castle_of_love_allegoric|{s1}^《 情 关 赋 》  [  喻 世  ]  
-str_s1_kais_and_layali_tragic|{s1}^《 董 蔡 怨 》  [  悲 情  ]  
+str_s1_kais_and_layali_tragic|{s1}^《 童 蔡 怨 》  [  悲 情  ]  
 str_s1_a_conversation_in_the_garden_comic|{s1}^《 芳 园 记 》  [  谐 趣  ]  
 str_s1_helgered_and_kara_epic|{s1}^《 萨 严 传 》  [  雄 奇  ]  
 str_s1_a_hearts_desire_mystic|{s1}^《 心 经 》  [  玄 妙  ]  
@@ -2228,10 +2228,10 @@ str_s10_lies_in_the_arenas_dust_for_several_minutes_then_staggers_to_his_feet_yo
 str__this_castle_is_temporarily_under_royal_control|此 堡 暂 归 王 师 节 制 . 
 str__this_castle_does_not_seem_to_be_under_anyones_control|此 堡 似 成 无 主 之 地 . 
 str__this_town_is_temporarily_under_royal_control|该 镇 邑 暂 由 朝 廷 节 制 
-str__the_townspeople_seem_to_have_declared_their_independence|此 间 百 姓 似 已 自 表 归 附 
+str__the_townspeople_seem_to_have_declared_their_independence|此 间 百 姓 似 已 宣 告 自 立 
 str_to_your_husband_s11|致 尔 夫 君 {s11}
-str__you_see_the_banner_of_your_wifehusband_s7_over_the_castle_gate|但 见 城 阙 之 上 高 悬 {s7}旌 旗 — — 乃 尔 {夫 君/内 子}之 徽 帜 也 
-str__the_banner_of_your_wifehusband_s7_flies_over_the_town_gates|尔 {夫 君/内 子}{s7}之 牙 旗 正 飘 摇 于 城 门 之 上 
+str__you_see_the_banner_of_your_wifehusband_s7_over_the_castle_gate|但 见 城 阙 之 上 高 悬 {s7}旌 旗 — — 乃 尔 {妻 子/夫 君}之 徽 帜 也 
+str__the_banner_of_your_wifehusband_s7_flies_over_the_town_gates|尔 {妻 子/夫 君}{s7}之 牙 旗 正 飘 摇 于 城 门 之 上 
 str__the_lord_is_currently_holding_a_feast_in_his_hall|^节 帅 今 于 府 邸 设 宴 
 str__join_the_feast|赴 宴 
 str_belligerent_drunk_in_s4|酗 酒 滋 事 之 徒 现 于 {s4}
@@ -2245,14 +2245,14 @@ str_s11_also_s12_was_wounded_and_had_to_be_left_behind|{s11}复 有 {s12}创 甚
 str_with_the_s10|携 {s10}部 曲 
 str_outside_calradia|中 原 之 外 
 str_you_have_been_indicted_for_treason_to_s7_your_properties_have_been_confiscated_and_you_would_be_well_advised_to_flee_for_your_life|尔 既 叛 {s7}, 田 宅 籍 没 , 当 速 遁 保 命 
-str_by_order_of_s6_s4_of_the_s5_has_been_indicted_for_treason_the_lord_has_been_stripped_of_all_reg4herhis_properties_and_has_fled_for_reg4herhis_life_he_is_rumored_to_have_gone_into_exile_s11|奉 {s6}令 , {s5}部 将 {s4}坐 叛 , 田 产 尽 没 , {伊/彼}已 亡 命 天 涯 , 闻 已 流 {s11}
+str_by_order_of_s6_s4_of_the_s5_has_been_indicted_for_treason_the_lord_has_been_stripped_of_all_reg4herhis_properties_and_has_fled_for_reg4herhis_life_he_is_rumored_to_have_gone_into_exile_s11|奉 {s6}令 , {s5}部 将 {s4}坐 叛 , 田 产 尽 没 , {reg4?伊:彼}已 亡 命 天 涯 , 闻 已 流 {s11}
 str_local_notables_from_s1_a_village_claimed_by_the_s4_have_been_mistreated_by_their_overlords_from_the_s3_and_petition_s5_for_protection|{s4}治 下 {s1}村 耆 老 遭 {s3}苛 待 , 乞 {s5}庇 护 
 str_villagers_from_s1_stole_some_cattle_from_s2|{s1}村 民 窃 {s2}耕 牛 
 str_villagers_from_s1_abducted_a_woman_from_a_prominent_family_in_s2_to_marry_one_of_their_boys|{s1}村 民 强 掳 {s2}望 族 之 女 为 妇 
 str_villagers_from_s1_killed_some_farmers_from_s2_in_a_fight_over_the_diversion_of_a_stream|{s1}村 民 因 争 水 戕 杀 {s2}农 人 
 str_your_new_minister_|新 拜 军 师 
 str_s10_is_your_new_minister_and_|拜 {s10}为 军 师 , 
-str_due_to_the_fall_of_s10_your_court_has_been_relocated_to_s12|因 失 {s10}, 幕 府 暂 迁 {s11}
+str_due_to_the_fall_of_s10_your_court_has_been_relocated_to_s12|因 失 {s10}, 幕 府 暂 迁 {s12}
 str_after_to_the_fall_of_s10_your_faithful_vassal_s9_has_invited_your_court_to_s11_|{s10}既 陷 , 忠 将 {s9}请 幕 府 徙 {s11}
 str_after_to_the_fall_of_s11_your_court_has_nowhere_to_go|失 {s11}后 , 幕 府 竟 无 立 锥 之 地 
 str_s8_wishes_to_inform_you_that_the_lords_of_s9_will_be_gathering_for_a_feast_at_his_great_hall_in_s10_and_invites_you_to_be_part_of_this_august_assembly|{s8}传 书 : {s9}诸 将 聚 宴 于 {s10}府 邸 , 邀 君 共 襄 盛 举 
@@ -2287,8 +2287,8 @@ str_the_s12_is_shaky_many_lords_do_not_cooperate_with_each_other_and_some_might_
 str_the_s12_is_fairly_solid_some_lords_bear_enmities_for_each_other_but_they_tend_to_stand_together_against_outside_enemies|这 {s12}藩 尚 属 稳 固 . 诸 将 虽 存 私 怨 , 然 外 敌 当 前 尚 能 同 仇 . 
 str_the_s12_is_a_rock_of_stability_politically_speaking_whatever_the_lords_may_think_of_each_other_they_fight_as_one_against_the_common_foe|这 {s12}藩 如 磐 石 之 固 . 诸 将 纵 有 龃 龉 , 临 阵 皆 能 戮 力 同 心 . 
 str_tribune_s12|都 统 {s12}
-str_lady_s12|诰 命 夫 人 {s12}
-str_lord_s12|藩 镇 使 {s12}
+str_lady_s12|国 夫 人 {s12}
+str_lord_s12|节 度 使 {s12}
 str_resolve_the_dispute_between_s11_and_s12|调 停 {s11}与 {s12}之 争 端 
 str_in_doing_so_you_will_be_in_violation_of_your_truce_is_that_what_you_want|如 此 将 背 弃 盟 约 , 君 欲 行 此 不 义 乎 ? 
 str_if_you_attack_without_provocation_some_of_your_vassals_may_consider_you_to_be_too_warlike_is_that_what_you_want|若 师 出 无 名 , 麾 下 或 将 视 君 为 穷 兵 黩 武 之 主 , 可 乎 ? 
@@ -2340,7 +2340,7 @@ str_certainly_playername_what_is_it|但 说 无 妨 , {playername}.
 str_forgive_me_but_id_prefer_to_keep_our_conversations_in_the_open|某 愿 光 明 磊 落 , 堂 前 议 事 即 可 . 
 str_please_do_not_take_this_amiss_but_im_not_sure_you_and_i_are_still_on_those_terms|非 某 薄 情 , 实 是 时 移 世 易 . 
 str_really_well_this_is_the_first_i_have_heard_of_it_unless_you_build_up_support_for_that_claim_you_may_find_it_difficult_to_find_allies_however_whenever_you_see_fit_to_declare_yourself_publically_as_queen_i_should_be_honored_to_be_your_consort|竟 有 此 事 ? 然 根 基 未 固 恐 难 服 众 . 待 君 昭 告 天 下 之 日 , 某 当 奉 銮 驾 . 
-str_yes_i_have_heard_such_talk_while_it_is_good_that_you_are_building_up_your_support_i_do_not_think_that_you_are_quite_ready_to_proclaim_yourself_yet_however_i_will_let_you_be_the_judge_of_that_and_when_you_decide_i_should_be_honored_to_be_your_consort|某 亦 有 所 耳 闻 . 然 羽 翼 未 丰 恐 非 其 时 , 惟 君 自 度 . 待 黄 袍 加 身 日 , 某 当 侍 奉 左 右 . 
+str_yes_i_have_heard_such_talk_while_it_is_good_that_you_are_building_up_your_support_i_do_not_think_that_you_are_quite_ready_to_proclaim_yourself_yet_however_i_will_let_you_be_the_judge_of_that_and_when_you_decide_i_should_be_honored_to_be_your_consort|某 亦 有 所 耳 闻 . 然 羽 翼 未 丰 恐 非 其 时 , 惟 君 自 度 . 待 正 位 之 日 , 某 当 侍 奉 左 右 . 
 str_yes_and_many_others_in_calradia_think_so_as_well_perhaps_it_is_time_that_you_declared_yourself_and_we_shall_ride_forth_together_to_claim_your_throne_i_should_be_honored_to_be_your_consort|中 原 豪 杰 皆 翘 首 以 盼 . 今 当 正 位 称 制 , 某 愿 执 鞭 坠 镫 , 共 取 神 器 . 
 str_i_am_disturbed_about_my_lord_s15s_choice_of_companions|某 深 忧 吾 主 {s15}所 用 非 人 . 
 str_well_ill_be_honest_i_feel_that_sometimes_s15_overlooks_my_rights_and_extends_his_protection_to_the_unworthy|某 直 言 不 讳 : {s15}屡 纵 宵 小 , 有 损 某 之 权 益 . 
@@ -2445,25 +2445,25 @@ str_once_again_|再 启 玉 壶
 str_cheat__marriage_proposal|秘 法 - 姻 缘 牍 
 str_you_plan_to_marry_s4_as_you_have_no_family_in_calradia_he_will_organize_the_wedding_feast|足 下 既 无 亲 族 在 此 , 婚 仪 诸 事 由 {s4}主 理 . 
 str_s43_just_so_you_know_if_you_attack_me_you_will_be_in_violation_of_the_truce_you_signed_with_the_s34|{s43}提 醒 足 下 : 若 启 战 端 , 便 是 背 弃 与 {s34}之 盟 约 . 
-str_very_well__you_are_now_my_liege_as_well_as_my_husband|从 今 尔 后 , 君 既 为 某 主 上 , 亦 为 某 {夫 君/内 子}, 当 恪 守 君 臣 夫 妇 之 义 . 
+str_very_well__you_are_now_my_liege_as_well_as_my_husband|从 今 尔 后 , 君 既 为 某 主 上 , 亦 为 某 {妻 子/夫 君}, 当 恪 守 君 臣 夫 妇 之 义 . 
 str_i_thank_you_reg39my_ladylord|拜 谢 {reg39?夫 人:明 公}厚 恩 . 
 str_now_some_might_say_that_women_have_no_business_leading_mercenary_companies_but_i_suspect_that_you_would_prove_them_wrong_what_do_you_say|世 有 妄 言 女 子 不 堪 掌 傔 从 团 , 然 某 观 足 下 , 必 能 令 彼 等 瞠 目 . 意 下 如 何 ? 
 str_what_do_you_say_to_entering_the_service_of_s9_as_a_mercenary_captain_i_have_no_doubt_that_you_would_be_up_to_the_task|可 愿 为 {s9}傔 从 都 尉 ? 某 知 足 下 必 能 胜 任 . 
 str_s9_asked_you_to_rescue_s13_who_is_prisoner_at_s24|{s9}命 足 下 往 {s24}劫 救 囚 徒 {s13}. 
 str_s9_asked_you_to_attack_a_village_or_some_caravans_as_to_provoke_a_war_with_s13|{s9}令 足 下 袭 村 劫 商 , 构 衅 于 {s13}. 
-str_s9_asked_you_to_catch_the_three_groups_of_runaway_serfs_and_bring_them_back_to_s4_alive_and_breathing_he_said_that_all_three_groups_are_heading_towards_s3|{s9}命 足 下 截 回 逃 往 {s3}之 三 队 佃 户 , 须 全 须 全 尾 带 回 {s4}. 
+str_s9_asked_you_to_catch_the_three_groups_of_runaway_serfs_and_bring_them_back_to_s4_alive_and_breathing_he_said_that_all_three_groups_are_heading_towards_s3|{s9}命 足 下 截 回 逃 往 {s3}之 三 队 佃 户 , 全 须 全 尾 带 回 {s4}. 
 str_you_intend_to_bring_goods_to_s9_in_preparation_for_the_feast_which_will_be_held_as_soon_as_conditions_permit|足 下 欲 为 {s9}采 办 宴 需 , 待 时 局 稍 定 即 行 宴 集 . 
 str_hello_playername|{playername}钧 鉴 
 str_ah_my_gentle_playername_how_much_good_it_does_my_heart_to_see_you_again|暌 违 日 久 , {playername}别 来 无 恙 ? 某 常 感 你 我 灵 犀 相 通 , 纵 隔 关 山 亦 如 比 邻 . 
 str_playername__i_am_so_glad_to_see_you_again_i_must_say_i_do_envy_your_freedom_to_ride_out_and_experience_the_world|说 实 在 的 , 真 羡 慕 郎 君 能 纵 马 江 湖 快 意 恩 仇 . 
 str_playername__i_am_so_glad_to_see_you_i_trust_that_you_have_been_behaving_honorably_since_last_we_met|妾 身 信 得 过 郎 君 , 自 上 次 别 后 定 是 行 止 端 方 . 
 str_playername__i_am_so_glad_that_you_were_able_to_come|承 蒙 郎 君 不 弃 , 拨 冗 前 来 . 
-str_i_do_enjoy_speaking_to_you_but_i_am_sure_you_understand_that_our_people_cluck_their_tongues_at_a_woman_to_spend_too_long_conversing_with_a_man_outside_her_family__although_the_heavens_know_its_never_the_man_who_is_held_to_blame_|妾 身 虽 喜 与 君 攀 谈 , 然 则 世 家 女 子 若 与 外 男 久 叙 , 难 免 遭 人 嚼 舌 根 — — 虽 知 世 人 总 苛 责 妇 道 . 
+str_i_do_enjoy_speaking_to_you_but_i_am_sure_you_understand_that_our_people_cluck_their_tongues_at_a_woman_to_spend_too_long_conversing_with_a_man_outside_her_family__although_the_heavens_know_its_never_the_man_who_is_held_to_blame_|妾 身 虽 喜 与 君 攀 谈 , 然 而 世 家 女 子 若 与 外 男 久 叙 , 难 免 遭 人 嚼 舌 根 — — 虽 知 世 人 总 苛 责 妇 道 . 
 str_as_much_as_i_enjoy_speaking_to_you_i_do_not_care_to_be_gossiped_about_by_others_who_might_lack_my_grace_and_beauty_|纵 使 相 谈 甚 欢 , 妾 身 亦 不 愿 成 那 些 庸 脂 俗 粉 的 谈 资 . 
 str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_one_of_the_great_families_of_this_land_i_must_set_an_example_of_propriety_|虽 则 投 缘 , 然 妾 身 系 出 名 门 , 当 为 闺 阁 典 范 . 
 str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_good_family_i_must_protect_my_reputation_|虽 则 倾 盖 如 故 , 然 良 家 女 子 须 惜 羽 毛 . 
-str_although_it_is_kind_of_you_to_pay_me_such_attentions_i_suspect_that_you_might_find_other_ladies_who_may_be_more_inclined_to_return_your_affection|郎 君 美 意 心 领 , 然 则 天 下 淑 女 甚 蕃 , 必 有 投 桃 报 李 者 . 
-str_as_flattered_as_i_am_by_your_attentions_perhaps_you_should_seek_out_another_lady_of_somewhat_shall_we_say_different_tastes|承 蒙 错 爱 , 然 则 郎 君 或 许 该 寻 位 ...志 趣 相 投 的 闺 秀 ? 
+str_although_it_is_kind_of_you_to_pay_me_such_attentions_i_suspect_that_you_might_find_other_ladies_who_may_be_more_inclined_to_return_your_affection|郎 君 美 意 心 领 , 然 而 天 下 淑 女 甚 蕃 , 必 有 投 桃 报 李 者 . 
+str_as_flattered_as_i_am_by_your_attentions_perhaps_you_should_seek_out_another_lady_of_somewhat_shall_we_say_different_tastes|承 蒙 错 爱 , 然 而 郎 君 或 许 该 寻 位 ...志 趣 相 投 的 闺 秀 ? 
 str_as_flattered_as_i_am_by_your_attentions_i_am_a_daughter_of_good_family_and_must_be_aware_of_my_reputation_it_is_not_seemly_that_i_converse_too_much_at_one_time_with_one_man_i_am_sure_you_understand_now_if_you_will_excuse_me|妾 虽 感 念 厚 意 , 然 家 世 清 贵 须 重 名 节 . 与 外 男 久 处 恐 惹 非 议 , 还 望 体 谅 . 恕 暂 别 过 ...
 str_very_well__i_will_let_you_choose_the_time|也 罢 , 便 依 郎 君 择 期 . 
 str_good_i_am_glad_that_you_have_abandoned_the_notion_of_pushing_me_into_marriage_before_i_was_ready|善 哉 ! 郎 君 能 弃 那 强 娶 之 念 , 妾 心 甚 慰 . 
@@ -2495,8 +2495,8 @@ str__have_you_not_signed_a_truce_with_our_lord|尊 驾 莫 非 与 我 主 有 �
 str_parole|具 结 
 str_normal|常 例 
 str__meanwhile_s51_reg2areis_being_held_in_the_castle_but_reg2havehas_made_pledges_not_to_escape_and_reg2areis_being_held_in_more_comfortable_quarters|另 者 , {s51}{reg2?等:}现 羁 于 堡 中 , 因 立 誓 不 逃 , 得 以 居 上 房 
-str_you_may_be_aware_my_lord_of_the_quarrel_between_s4_and_s5_which_is_damaging_the_unity_of_this_realm_and_sapping_your_authority_if_you_could_persuade_the_lords_to_reconcile_it_would_boost_your_own_standing_however_in_taking_this_on_you_run_the_risk_of_one_the_lords_deciding_that_you_have_taken_the_rivals_side|大 人 可 知 {s4}与 {s5}交 恶 之 事 ? 此 隙 损 及 国 本 亦 折 损 威 仪 . 若 能 说 和 , 声 望 自 涨 . 然 则 调 停 恐 招 一 方 疑 忌 , 谓 大 人 偏 私 . 
-str_you_may_be_aware_my_lord_of_the_quarrel_between_s4_and_s5_which_is_damaging_the_unity_of_this_realm_and_sapping_your_authority_if_you_could_persuade_the_lords_to_reconcile_i_imagine_that_s7_would_be_most_pleased_however_in_taking_this_on_you_run_the_risk_of_one_the_lords_deciding_that_you_have_taken_the_rivals_side|大 人 可 知 {s4}与 {s5}交 恶 ? 此 隙 有 损 国 祚 . 若 能 说 和 , {s7}必 感 念 盛 德 . 然 则 调 停 恐 招 一 方 疑 忌 , 谓 大 人 偏 私 . 
+str_you_may_be_aware_my_lord_of_the_quarrel_between_s4_and_s5_which_is_damaging_the_unity_of_this_realm_and_sapping_your_authority_if_you_could_persuade_the_lords_to_reconcile_it_would_boost_your_own_standing_however_in_taking_this_on_you_run_the_risk_of_one_the_lords_deciding_that_you_have_taken_the_rivals_side|大 人 可 知 {s4}与 {s5}交 恶 之 事 ? 此 隙 损 及 国 本 亦 折 损 威 仪 . 若 能 说 和 , 声 望 自 涨 . 然 而 调 停 恐 招 一 方 疑 忌 , 谓 大 人 偏 私 . 
+str_you_may_be_aware_my_lord_of_the_quarrel_between_s4_and_s5_which_is_damaging_the_unity_of_this_realm_and_sapping_your_authority_if_you_could_persuade_the_lords_to_reconcile_i_imagine_that_s7_would_be_most_pleased_however_in_taking_this_on_you_run_the_risk_of_one_the_lords_deciding_that_you_have_taken_the_rivals_side|大 人 可 知 {s4}与 {s5}交 恶 ? 此 隙 有 损 国 祚 . 若 能 说 和 , {s7}必 感 念 盛 德 . 然 而 调 停 恐 招 一 方 疑 忌 , 谓 大 人 偏 私 . 
 str__of_course_the_land_is_currently_at_peace_so_you_may_have_better_luck_in_other_realms|方 今 四 海 承 平 , 或 可 往 他 境 觅 机 缘 
 str_here|此 处 
 str_over|那 头 
@@ -2504,7 +2504,7 @@ str_s8_in_s12|{s8}于 {s12}
 str__has_put_together_a_bounty_on_some_bandits_who_have_been_attacking_travellers_in_the_area|正 悬 红 剿 灭 滋 扰 行 旅 的 草 寇 
 str__is_looking_for_a_way_to_avoid_an_impending_war|正 寻 弭 兵 之 策 
 str__may_need_help_rescuing_an_imprisoned_family_member|或 需 搭 救 系 狱 亲 族 
-str__has_been_asking_around_for_someone_who_might_want_work_id_watch_yourself_with_him_though|正 四 处 招 揽 人 手 , 然 则 与 此 人 交 道 须 谨 慎 
+str__has_been_asking_around_for_someone_who_might_want_work_id_watch_yourself_with_him_though|正 四 处 招 揽 人 手 , 然 而 与 此 人 交 道 须 谨 慎 
 str_town|市 镇 
 str_castle|坞 堡 
 str__but_he_is_holding_there_as_a_prisoner_at_dungeon_of_s13|然 其 人 正 囚 于 {s13}地 牢 
@@ -2512,16 +2512,16 @@ str_they_say_that_s9_is_a_most_conventional_maiden__devoted_to_her_family_of_a_k
 str_they_say_that_s9_is_a_bit_of_a_romantic_a_dreamer__of_a_gentle_temperament_yet_unpredictable_she_is_likely_to_be_led_by_her_passions_and_will_be_trouble_for_her_family_ill_wager|闻 说 {s9}性 耽 风 月 , 常 有 遐 思 . 虽 秉 性 温 良 , 然 行 事 诡 谲 . 恐 为 情 欲 所 驱 , 他 日 必 累 及 宗 族 , 某 敢 断 言 . 
 str_they_say_that_s9_is_determined_to_marry_well_and_make_her_mark_in_the_world_she_may_be_a_tremendous_asset_for_her_husband__provided_he_can_satisfy_her_ambition|闻 说 {s9}立 志 攀 龙 附 凤 , 欲 扬 名 四 海 . 若 得 其 夫 能 遂 其 志 , 诚 为 贤 内 助 ； 然 若 难 填 欲 壑 , 恐 生 变 故 ! 
 str_they_say_that_s9_loves_to_hunt_and_ride_maybe_she_wishes_she_were_a_man_whoever_she_marries_will_have_a_tough_job_keeping_the_upper_hand_i_would_say|闻 说 {s9}酷 爱 驰 猎 , 或 恨 未 作 男 儿 身 . 来 日 婚 配 , 恐 其 夫 难 以 驾 驭 , 某 实 言 之 . 
-str_they_say_that_s9_is_a_lady_of_the_highest_moral_standards_very_admirable_very_admirable__and_very_hard_to_please_ill_warrant|闻 说 {s9}乃  {贞 静 淑 女/端 方 君 子}, 德 行 高 洁 , 虽 令 人 钦 敬 , 然 侍 奉 甚 难 , 某 敢 保 此 言 不 虚 . 
+str_they_say_that_s9_is_a_lady_of_the_highest_moral_standards_very_admirable_very_admirable__and_very_hard_to_please_ill_warrant|闻 说 {s9}乃  {reg4?贞 静 淑 女:端 方 君 子}, 德 行 高 洁 , 虽 令 人 钦 敬 , 然 侍 奉 甚 难 , 某 敢 保 此 言 不 虚 . 
 str_s9_is_now_betrothed_to_s11_soon_we_believe_there_shall_be_a_wedding|今 {s9}已 与 {s11}缔 结 婚 约 , 料 佳 期 不 远 矣 . 
-str_i_have_not_heard_any_news_about_her|未 闻 {伊 人/彼 者}近 况 . 
+str_i_have_not_heard_any_news_about_her|未 闻 {reg4?伊 人:彼 者}近 况 . 
 str_they_say_that_s9_has_shown_favor_to_s11_perhaps_it_will_not_be_long_until_they_are_betrothed__if_her_family_permits|闻 说 {s9}属 意 {s11}, 若 得 {reg4?本 家:宗 族}首 肯 , 恐 不 日 便 将 纳 采 问 名 . 
 str_they_say_that_s9_has_been_forced_by_her_family_into_betrothal_with_s11|闻 说 {s9}遭 {reg4?本 家:宗 族}逼 迫 , 强 与 {s11}定 亲 . 
 str_they_say_that_s9_has_agreed_to_s11s_suit_and_the_two_are_now_betrothed|闻 说 {s9}已 应 {s11}之 求 , 二 人 现 已 结 秦 晋 之 好 . 
 str_they_say_that_s9_under_pressure_from_her_family_has_agreed_to_betrothal_with_s11|闻 说 {s9}迫 于 {reg4?家 门:宗 族}压 力 , 允 婚 于 {s11}. 
 str_they_say_that_s9_has_refused_s11s_suit|闻 说 {s9}已 回 绝 {s11}提 亲 . 
 str_they_say_that_s11_has_tired_of_pursuing_s9|闻 说 {s11}追 慕 {s9}日 久 , 今 已 意 兴 阑 珊 . 
-str_they_say_that_s9s_family_has_forced_her_to_renounce_s11_whom_she_much_loved|闻 说 {s9}宗 族 逼 迫 {伊 人/彼 者}与 挚 爱 {s11}断 情 . 
+str_they_say_that_s9s_family_has_forced_her_to_renounce_s11_whom_she_much_loved|闻 说 {s9}宗 族 逼 迫 {reg4?伊 人:彼 者}与 挚 爱 {s11}断 情 . 
 str_they_say_that_s9_has_run_away_with_s11_causing_her_family_much_grievance|闻 说 {s9}与 {s11}私 奔 , 致 {reg4?本 家:宗 族}蒙 羞 . 
 str_they_say_that_s9_and_s11_have_wed|闻 说 {s9}与 {s11}已 行 合 卺 之 礼 . 
 str_they_say_that_s9_was_recently_visited_by_s11_who_knows_where_that_might_lead|闻 说 近 日 {s11}造 访 {s9}, 个 中 深 意 , 殊 未 可 知 ! 
@@ -2560,7 +2560,7 @@ str_you_intend_to_denounce_s14_to_his_face_on_behalf_of_s14|欲 代 {s12}当 庭
 str_you_intend_to_bring_gift_for_s14|欲 携 锦 缎 皮 货 赠 {s12}, 再 谒 {s14}探 问 调 解 之 事 
 str_we_will_gather_the_army_but_not_ride_until_we_have_an_objective|聚 兵 待 命 , 俟 定 方 略 再 行 征 伐 
 str_we_shall_lay_siege_to_an_easy_fortress_to_capture|集 重 兵 攻 其 薄 弱 要 塞 
-str_we_shall_strike_at_the_heart_of_our_foe_and_seize_the_fortress_of_s14|直 捣 黄 龙 , 破 其 要 害 {s14}要 塞 
+str_we_shall_strike_at_the_heart_of_our_foe_and_seize_the_fortress_of_s14|直 取 敌 之 腹 心 , 破 其 要 害 {s14}要 塞 
 str_we_shall_take_the_fortress_of_s14_which_appears_easily_defensible|欲 取 易 守 难 攻 之 {s14}要 塞 
 str_we_shall_cut_a_fiery_trail_through_their_richest_lands_to_draw_them_out_to_battle|纵 火 焚 其 膏 腴 之 地 , 诱 敌 出 城 决 战 
 str_strategy_criticism_rash|某 观 此 策 过 于 冒 进 , 恐 致 无 谓 伤 亡 
@@ -2579,7 +2579,7 @@ str_faction_title_female_2|{s0}太 夫 人
 str_faction_title_female_3|{s0}县 主 
 str_faction_title_female_4|{s0}郡 君 
 str_faction_title_female_5|{s0}夫 人 
-str_faction_title_female_6|{s0}院 君 
+str_faction_title_female_6|{s0}县 君 
 str_name_kingdom_text|请 为 藩 镇 赐 名 
 str_default_kingdom_name|{s0}藩 镇 
 str_lord_defects_ordinary|{s1}已 背 弃 {s3}藩 镇 , 转 投 {s2}麾 下 
@@ -2619,12 +2619,12 @@ str_quick_battle_troop_3|赫 根 本 是 乌 克 斯 豪 尔 将 门 之 后 , �
 str_quick_battle_troop_4|康 拉 德 自 西 海 巴 尔 隆 而 来 , 身 经 百 战 鼻 梁 尽 碎 . 闻 听 中 原 多 金 , 携 旧 部 泛 海 求 富 贵 , 凡 节 度 使 馈 赠 丰 厚 者 皆 可 驱 驰 . 
 str_quick_battle_troop_5|斯 韦 雷 本 北 海 耶 姆 尼 海 寇 , 尝 掠 劫 蓼 州 时 弃 众 潜 逃 . 伪 称 沙 尔 比 克 山 民 , 以 悍 勇 闻 于 行 伍 , 今 自 募 义 从 欲 搏 封 侯 . 
 str_quick_battle_troop_6|博 里 斯 拉 夫 本 查 恩 耶 猎 户 , 惯 用 弓 矛 搏 杀 虎 豹 . 自 幽 燕 战 起 , 林 莽 焚 荡 , 走 兽 绝 迹 , 遂 率 子 弟 转 事 刀 头 舔 血 之 业 . 
-str_quick_battle_troop_7|斯 塔 夫 罗 斯 昔 为 禅 达 巡 检 , 剿 河 朔 水 匪 有 功 . 后 海 寇 焚 城 , 率 遗 民 投 效 义 军 , 专 司 清 剿 江 洋 大 盗 , 护 持 商 旅 平 安 . 
-str_quick_battle_troop_8|伽 玛 拉 出 身 萨 兰 德 沙 海 游 牧 部 , 精 于 投 石 索 与 弯 刀 . 尝 杀 辱 己 兵 卒 , 夺 其 甲 胄 , 伪 作 男 儿 身 闯 荡 江 湖 , 今 聚 骁 勇 欲 立 不 世 之 功 . 
-str_quick_battle_troop_9|埃 斯 罗 德 并 非 良 善 之 辈 . 此 人 两 度 更 名 , 瓦 吉 尔 境 内 多 起 罪 案 皆 归 咎 于 其 身 . 虽 自 称 从 未 伤 及 无 辜 , 又 以 爱 国 子 民 自 居 , 每 逢 阵 营 危 难 便 率 部 曲 助 阵 , 然 其 乖 张 性 情 令 人 侧 目 . 诸 藩 镇 承 平 之 际 , 因 其 胆 大 妄 为 屡 犯 上 僚 , 周 遭 领 主 莫 不 慎 之 . 生 于 雷 瓦 丁 闾 巷 , 幼 习 弓 射 之 术 , 年 十 四 遁 走 他 乡 . 今 三 十 有 二 , 箭 术 几 近 化 境 , 虽 不 善 御 马 , 百 步 穿 杨 可 毙 奔 驹 . 性 烈 如 钉 , 目 锐 如 鹘 , 实 为 乡 野 传 奇 . 
-str_quick_battle_troop_10|扎 伊 拉 身 为 萨 兰 国 大 盗 魁 首 之 女 , 自 幼 习 得 大 漠 战 技 , 弓 马 娴 熟 尤 胜 男 儿 . 当 同 龄 女 子 习 持 家 时 , 其 已 精 研 剜 心 夺 财 之 术 . 年 十 六 所 斩 首 级 已 逾 苏 丹 禁 军 老 卒 . 弱 冠 之 年 父 丧 于 贼 酋 内 讧 , 遂 承 父 业 统 率 部 众 . 复 仇 既 毕 , 重 振 旗 鼓 , 今 欲 立 威 名 于 绿 林 . 
-str_quick_battle_troop_11|阿 戈 - 森 德 纳 命 途 多 舛 . 初 至 剑 湾 营 商 , 期 以 牟 利 胜 于 洛 基 . 岂 料 中 州 战 乱 频 仍 , 盗 匪 蜂 起 , 商 路 艰 难 十 倍 . 货 队 屡 遭 劫 掠 , 终 为 同 业 所 并 , 沦 为 镖 师 糊 口 . 虽 武 艺 平 庸 , 然 气 运 加 身 , 屡 次 护 镖 险 途 竟 得 保 全 . 积 年 既 久 , 遂 蓄 资 自 组 镖 行 , 专 为 商 贾 押 运 财 货 . 
-str_tutorial_training_ground_intro_message|绕 行 校 场 与 将 士 交 谈 , 可 习 骑 砍 诸 般 战 技 . ASDW四 键 移 步 , 近 至 角 色 名 显 时 按 F键 对 话 . F键 亦 可 用 于 拾 物 启 户 等 交 互 . 随 时 按 Tab键 可 出 教 程 . 
+str_quick_battle_troop_7|斯 塔 夫 罗 斯 昔 为 州 城 巡 检 , 剿 河 朔 水 匪 有 功 . 后 海 寇 焚 城 , 率 遗 民 投 效 义 军 , 专 司 清 剿 江 洋 大 盗 , 护 持 商 旅 平 安 . 
+str_quick_battle_troop_8|伽 玛 拉 出 身 大 漠 游 牧 部 , 精 于 投 石 索 与 弯 刀 . 尝 杀 辱 己 兵 卒 , 夺 其 甲 胄 , 伪 作 男 儿 身 闯 荡 江 湖 , 今 聚 骁 勇 欲 立 不 世 之 功 . 
+str_quick_battle_troop_9|埃 斯 罗 德 并 非 良 善 之 辈 . 此 人 两 度 更 名 , 契 丹 境 内 多 起 罪 案 皆 归 咎 于 其 身 . 虽 自 称 从 未 伤 及 无 辜 , 又 以 爱 国 子 民 自 居 , 每 逢 阵 营 危 难 便 率 部 曲 助 阵 , 然 其 乖 张 性 情 令 人 侧 目 . 诸 藩 镇 承 平 之 际 , 因 其 胆 大 妄 为 屡 犯 上 僚 , 周 遭 领 主 莫 不 慎 之 . 生 于 州 城 闾 巷 , 幼 习 弓 射 之 术 , 年 十 四 遁 走 他 乡 . 今 三 十 有 二 , 箭 术 几 近 化 境 , 虽 不 善 御 马 , 百 步 穿 杨 可 毙 奔 驹 . 性 烈 如 钉 , 目 锐 如 鹘 , 实 为 乡 野 传 奇 . 
+str_quick_battle_troop_10|扎 伊 拉 身 为 回 鹘 大 盗 魁 首 之 女 , 自 幼 习 得 大 漠 战 技 , 弓 马 娴 熟 尤 胜 男 儿 . 当 同 龄 女 子 习 持 家 时 , 其 已 精 研 剜 心 夺 财 之 术 . 年 十 六 所 斩 首 级 已 逾 可 汗 禁 军 老 卒 . 弱 冠 之 年 父 丧 于 贼 酋 内 讧 , 遂 承 父 业 统 率 部 众 . 复 仇 既 毕 , 重 振 旗 鼓 , 今 欲 立 威 名 于 绿 林 . 
+str_quick_battle_troop_11|阿 戈 - 森 德 纳 命 途 多 舛 . 初 至 汴 州 营 商 , 期 以 牟 利 胜 于 同 行 . 岂 料 中 州 战 乱 频 仍 , 盗 匪 蜂 起 , 商 路 艰 难 十 倍 . 货 队 屡 遭 劫 掠 , 终 为 同 业 所 并 , 沦 为 脚 夫 糊 口 . 虽 武 艺 平 庸 , 然 气 运 加 身 , 屡 次 护 送 险 途 竟 得 保 全 . 积 年 既 久 , 遂 蓄 资 自 组 商 队 , 专 为 商 贾 押 运 财 货 . 
+str_tutorial_training_ground_intro_message|绕 行 校 场 与 将 士 交 谈 , 可 习 骑 砍 诸 般 战 技 . WASD四 键 移 步 , 近 至 角 色 名 显 时 按 F键 对 话 . F键 亦 可 用 于 拾 物 启 户 等 交 互 . 随 时 按 Tab键 可 出 教 程 . 
 str_map_basic|坤 舆 
 str_game_type_basic|战 局 类 属 
 str_battle|野 战 
@@ -2675,7 +2675,7 @@ str_center_value_outweighed_by_difficulty_of_capture|所 得 不 偿 所 失
 str_center_value_justifies_the_difficulty_of_capture|此 寨 可 取 , 其 利 足 抵 征 伐 之 劳 
 str_center_is_indefensible|此 寨 孤 悬 在 外 , 距 我 诸 堡 甚 远 , 难 以 戍 守 
 str_we_are_waiting_for_selection_of_marshal|正 待 择 选 行 军 司 马 
-str_best_to_attack_the_enemy_lands|观 我 军 势 , 当 直 捣 黄 龙 为 上 策 
+str_best_to_attack_the_enemy_lands|观 我 军 势 , 当 直 取 腹 心 为 上 策 
 str_we_believe_the_fortress_will_be_worth_the_effort_to_take_it|此 寨 膏 腴 , 虽 险 可 拔 
 str_we_will_gather_to_defend_the_beleaguered_fortress|当 集 兵 驰 援 被 围 军 寨 
 str_the_enemy_temporarily_has_the_field|贼 势 方 炽 , 宜 暂 避 其 锋 
@@ -2705,7 +2705,7 @@ str_tutorial_training_ground_archer_training|中 的 : {reg0}/3^{s0}
 str_tutorial_training_ground_ammo_refill|矢 石 已 补 
 str_tutorial_training_ground_archer_text_1|近 {s0}按 F取 之 
 str_tutorial_training_ground_archer_text_2|可 试 射 侯 的 
-str_tutorial_training_ground_archer_text_3|准 星 敛 缩 示 其 准 , 左 键 按 定 待 星 聚 至 極 乃 放 , 遲 則 星 散 
+str_tutorial_training_ground_archer_text_3|准 星 敛 缩 示 其 准 , 左 键 按 定 待 星 聚 至 极 乃 放 , 迟 则 星 散 
 str_tutorial_training_ground_archer_text_4|按 R切 单 目 视 , 利 远 射 
 str_tutorial_training_ground_archer_text_5|侯 的 皆 破 , 可 复 命 于 教 头 
 str_tutorial_training_ground_horseman_text_1|近 {s0}按 F取 之 
@@ -2767,12 +2767,12 @@ str_town_fight_ended_you_and_citizens_cleaned_town_from_bandits|残 寇 遁 入 
 str_town_fight_ended_you_and_citizens_cleaned_town_from_bandits_you_wounded|尔 终 不 支 倒 地 , 闻 街 巷 杀 声 渐 息 , 欢 呼 四 起 , 知 事 成 矣 . 俄 而 众 人 扶 起 , 尔 遂 沉 沉 睡 去 . 醒 时 已 在 商 贾 宅 中 . 
 str_journey_to_reyvadin|经 行 中 州 平 野 , 此 地 苦 寒 多 北 风 . 阡 陌 间 稻 菽 丰 茂 , 河 泽 渔 获 甚 夥 . 商 旅 往 来 频 仍 , 然 亦 招 流 寇 . 常 见 蓬 首 贼 人 跨 劣 马 踞 高 岗 窥 伺 , 及 至 见 邺 城 雉 堞 , 方 舒 心 怀 . 
 str_journey_to_praven|取 道 中 州 官 道 . 春 麦 破 土 , 雪 山 脚 下 牛 羊 遍 野 . 偶 见 骠 骑 骏 马 — — 此 乃 贵 胄 之 傲 . 沃 土 多 难 , 时 见 焦 土 残 垣 . 绕 林 而 行 避 草 寇 , 及 至 暮 色 镀 金 海 港 普 拉 汶 城 堞 , 终 得 心 安 . 
-str_journey_to_jelkala|舟 行 绕 峭 壁 , 雾 锁 罗 多 克 高 地 河 口 . 时 见 戍 楼 出 云 雾 , 烽 燧 警 贼 踪 . 虽 南 海 无 诺 德 海 寇 之 患 , 然 见 塞 尔 弗 河 口 罗 德 克 战 船 旌 旗 猎 猎 , 始 觉 安 泰 . 
+str_journey_to_jelkala|舟 行 绕 峭 壁 , 雾 锁 荆 南 高 地 河 口 . 时 见 戍 楼 出 云 雾 , 烽 燧 警 贼 踪 . 虽 南 海 无 海 寇 之 患 , 然 见 荆 江 河 口 战 船 旌 旗 猎 猎 , 始 觉 安 泰 . 
 str_journey_to_sargoth|你 搭 乘 商 船 北 上 , 载 运 着 极 北 之 地 猎 获 的 海 东 青 , 准 备 换 取 麻 布 与 毛 料 . 虽 值 早 春 启 航 , 船 主 仍 冒 险 穿 越 浮 冰 海 域 — — 若 能 在 四 月 前 赶 至 萨 尔 戈 特 , 便 可 避 开 乘 岛 巢 而 出 的 海 寇 劫 掠 . 当 航 船 驶 入 维 尔 河 与 博 鲁 克 河 交 汇 的 三 角 洲 时 , 你 稍 感 宽 慰 . 桨 橹 划 过 滩 涂 盐 沼 , 终 抵 萨 尔 戈 特 城 . 此 乃 海 寇 远 亲 诺 德 贵 胄 所 据 之 城 , 数 十 年 前 他 们 在 这 丰 饶 多 难 之 地 辟 出 王 国 . 
 str_journey_to_tulga|你 随 骡 队 翻 越 剑 湾 北 境 群 山 , 驮 着 异 域 香 料 来 换 羊 毛 与 盐 巴 . 山 径 积 雪 未 消 , 跋 涉 艰 难 . 终 登 峰 顶 时 , 漠 南 草 原 尽 收 眼 底 . 向 阳 坡 地 春 草 已 泛 黄 , 山 麓 犹 存 青 翠 . 羊 群 与 黄 褐 色 的 草 原 马 如 云 飘 动 , 昭 示 着 契 丹 可 汗 的 富 庶 . 不 时 有 游 骑 尾 随 骡 队 , 似 在 估 量 护 卫 强 弱 . 待 图 尔 加 城 阙 自 平 原 拔 起 , 悬 心 方 落 . 
 str_journey_to_shariz|你 率 骡 队 穿 越 贝 尔 苟 斯 特 东 境 草 场 , 时 时 提 防 箭 矢 射 程 外 的 流 寇 突 袭 . 望 见 群 山 轮 廓 时 长 舒 口 气 , 翌 日 暮 色 中 翻 越 石 隘 , 远 眺 海 天 之 际 , 落 日 余 晖 勾 勒 出 烛 堡 塔 楼 的 剪 影 . 
 str_lost_tavern_duel_ordinary|你 踉 跄 倒 地 , 醉 汉 最 后 一 击 令 你 目 眩 . 暴 徒 忽 泄 了 气 性 , 瘫 坐 椅 中 喃 喃 自 语 . 几 个 酒 客 连 哄 带 劝 将 其 架 出 门 外 . 有 人 替 你 包 扎 伤 处 , 须 臾 间 你 已 能 踉 跄 起 身 , 虽 步 履 虚 浮 终 是 保 得 性 命 . 
-str_lost_tavern_duel_assassin|你 颓 然 扑 地 , 刺 客 最 后 一 击 使 你 气 力 尽 失 . 他 从 容 跪 地 掣 出 短 刃 , 正 要 结 果 你 时 , 掌 柜 忽 壮 胆 自 后 猛 击 其 首 . 刺 客 失 衡 踉 跄 , 见 事 不 谐 夺 门 而 逃 . 众 人 将 你 抬 至 后 室 疗 伤 , 侥 幸 捡 回 一 命 . 
+str_lost_tavern_duel_assassin|你 颓 然 扑 地 , 刺 客 最 后 一 击 使 你 气 力 尽 失 . 他 从 容 跪 地 掣 出 短 刃 , 正 要 结 果 你 时 , 店 主 忽 壮 胆 自 后 猛 击 其 首 . 刺 客 失 衡 踉 跄 , 见 事 不 谐 夺 门 而 逃 . 众 人 将 你 抬 至 后 室 疗 伤 , 侥 幸 捡 回 一 命 . 
 str_lost_startup_hideout_attack|你 苏 醒 时 , 绑 匪 正 启 坛 分 饮 米 酒 庆 功 , 竟 忘 缚 你 手 足 . 趁 其 醉 闹 , 你 悄 然 脱 身 . 料 想 尚 有 时 间 召 集 部 众 再 攻 巢 穴 . 
 str_as_you_no_longer_maintain_an_independent_kingdom_you_no_longer_maintain_a_court|既 失 国 祚 , 自 无 朝 班 
 str_rents_from_s0|田 赋 自 {s0} : 
@@ -2798,7 +2798,7 @@ str_follow_army_quest_brief_2|军 令 已 毕 , 若 愿 续 随 {s9}帐 下 听 
 str_greetings_playername__it_is_good_to_see_you_i_hope_that_you_have_had_success_in_your_efforts_to_make_your_name_in_the_world|见 君 安 好 甚 慰 , 想 是 已 扬 名 四 海 
 str_minister_advice_select_fief|诸 镇 皆 议 封 赏 之 事 , 宜 取 {s4}以 安 众 心 
 str_minister_advice_select_fief_wait|臣 建 议 主 公 先 擢 选 军 师 , 如 此 可 待 藩 镇 诸 侯 决 意 拥 戴 之 人 . 
-str_minister_advice_fief_leading_vassal|顺 禀 , {s4}已 得 {sreg4}位 藩 镇 效 忠 . 
+str_minister_advice_fief_leading_vassal|顺 禀 , {s4}已 得 {reg4}位 藩 镇 效 忠 . 
 str_unassigned_center| [  未 分 封  ]  
 str_s43_also_you_should_know_that_an_unprovoked_assault_is_declaration_of_war|{s43}再 者 , 主 公 既 承 天 命 , 当 知 无 故 兴 兵 即 属 宣 战 . 
 str_missing_after_battle|阵 亡 将 士 名 录 
@@ -2840,7 +2840,7 @@ str_you_have_lost_a_duel|主 公 此 番 较 技 落 败 .
 str_you_have_won_a_duel|主 公 校 场 夺 魁 ! 
 str_server_s0|[驿 传 ] : {s0}
 str_disallow_ranged_weapons|禁 用 弓 弩 
-str_ranged_weapons_are_disallowed|禁 用 飞 矢 铳 砲 
+str_ranged_weapons_are_disallowed|禁 用 弓 弩 投 石 
 str_ranged_weapons_are_allowed|允 用 弓 弩 投 石 
 str_duel_starts_in_reg0_seconds|较 技 {reg0}息 后 开 锣 ...
 str_dplmc_none|无 
@@ -2913,8 +2913,8 @@ str_dplmc_relation_plus_80_ns|{reg4?伊:彼}效 忠 {s59}.
 str_dplmc_relation_plus_90_ns|{reg4?伊:彼}死 节 {s59}. 
 str_dplmc_s39_rival|{reg4?伊:彼}视 {s39}为 敌 手 
 str_dplmc_s41_s39_rival|{s41}、 {s39}
-str_dplmc_s40_love_interest_s39|{s40}. 此 外 {伊/彼}属 意 {s39}. 
-str_dplmc_s40_betrothed_s39|{s40}. 另 则 {伊/彼}已 与 {s39}缔 姻 . 
+str_dplmc_s40_love_interest_s39|{s40}. 此 外 {reg4?伊:彼}属 意 {s39}. 
+str_dplmc_s40_betrothed_s39|{s40}. 另 则 {reg4?伊:彼}已 与 {s39}缔 姻 . 
 str_dplmc_reputation_martial|闻 说 {s46}乃 虎 贲 之 士 . 
 str_dplmc_reputation_debauched|闻 说 {s46}性 耽 逸 乐 . 
 str_dplmc_reputation_pitiless|闻 说 {s46}刻 薄 寡 恩 . 
@@ -2925,7 +2925,7 @@ str_dplmc_reputation_upstanding|闻 说 {s46}方 正 不 阿 .
 str_dplmc_reputation_conventional|闻 说 {s46}恪 守 成 规 . 
 str_dplmc_reputation_adventurous|闻 说 {s46}喜 行 险 事 . 
 str_dplmc_reputation_romantic|闻 说 {s46}颇 具 雅 趣 . 
-str_dplmc_reputation_moralist|传 闻 称 {s46}是 个 道 学 先 生 . 
+str_dplmc_reputation_moralist|传 闻 称 {s46}是 个 迂 儒 . 
 str_dplmc_reputation_ambitious|坊 间 皆 言 {s46}乃 野 心 勃 勃 之 辈 . 
 str_dplmc_reputation_unknown|{s46}的 心 思 如 铁 匣 难 窥 . 
 str_dplmc_s21__the_s5_is_bound_by_alliance_not_to_attack_the_s14s18_it_will_expire_in_reg1_days|{s21}^* {s5}与 {s14}缔 结 同 盟 . {s18}此 盟 约 将 在 {reg1}日 后 降 为 防 御 协 定 . 
@@ -2973,7 +2973,7 @@ str_dplmc_quite_mercantilist|偏 重 商 政
 str_dplmc_very_mercantilist|重 商 干 预 
 str_dplmc_how_will_your_male_vassals_be_known|卿 之 男 性 附 庸 当 以 何 称 ? 
 str_dplmc_how_will_your_female_vassals_be_known|卿 之 女 性 附 庸 当 以 何 称 ? 
-str_dplmc_s40_married_s39|{s40}. 此 外 {伊/彼}已 与 {s39}结 为 姻 亲 . 
+str_dplmc_s40_married_s39|{s40}. 此 外 {reg4?伊:彼}已 与 {s39}结 为 姻 亲 . 
 str_dplmc_fief_exchange_ask_interest|可 有 意 互 换 封 邑 ? 
 str_dplmc_fief_exchange_not_interested|此 事 断 无 可 能 . 
 str_dplmc_fief_exchange_listen|此 事 虽 罕 亦 非 不 可 . 且 说 欲 换 吾 之 何 邑 ? 
@@ -3018,15 +3018,15 @@ str_rebellion_pretender_story_3|虽 曾 詈 骂 {s11}及 其 党 羽 为 逆 , �
 str_rebellion_monarch_response_1|{s45}妄 称 当 主 {s11}国 ? 其 人 虽 仁 , 然 乱 世 需 能 吏 , 强 横 胜 仁 弱 . 彼 所 谓 肃 贪 之 说 , 实 误 国 耳 
 str_rebellion_monarch_response_2|垂 泪 {s45}者 , 何 不 见 胡 骑 践 踏 河 朔 ? 待 荡 平 四 夷 、 海 内 清 晏 , 再 议 肃 贪 未 迟 
 str_neutral_personalityclash_speech|大 人 {playername}, 本 不 欲 烦 扰 , 然 实 难 与 {s11}共 事 
-str_neutral_personalityclash2_speech|敢 问 {娘 子/郎 君}, 以 某 观 之 , {s11}非 闯 荡 江 湖 之 材 
-str_neutral_personalitymatch_speech|禀 {娘 子/郎 君}, 得 与 {s11}为 伴 , 某 之 幸 也 
+str_neutral_personalityclash2_speech|敢 问 {郎 君/娘 子}, 以 某 观 之 , {s11}非 闯 荡 江 湖 之 材 
+str_neutral_personalitymatch_speech|禀 {郎 君/娘 子}, 得 与 {s11}为 伴 , 某 之 幸 也 
 str_neutral_personalitymatch_speech_b|招 揽 {s11}实 乃 明 举 . 其 人 晓 畅 战 阵 , 更 知 敬 重 袍 泽 , 非 某 些 竖 子 可 比 
 str_neutral_home_intro|主 公 可 知 , {s10}原 是 某 乡 梓 ? 
 str_neutral_home_description|{s10}之 事 , 无 甚 可 说 
 str_neutral_home_description_2|虽 有 商 队 过 山 , 然 乡 野 小 民 鲜 睹 城 池 
 str_neural_home_recap|某 旧 居 近 {s21}
 str_neutral_kingsupport_objection|主 公 , 委 {s11}以 重 任 恐 非 善 策 
-str_neutral_personalityclash2_speech_b|{娘 子/郎 君}可 曾 见 {s11}临 阵 ? 踪 影 全 无 ! 
+str_neutral_personalityclash2_speech_b|{郎 君/娘 子}可 曾 见 {s11}临 阵 ? 踪 影 全 无 ! 
 str_neutral_personalityclash_speech_b|某 观 {s11}非 闯 荡 之 材 
 str_neutral_current_location|闻 {s54}现 居 {s0}
 str_guardian|监 护 
@@ -3034,8 +3034,8 @@ str_ward|被 护
 str_honorable|义 士 
 str_dishonorable|不 义 
 str_not_met|未 曾 面 晤 
-str_you_are|{伊/彼}乃 
-str_lord_info_string_small|{reg6?:{reg4?{s54}为 {s56}之 主 . ^:{s54}乃 {s56}镇 将 . ^}}声 望 : {reg5} 荣 誉 : {reg15}^身 份 : {s20}^封 邑 : {其 领 {s58}/无 封 邑}{s59}^{s49}
+str_you_are|{reg3?伊:彼}乃 
+str_lord_info_string_small|{reg6?:{reg4?{s54}为 {s56}之 主 . ^:{s54}乃 {s56}镇 将 . ^}}声 望 : {reg5} 荣 誉 : {reg15}^身 份 : {s20}^封 邑 : {reg9?{reg3?伊 领 {s58}:其 领 {s58}}:无 封 邑}{s59}^{s49}
 str_minor_faction|{s5}部 据 {s8}^其 将 {s10}
 str_minor_character|{reg1?伊:彼}统 {s56}部 曲 ^声 望 : {reg5} 争 议 : {reg15}
 str_bandit_lair_quest_description_big|剿 灭 {s10}附 近 {s9}贼 巢 , 复 命 于 {s11}
@@ -3065,7 +3065,7 @@ str_widow|未 亡 人
 str_courier_job|受 {s4}{s9}之 托 , 递 书 于 {s5}{s10}
 str_the_s5_is_ruled_by_s6_it_occupies_s8_its_vassals_are_s10__s21_with_race|{s5}国 主 {s6}^风 教 : {s40}^^辖 境 : ^{s8}^^藩 属 : ^{s10}^^{s21}
 str_start_up_quest_message_bring_tax_money|{s19}待 君 速 缴 {s3}税 款 
-str_hero_taken_prisoner_neutral|{s1}遭 {s2}国 所 擒 
+str_hero_taken_prisoner_neutral|{s1}为 {s2}国 所 擒 
 str_neutral_hero_taken_prisoner_neutral|{s1}为 {s2}所 掳 
 str_faction_relation_increased_minor|与 {s1}亲 善 度 自 {reg1}升 至 {reg2}
 str_faction_relation_detoriated_minor|与 {s1}亲 善 度 自 {reg1}降 至 {reg2}

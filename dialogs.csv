@@ -101,7 +101,7 @@ dlga_start:lord_prison_break|{s10}
 dlga_start:drunk_response|{s10}
 dlga_start:drunk_response.1|你 瞅 啥 ? 
 dlga_player_duel_response:close_window|白 瞎 条 性 命 ...
-dlga_player_duel_response:close_window.1|死 道 友 不 死 贫 道 ! 
+dlga_player_duel_response:close_window.1|宁 可 他 死 , 不 可 我 亡 ! 
 dlga_drunk_response:drunk_fight_start|爷 爱 去 哪 就 去 哪 ! 你 有 意 见 吗 ? 
 dlga_drunk_response:dplmc_drunk_attempt_placate|对 不 住 ! 不 想 惹 事 , 我 这 就 走 . 
 dlga_drunk_response:drunk_fight_start.1|再 啰 嗦 半 句 , 信 不 信 攮 你 个 透 明 窟 窿 ! 
@@ -325,13 +325,13 @@ dlga_merchant_quest_3b:merchant_quest_4a.1|钱 财 且 收 , 扶 危 济 困 乃
 dlga_merchant_quest_4a:merchant_quest_4b|痛 快 ! 不 知 可 否 再 劳 烦 一 事 ? 
 dlga_merchant_quest_4b:merchant_quest_4b1|但 说 无 妨 , 所 为 何 事 ? 
 dlga_merchant_quest_4b1:merchant_quest_4b3|先 前 说 贼 人 在 城 内 有 眼 线 , 如 今 查 明 竟 是 巡 检 使 ! 不 瞒 你 说 , 某 早 觉 此 人 蹊 跷 , 要 么 冒 名 顶 替 , 要 么 遭 邪 术 惑 心 , 定 有 蹊 跷 . 
-dlga_merchant_quest_4b3:merchant_quest_4b4|本 可 禀 告 {s4}, 然 官 府 查 案 拖 沓 , 证 人 可 贿 、 罪 证 可 毁 , 到 头 来 反 害 我 性 命 . 故 某 已 暗 中 集 结 乡 勇 — — 皆 是 遭 匪 患 的 苦 主 与 家 丁 , 欲 直 捣 巡 检 衙 门 , 绑 他 去 见 {s4}, 教 同 党 当 堂 招 供 . 
-dlga_merchant_quest_4b4:merchant_quest_4b5|现 下 只 缺 个 统 帅 乡 勇 的 将 才 — — 非 君 莫 属 ! 意 下 如 何 ? 
+dlga_merchant_quest_4b3:merchant_quest_4b4|本 可 禀 告 {s4}, 然 官 府 查 案 拖 沓 , 证 人 可 贿 、 罪 证 可 毁 , 到 头 来 反 害 我 性 命 . 故 某 已 暗 中 集 结 乡 兵 — — 皆 是 遭 匪 患 的 苦 主 与 家 丁 , 欲 直 捣 巡 检 官 署 , 绑 他 去 见 {s4}, 教 同 党 当 堂 招 供 . 
+dlga_merchant_quest_4b4:merchant_quest_4b5|现 下 只 缺 个 统 帅 乡 兵 的 将 才 — — 非 君 莫 属 ! 意 下 如 何 ? 
 dlga_merchant_quest_4b5:merchant_quest_4b6|怎 知 你 所 言 非 虚 ? 
 dlga_merchant_quest_4b6:merchant_quest_4b7|哈 ! 难 道 某 会 花 钱 雇 群 贼 子 演 这 出 戏 诓 你 ? 信 不 过 某 的 为 人 , 总 信 得 过 某 的 钱 囊 — — 事 成 另 有 百 文 相 赠 , 或 许 更 丰 . 如 何 ? 
 dlga_merchant_quest_4b7:merchant_quest_4b8|罢 了 , 某 便 领 兵 走 一 遭 . 
 dlga_merchant_quest_4b7:merchant_quest_4_decline|此 事 蹊 跷 , 容 某 思 量 . 
-dlga_merchant_quest_4b8:merchant_quest_4b9|痛 快 ! 某 多 年 未 行 此 险 棋 , 反 倒 热 血 沸 腾 . 乡 勇 整 装 待 发 , 何 时 动 手 ? 
+dlga_merchant_quest_4b8:merchant_quest_4b9|痛 快 ! 某 多 年 未 行 此 险 棋 , 反 倒 热 血 沸 腾 . 乡 兵 整 装 待 发 , 何 时 动 手 ? 
 dlga_merchant_quest_4b9:merchant_quest_4_accept|事 不 宜 迟 , 速 传 号 令 . 
 dlga_merchant_quest_4b9:merchant_quest_4_decline|且 待 休 整 , 再 战 不 迟 . 
 dlga_merchant_quest_4_accept:close_window|善 ! 出 其 不 意 攻 其 不 备 , 必 教 巡 检 一 党 措 手 不 及 . 天 佑 义 士 ! 
@@ -360,7 +360,7 @@ dlga_merchant_quests_last_word:close_window|酉 时 三 刻 酒 肆 相 会 .
 dlga_merchant_quests_last_word:close_window.1|某 将 远 行 , 结 识 君 等 实 乃 幸 事 . 珍 重 . 
 dlga_merchant_quests_last_word:close_window.2|青 山 不 改 , 后 会 有 期 . 
 dlga_member_intel_liaison:member_intel_liaison_results|可 有 所 获 ? 
-dlga_start:member_intel_liaison|客 官 万 福 . 
+dlga_start:member_intel_liaison|客 人 万 福 . 
 dlga_member_intel_liaison:close_window|该 撤 了 . 你 我 分 头 出 城 , 十 里 亭 会 合 . 
 dlga_member_intel_liaison:close_window.1|差 事 办 得 漂 亮 , 且 再 潜 伏 些 时 日 . 
 dlga_member_intel_liaison_results:member_intel_liaison|{s11}见 你 记 录 藩 镇 节 帅 动 向 , 某 已 添 注 查 访 所 得 . 
@@ -669,7 +669,7 @@ dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.2
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.3|三 十 丁 . 
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.4|四 十 丁 . 
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.5|五 十 丁 . 
-dlga_dplmc_constable_recruit_confirm_ask:dplmc_constable_recruit_confirm|确 要 募 {s6}名 {s11}乡 勇 ? 
+dlga_dplmc_constable_recruit_confirm_ask:dplmc_constable_recruit_confirm|确 要 募 {s6}名 {s11}乡 兵 ? 
 dlga_dplmc_constable_recruit_confirm:dplmc_constable_pretalk|然 . 
 dlga_dplmc_constable_recruit_confirm:dplmc_constable_pretalk.1|否 . 
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_pretalk|作 罢 . 
@@ -710,7 +710,7 @@ dlga_dplmc_constable_patrol_change_ask:dplmc_constable_patrol_change|当 更 何
 dlga_dplmc_constable_patrol_change:dplmc_constable_security_ask|俱 不 更 . 
 dlga_dplmc_constable_patrol_change_target_ask:dplmc_constable_patrol_change_target|欲 改 往 何 处 ? 
 dlga_dplmc_constable_patrol_change_target:dplmc_constable_security_ask|仍 循 旧 例 . 
-dlga_dplmc_constable_patrol_change_target_confirm_ask:dplmc_constable_patrol_change_target_confirm|谨 遵 钧 命 , 即 遣 塘 马 传 令 {s6}巡 防 队 移 驻 {s5}. 
+dlga_dplmc_constable_patrol_change_target_confirm_ask:dplmc_constable_patrol_change_target_confirm|谨 遵 钧 命 , 即 遣 驿 马 传 令 {s6}巡 防 队 移 驻 {s5}. 
 dlga_dplmc_constable_patrol_change_target_confirm:dplmc_constable_security_ask|善 . 
 dlga_dplmc_constable_patrol_change_target_confirm:dplmc_constable_security_ask.1|罢 了 , 还 是 算 了 . 
 dlga_dplmc_constable_security:dplmc_constable_patrol_to_center_ask|我 要 让 巡 哨 返 回 据 点 . 
@@ -751,7 +751,7 @@ dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_act
 dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.5|五 贯 
 dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.6|十 贯 
 dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_pretalk|暂 且 作 罢 
-dlga_dplmc_chamberlain_treasury_action:dplmc_chamberlain_treasury_action_withdraw|本 镇 欲 支 取 库 银 
+dlga_dplmc_chamberlain_treasury_action:dplmc_chamberlain_treasury_action_withdraw|本 镇 欲 支 取 库 钱 
 dlga_dplmc_chamberlain_treasury_action_withdraw:dplmc_chamberlain_treasury_action_withdraw_select|现 库 藏 有 {s4}文 钱 . 主 公 欲 支 取 几 何 ? 
 dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw|百 文 
 dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.1|二 百 文 
@@ -791,12 +791,12 @@ dlga_dplmc_chamberlain_manage_fiefs_build_ask2:dplmc_chamberlain_manage_fiefs_bu
 dlga_dplmc_chamberlain_manage_fiefs_build_ask2:dplmc_chamberlain_manage_fiefs_build_confirm_ask.1|修 造 磨 坊 
 dlga_dplmc_chamberlain_manage_fiefs_build_ask2:dplmc_chamberlain_manage_fiefs_build_confirm_ask.2|筑 望 楼 
 dlga_dplmc_chamberlain_manage_fiefs_build_ask2:dplmc_chamberlain_manage_fiefs_build_confirm_ask.3|立 学 堂 
-dlga_dplmc_chamberlain_manage_fiefs_build_ask2:dplmc_chamberlain_manage_fiefs_build_confirm_ask.4|设 驿 铺 
+dlga_dplmc_chamberlain_manage_fiefs_build_ask2:dplmc_chamberlain_manage_fiefs_build_confirm_ask.4|设 驿 站 
 dlga_dplmc_chamberlain_manage_fiefs_build_ask2:dplmc_chamberlain_manage_fiefs_build_confirm_ask.5|建 囚 塔 
 dlga_dplmc_chamberlain_manage_fiefs_build_ask2:dplmc_chamberlain_pretalk|暂 罢 营 造 
 dlga_dplmc_chamberlain_manage_fiefs_build_confirm_ask:dplmc_chamberlain_manage_fiefs_confirm|主 公 决 意 耗 {reg5}文 钱 在 {s2}营 造 {s4}? 此 工 需 时 {reg6}日 , 现 库 藏 仅 余 {reg7}文 钱 
 dlga_dplmc_chamberlain_manage_fiefs_confirm:dplmc_chamberlain_pretalk|准 予 营 造 
-dlga_dplmc_chamberlain_manage_fiefs_confirm:dplmc_chamberlain_pretalk.1|库 银 不 敷 , 罢 议 
+dlga_dplmc_chamberlain_manage_fiefs_confirm:dplmc_chamberlain_pretalk.1|库 钱 不 敷 , 罢 议 
 dlga_dplmc_chamberlain_talk:dplmc_chamberlain_pools_ask|本 镇 欲 理 {reg0?内 府 及 外 库:内 府}仓 储 
 dlga_dplmc_chamberlain_pools_ask:dplmc_chamberlain_pools|主 公 欲 理 何 务 ? 
 dlga_dplmc_chamberlain_pools:dplmc_chamberlain_pretalk|清 点 外 库 储 积 
@@ -1246,7 +1246,7 @@ dlga_lord_invite_1:lord_invite_2.1|明 珠 终 不 蒙 尘 .
 dlga_lord_invite_2:lord_invite_3|既 如 此 , 可 愿 立 誓 效 忠 ? 
 dlga_lord_invite_3:lord_give_oath_2|愿 效 犬 马 , {s65}. 
 dlga_lord_invite_3:lord_enter_service_reject|某 尚 有 未 了 事 , 恕 难 从 命 . 
-dlga_start:lord_female_pc_marriage_proposal|{reg40?夫 人:大 人}, 前 议 思 之 再 三 . 斗 胆 相 问:可 愿 {下 嫁/迎 娶}某 ? 
+dlga_start:lord_female_pc_marriage_proposal|{reg40?夫 人:大 人}, 前 议 思 之 再 三 . 斗 胆 相 问:可 愿 {迎 娶/下 嫁}某 ? 
 dlga_lord_female_pc_marriage_proposal:lord_marriage_proposal_female_pc_next_step|诺 . 妾 身 愿 从 . 
 dlga_lord_female_pc_marriage_proposal:lord_female_pc_marriage_proposal_postponed|此 事 尚 需 三 思 . 
 dlga_lord_female_pc_marriage_proposal:lord_female_pc_marriage_proposal_rejected|恕 难 从 命 , 此 事 有 违 礼 法 . 
@@ -1288,7 +1288,7 @@ dlga_lord_start:lord_generic_mission_completed.1|哈 哈 ! 吾 等 算 计 {s3}�
 dlga_lord_start:close_window|区 区 信 使 尚 不 能 除 , 坏 我 大 计 ! 某 已 万 事 俱 备 , 卿 却 沽 名 钓 誉 , 痛 失 良 机 ! 
 dlga_lord_start:quest_meet_spy_in_enemy_town_completed|前 番 嘱 托 之 事 , 可 有 音 讯 ? 
 dlga_quest_meet_spy_in_enemy_town_completed:quest_meet_spy_in_enemy_town_completed_2|某 已 携 谍 报 在 此 . 
-dlga_quest_meet_spy_in_enemy_town_completed_2:lord_pretalk|善 哉 . 得 卿 此 等 {良 才/干 将}, 某 之 大 幸 . 此 乃 酬 金 , 如 约 奉 上 . 
+dlga_quest_meet_spy_in_enemy_town_completed_2:lord_pretalk|善 哉 . 得 卿 此 等 人 才, 某 之 大 幸 . 此 乃 酬 金 , 如 约 奉 上 . 
 dlga_lord_start:lord_pretalk|妙 极 {playername}! 但 见 卿 所 行 之 处 , {s13}州 豪 族 皆 主 战 声 高 ! 不 日 当 可 坐 收 渔 利 , 此 战 必 令 吾 等 富 甲 一 方 ! 
 dlga_lord_start:lord_collect_debt_completed|闻 卿 已 从 {s7}处 追 回 欠 款 . 早 该 如 此 . 依 约 当 分 卿 二 成 , 计 {reg3}文 钱 . 若 卿 付 某 {reg4}文 钱 , 余 款 可 自 留 . 
 dlga_lord_collect_debt_completed:lord_collect_debt_pay|自 当 奉 上 , {s65}. {reg4}文 钱 在 此 . 
@@ -1593,7 +1593,7 @@ dlga_debt_convince_accept:close_window|细 想 来 某 欠 {s8}之 债 确 已 �
 dlga_debt_convince_accept_friends:close_window|此 {reg10}文 劳 交 {s8}, 代 某 致 意 . 
 dlga_debt_convince_accept_king:close_window|谨 遵 {reg40?钧 旨:钧 命}, 此 {reg10}文 劳 交 {s8}, 代 某 致 意 . 
 dlga_lord_talk:lord_ask_to_make_peace|恳 请 {s64}罢 兵 , 止 {s12}国 与 {s13}国 干 戈 . 
-dlga_lord_ask_to_make_peace:lord_ask_to_make_peace_2|嗯 ? {playername}莫 非 说 笑 ? 战 火 易 起 难 息 , 某 记 性 好 的 很 . 凭 甚 要 与 犬 豚 议 和 ? 
+dlga_lord_ask_to_make_peace:lord_ask_to_make_peace_2|嗯 ? {playername}莫 非 说 笑 ? 战 火 易 起 难 息 , 某 记 性 好 得 很 . 凭 甚 要 与 犬 豚 议 和 ? 
 dlga_lord_ask_to_make_peace_2:convince_begin|容 某 晓 以 利 害 ...
 dlga_lord_ask_to_make_peace_2:lord_pretalk|和 议 之 事 容 后 再 议 
 dlga_convince_accept:close_window|汝 ...言 之 有 理 , {playername}. 准 汝 为 使 往 {s14}国 议 和 , 然 其 若 拒 之 , 某 亦 无 奈 . 
@@ -1609,22 +1609,22 @@ dlga_lord_challenge_courtship_rival_2:lord_pretalk|方 才 失 言 ...
 dlga_lord_talk:lord_message_delivered|某 奉 {s9}之 命 传 书 . 
 dlga_lord_talk:help_temple_expose|僧 人 托 我 去 搭 救 {s8}. 
 dlga_lord_talk:kill_temple_success|那 帮 僧 人 已 受 惩 戒 . 
-dlga_lord_talk:kill_temple_failed|贫 道 未 能 惩 治 那 帮 僧 人 
+dlga_lord_talk:kill_temple_failed|某 未 能 惩 治 那 帮 僧 人 
 dlga_kill_temple_failed:lord_pretalk|这 消 息 令 人 失 望 , {reg59?夫 人:将 军}. 此 患 不 除 , 那 些 僧 人 定 会 继 续 蛊 惑 乡 民 对 抗 我 们 . 
 dlga_kill_temple_success:lord_pretalk|{playername}果 不 辱 命 , 这 是 允 诺 的 赏 银 . 
 dlga_help_temple_expose:help_temple_expose2|不 出 所 料 , 那 帮 僧 人 作 乱 已 有 数 月 . 有 劳 {playername}通 禀 此 事 , 这 点 银 钱 权 作 酬 劳 . 
-dlga_help_temple_expose2:help_temple_expose3|{playername}可 愿 接 下 这 单 差 事 ? 若 能 将 那 帮 滋 事 僧 人 正 法 , 本 座 定 当 奉 上 千 文 酬 金 . 
+dlga_help_temple_expose2:help_temple_expose3|{playername}可 愿 接 下 这 单 差 事 ? 若 能 将 那 帮 滋 事 僧 人 正 法 , 本 镇 定 当 奉 上 千 文 酬 金 . 
 dlga_help_temple_expose3:close_window|某 愿 领 命 , 此 事 包 在 吾 身 . 
 dlga_help_temple_expose3:close_window.1|某 不 欲 掺 和 此 事 . 
 dlga_lord_talk:message_from_lover_success.1|某 受 {s3}之 托 捎 来 书 信 . 
 dlga_lord_talk:message_from_lover_expose|{s3}嘱 托 某 暗 中 送 密 信 给 {s4}. 
 dlga_message_from_lover_success:close_window|{playername}辛 苦 ! 得 闻 佳 人 {s3}音 讯 实 乃 幸 事 . 此 事 关 乎 女 子 清 誉 , 万 望 守 口 如 瓶 . 这 点 银 钱 权 作 车 马 费 . 
-dlga_message_from_lover_expose:close_window|{playername}揭 此 丑 事 实 在 难 堪 ...此 事 关 乎 本 座 颜 面 , 切 记 守 密 . 这 点 银 钱 权 作 封 口 之 资 . 
+dlga_message_from_lover_expose:close_window|{playername}揭 此 丑 事 实 在 难 堪 ...此 事 关 乎 本 官 颜 面 , 切 记 守 密 . 这 点 银 钱 权 作 封 口 之 资 . 
 dlga_lord_talk:kill_eunuch_expose|{s3}遣 某 刺 杀 贵 府 得 宠 宦 官 . 
-dlga_kill_eunuch_expose:lord_pretalk|此 事 非 同 小 可 , {playername}...然 则 通 禀 有 功 , 还 望 守 口 如 瓶 . 这 点 银 钱 权 作 酬 谢 . 
-dlga_lord_message_delivered:lord_pretalk|哦 ? 待 某 观 之 ...有 劳 {playername}传 递 . 且 将 本 座 印 信 交 予 {s9}为 凭 , 代 问 {reg4?伊:彼}安 好 . 
+dlga_kill_eunuch_expose:lord_pretalk|此 事 非 同 小 可 , {playername}...此 番 通 禀 有 功 , 还 望 守 口 如 瓶 . 这 点 银 钱 权 作 酬 谢 . 
+dlga_lord_message_delivered:lord_pretalk|哦 ? 待 某 观 之 ...有 劳 {playername}传 递 . 且 将 本 官 印 信 交 予 {s9}为 凭 , 代 问 {reg4?伊:彼}安 好 . 
 dlga_lord_talk:lord_message_delivered_enemy|某 奉 {s9}之 命 传 话 . 
-dlga_lord_message_delivered_enemy:close_window|哦 ? 待 某 观 之 ...嗯 . 有 劳 {playername}传 信 , 且 收 本 座 印 信 为 凭 , 聊 表 谢 意 . 
+dlga_lord_message_delivered_enemy:close_window|哦 ? 待 某 观 之 ...嗯 . 有 劳 {playername}传 信 , 且 收 本 官 印 信 为 凭 , 聊 表 谢 意 . 
 dlga_lord_talk:lord_deliver_message_prisoner|某 受 {s11}之 托 传 话 . 
 dlga_lord_deliver_message_prisoner:lord_deliver_message_prisoner_2|当 真 ? 多 谢 {playername}! 此 信 如 暗 室 明 灯 , 他 日 必 当 厚 报 . 
 dlga_lord_deliver_message_prisoner_2:lord_deliver_message_prisoner_2a|某 不 过 略 尽 绵 力 , {s65}. 
@@ -1634,7 +1634,7 @@ dlga_lord_deliver_message_prisoner_2b:close_window|哈 哈 , 那 是 自 然 , {
 dlga_lord_talk:lord_rescue_by_replace_offer|莫 慌 , 某 特 来 搭 救 . 
 dlga_lord_rescue_by_replace_offer:lord_rescue_by_replace_offer_2|苍 天 可 鉴 ! 计 将 安 出 ? 
 dlga_lord_rescue_by_replace_offer_2:lord_rescue_by_replace_offer_3|李 代 桃 僵 之 计 . 互 换 衣 冠 后 , 某 替 君 入 狱 , 君 扮 作 某 逃 遁 . 狱 卒 已 收 重 贿 , 此 刻 怕 是 买 空 了 酒 肆 存 酿 . 待 彼 等 醉 眼 昏 花 时 , 纵 使 亲 娘 在 前 亦 难 分 辨 , 足 可 保 君 安 然 脱 身 . 
-dlga_lord_rescue_by_replace_offer_3:lord_rescue_by_replace_offer_4|此 计 虽 妙 ...然 则 阁 下 若 何 ? 狱 吏 察 知 有 诈 必 不 轻 饶 , 恐 要 在 此 囹 圄 度 日 . 
+dlga_lord_rescue_by_replace_offer_3:lord_rescue_by_replace_offer_4|此 计 虽 妙 ...然 而 阁 下 若 何 ? 狱 吏 察 知 有 诈 必 不 轻 饶 , 恐 要 在 此 囹 圄 度 日 . 
 dlga_lord_rescue_by_replace_offer_4:lord_rescue_by_replace_offer_5a|{s65}勿 忧 , 某 与 此 地 倒 颇 有 缘 分 . 
 dlga_lord_rescue_by_replace_offer_4:lord_rescue_by_replace_offer_5b|但 教 事 后 酬 金 丰 厚 , 某 自 可 安 之 若 素 . 
 dlga_lord_rescue_by_replace_offer_5a:lord_rescue_by_replace_offer_6|阁 下 果 然 胆 识 过 人 , 此 恩 必 不 相 忘 . 
@@ -1665,9 +1665,9 @@ dlga_dplmc_lord_ask_pardon_ruler_1:lord_pretalk|某 改 主 意 了 , 此 约 �
 dlga_lord_ask_pardon:lord_truce_offer|罢 了 ...某 亦 厌 战 . 可 暂 休 兵 二 十 日 , 若 尔 守 信 不 犯 境 , 再 议 不 迟 ...
 dlga_lord_truce_offer:close_window|某 愿 立 约 , 暂 且 息 兵 罢 战 . 
 dlga_lord_truce_offer:lord_pretalk|某 改 主 意 了 , 此 约 不 利 . 
-dlga_lord_ask_pardon:lord_ask_pardon_2|唔 ...某 可 周 旋 赦 宥 , 然 帐 下 多 有 欲 索 偿 者 . 若 备 足 {reg16}文 赎 罪 银 , 或 可 重 归 {s4}帐 下 . 
+dlga_lord_ask_pardon:lord_ask_pardon_2|唔 ...某 可 周 旋 赦 宥 , 然 帐 下 多 有 欲 索 偿 者 . 若 备 足 {reg16}文 赎 罪 钱 , 或 可 重 归 {s4}帐 下 . 
 dlga_lord_ask_pardon:lord_pretalk.4|此 事 非 某 可 决 , 当 谒 {s7}. 
-dlga_lord_ask_pardon:lord_ask_pardon_2.1|罢 了 ...某 尚 有 要 务 . 然 尔 伤 我 子 民 , 当 纳 {reg16}文 赎 罪 银 方 可 赦 宥 . 
+dlga_lord_ask_pardon:lord_ask_pardon_2.1|罢 了 ...某 尚 有 要 务 . 然 尔 伤 我 子 民 , 当 纳 {reg16}文 赎 罪 钱 方 可 赦 宥 . 
 dlga_lord_ask_pardon:lord_pretalk.5|某 无 权 赦 宥 . 
 dlga_lord_ask_pardon_2:lord_ask_pardon_tribue_accept|某 备 有 {reg16}文 在 此 . 
 dlga_lord_ask_pardon_2:lord_ask_pardon_tribue_deny|某 实 无 力 偿 付 . 
@@ -1746,7 +1746,7 @@ dlga_lord_give_order_call_to_arms_verify:lord_give_order_call_to_arms_verify_2|�
 dlga_lord_give_order_call_to_arms_verify_2:lord_give_order_call_to_arms|然 也 . 当 毕 其 功 于 一 役 . 
 dlga_lord_give_order_call_to_arms_verify_2:lord_pretalk|且 慢 , 此 事 容 后 再 议 . 
 dlga_lord_give_order_call_to_arms:lord_pretalk|某 即 遣 使 召 诸 将 来 会 . 
-dlga_lord_talk:lord_give_order_disband_army_verify|某 欲 罢 兵 , 使 各 归 汛 地 . 
+dlga_lord_talk:lord_give_order_disband_army_verify|某 欲 罢 兵 , 使 各 归 防 地 . 
 dlga_lord_give_order_disband_army_verify:lord_give_order_disband_army_2|欲 解 兵 权 使 诸 将 各 归 ? 
 dlga_lord_give_order_disband_army_2:lord_give_order_disband_army|然 也 . 战 事 已 毕 , 当 解 甲 . 
 dlga_lord_give_order_disband_army_2:lord_pretalk|且 待 , 宜 暂 驻 军 . 
@@ -1832,7 +1832,7 @@ dlga_lord_strategy_why_not_select:lord_strategy_why_not_reason.1|..驻 守 {s4}?
 dlga_lord_strategy_why_not_select:lord_strategy_why_not_reason.2|..进 兵 {s4}? 
 dlga_lord_strategy_why_not_reason:lord_talk_why_not_repeat|{s9}
 dlga_lord_strategy_why_not_reason:lord_talk_why_not_repeat.1|我 军 军 师 {s11}以 为 {s8}{s9}{s10}
-dlga_lord_strategy_why_not_reason:lord_talk_why_not_repeat.2|本 可 前 往 . {s7}然 则 {s5}{s3}{s4}. {s6}{s8}. 
+dlga_lord_strategy_why_not_reason:lord_talk_why_not_repeat.2|本 可 前 往 . {s7}然 而 {s5}{s3}{s4}. {s6}{s8}. 
 dlga_lord_talk_why_not_repeat:lord_strategy_why_not_select|可 还 有 疑 虑 ? 为 何 我 军 不 ...
 dlga_lord_talk_ask_marriage_1:lord_pretalk|莫 要 忧 心 , 某 绝 无 改 弦 更 张 之 意 . 待 寻 得 吉 日 良 辰 , 自 当 行 大 婚 之 礼 . 
 dlga_lord_talk_ask_marriage_1:dplmc_claimant_marriage_proposal_pc_confirm|可 是 要 与 某 共 掌 {s0}, 结 为 {reg40?夫 妇:伉 俪}? 
@@ -1860,7 +1860,7 @@ dlga_lord_marriage_proposal_female_pc_confirm:lord_pretalk|恐 是 误 会 .
 dlga_lord_marriage_proposal_female_pc_confirm:lord_pretalk.1|荒 唐 ! 全 然 误 会 ...速 速 忘 却 此 言 ! 
 dlga_lord_marriage_proposal_female_pc_reax:lord_pretalk|{s14}
 dlga_lord_marriage_proposal_female_pc_reax:lord_marriage_proposal_female_pc_next_step|{s14}
-dlga_lord_marriage_proposal_female_pc_next_step:lord_marriage_proposal_female_pc_next_step_2|然 则 尔 行 止 不 羁 , 纵 马 江 湖 , 恐 难 为 {s0}所 容 . 可 愿 为 姻 缘 弃 此 生 涯 ? 
+dlga_lord_marriage_proposal_female_pc_next_step:lord_marriage_proposal_female_pc_next_step_2|然 而 尔 行 止 不 羁 , 纵 马 江 湖 , 恐 难 为 {s0}所 容 . 可 愿 为 姻 缘 弃 此 生 涯 ? 
 dlga_lord_marriage_proposal_female_pc_next_step_2:lord_marriage_proposal_female_pc_next_step_5|恕 难 从 命 ! 
 dlga_lord_marriage_proposal_female_pc_next_step_2:lord_marriage_proposal_female_pc_next_step_5.1|谨 如 尊 命 . 
 dlga_lord_marriage_proposal_female_pc_next_step:lord_marriage_proposal_female_pc_next_step_4|本 当 遣 使 问 名 纳 吉 , 然 料 尔 自 有 主 张 . 
@@ -1969,7 +1969,7 @@ dlga_lord_give_oath_8:lord_give_oath_9|终 某 一 生 , 必 恪 守 主 公 法
 dlga_lord_give_oath_9:lord_give_oath_10|终 某 一 生 , 必 恪 守 主 公 法 统 , 护 佑 合 法 嗣 君 . 
 dlga_lord_give_oath_9:lord_give_oath_give_up|{reg65?夫 人:明 公}且 容 某 再 作 计 较 . 
 dlga_lord_give_oath_10:lord_give_oath_go_on_2|善 . {playername}既 立 重 誓 , 望 永 守 此 约 , 不 失 忠 勇 . 
-dlga_lord_give_oath_go_on_2:lord_give_oath_go_on_3|自 即 日 起 , 汝 即 某 之 {巾 帼/袍 泽}. 某 当 护 汝 周 全 , 许 汝 以 某 之 名 号 募 兵 , 非 经 公 议 或 国 法 , 绝 不 擅 夺 汝 性 命 、 自 由 及 产 业 . {reg1?另 将 {s1}封 邑 及 一 应 赋 税 赐 汝 掌 管:}
+dlga_lord_give_oath_go_on_2:lord_give_oath_go_on_3|自 即 日 起 , 汝 即 某 之 {袍 泽/巾 帼}. 某 当 护 汝 周 全 , 许 汝 以 某 之 名 号 募 兵 , 非 经 公 议 或 国 法 , 绝 不 擅 夺 汝 性 命 、 自 由 及 产 业 . {reg1?另 将 {s1}封 邑 及 一 应 赋 税 赐 汝 掌 管:}
 dlga_lord_give_oath_go_on_3:lord_give_conclude|{playername}, 你 做 了 个 明 智 的 决 定 . 尽 心 效 忠 于 我 , 我 保 你 步 步 高 升 . 
 dlga_lord_give_conclude:lord_give_conclude_2|{s41}
 dlga_lord_give_conclude_2:close_window.1|既 如 此 , {s0}, 愿 我 麾 下 的 封 臣 都 如 你 这 般 忠 勇 . 
@@ -2016,7 +2016,7 @@ dlga_lord_hunt_down_fugitive_success:lord_hunt_down_fugitive_success_2|除 却 �
 dlga_lord_hunt_down_fugitive_success_2:lord_hunt_down_fugitive_reward_accept|末 将 拜 领 , {s65}. 谢 大 人 赏 . 
 dlga_lord_hunt_down_fugitive_success_2:lord_hunt_down_fugitive_reward_reject|此 乃 血 酬 , 卑 职 愧 不 敢 受 . 
 dlga_lord_hunt_down_fugitive_reward_accept:lord_pretalk|理 当 如 此 , {playername}. 钱 帛 在 此 . 再 谢 尔 除 却 {s43}祸 患 . 
-dlga_lord_hunt_down_fugitive_reward_reject:lord_pretalk|好 个 仗 义 轻 财 的 {reg40?巾 帼:儿 郎}! {playername}既 有 此 心 , 某 家 亦 不 强 求 . 然 则 剪 除 {s43}之 功 , 某 家 铭 记 于 心 . 
+dlga_lord_hunt_down_fugitive_reward_reject:lord_pretalk|好 个 仗 义 轻 财 的 {reg40?巾 帼:儿 郎}! {playername}既 有 此 心 , 某 家 亦 不 强 求 . 然 而 剪 除 {s43}之 功 , 某 家 铭 记 于 心 . 
 dlga_lord_hunt_down_fugitive_fail:lord_pretalk|可 叹 天 网 恢 恢 , 竟 令 {s43}再 度 漏 网 . {playername}, 某 家 原 道 尔 可 担 此 任 , 未 料 竟 失 手 至 此 . 
 dlga_lord_active_mission_2:lord_blank_quest_4_success|逃 卒 之 乱 已 平 . 
 dlga_lord_blank_quest_4_success:lord_pretalk|有 劳 {playername}整 肃 军 纪 . 此 等 赏 钱 , 尔 当 之 无 愧 . 
@@ -2026,7 +2026,7 @@ dlga_lord_kill_eunuch_success:lord_kill_eunuch_success_2|诛 此 阉 宦 , 朝 �
 dlga_lord_kill_eunuch_success_2:lord_kill_eunuch_reward_accept|末 将 拜 领 , {s65}. 谢 大 人 赏 . 
 dlga_lord_kill_eunuch_success_2:lord_kill_eunuch_reward_reject|此 乃 血 酬 , 卑 职 愧 不 敢 受 . 
 dlga_lord_kill_eunuch_reward_accept:lord_pretalk|理 当 如 此 , {playername}. 钱 帛 在 此 . 再 谢 尔 除 却 {s43}祸 患 . 
-dlga_lord_kill_eunuch_reward_reject:lord_pretalk|好 个 仗 义 轻 财 的 {reg40?巾 帼:儿 郎}! {playername}既 有 此 心 , 某 家 亦 不 强 求 . 然 则 剪 除 {s43}之 功 , 某 家 铭 记 于 心 . 
+dlga_lord_kill_eunuch_reward_reject:lord_pretalk|好 个 仗 义 轻 财 的 {reg40?巾 帼:儿 郎}! {playername}既 有 此 心 , 某 家 亦 不 强 求 . 然 而 剪 除 {s43}之 功 , 某 家 铭 记 于 心 . 
 dlga_lord_kill_eunuch_fail:lord_pretalk|可 叹 天 网 恢 恢 , 竟 令 {s43}再 度 漏 网 . {playername}, 某 家 原 道 尔 可 担 此 任 , 未 料 竟 失 手 至 此 . 
 dlga_lord_active_mission_2:lord_active_mission_3|尚 在 筹 谋 之 中 . 
 dlga_lord_active_mission_2:lord_mission_failed|卑 职 恐 难 当 此 任 . 
@@ -2064,7 +2064,7 @@ dlga_lord_request_mission_ask:lord_pretalk.2|我 的 {reg40?女 士:主 公}, �
 dlga_lord_tell_mission:lord_tell_mission_sworn_vassal|确 有 琐 事 需 人 操 办 , 然 此 事 当 委 任 {reg65?家 臣:部 曲}, 不 宜 劳 烦 {reg0?主 君:朝 廷 藩 臣}. 
 dlga_lord_tell_mission_sworn_vassal:lord_pretalk|若 欲 征 讨 逆 贼 , 可 随 我 军 共 击 {s4}. 彼 辈 或 倾 巢 来 犯 , 多 聚 {reg65?兵 卒:义 士}方 为 上 策 . 
 dlga_lord_tell_mission_sworn_vassal:lord_pretalk.1|若 欲 寻 敌 厮 杀 , 可 往 {s4}一 探 . 斥 候 来 报 {s5}兵 马 出 没 , 某 将 亲 往 剿 灭 . 然 兵 不 厌 诈 , 未 必 能 遇 . 
-dlga_lord_tell_mission_sworn_vassal:lord_pretalk.2|若 您 想 与 敌 交 锋 , 可 前 往 {s4}探 查 . 据 报 {s5}国 军 马 正 在 彼 处 活 动 . 某 虽 不 往 , 然 他 人 或 往 之 . 然 则 敌 踪 无 常 , 某 不 敢 保 其 必 在 . 
+dlga_lord_tell_mission_sworn_vassal:lord_pretalk.2|若 您 想 与 敌 交 锋 , 可 前 往 {s4}探 查 . 据 报 {s5}国 军 马 正 在 彼 处 活 动 . 某 虽 不 往 , 然 他 人 或 往 之 . 然 而 敌 踪 无 常 , 某 不 敢 保 其 必 在 . 
 dlga_lord_tell_mission_sworn_vassal:lord_pretalk.3|倘 遇 紧 要 差 遣 , 日 后 或 有 事 相 托 . 
 dlga_lord_tell_mission:destroy_lair_quest_brief|正 有 一 事 相 托 . 闻 得 {s5}附 近 有 {s4}贼 寇 筑 起 {s10}, 劫 掠 行 旅 . 若 能 寻 其 巢 穴 捣 毁 , 某 等 感 激 不 尽 . 
 dlga_lord_tell_mission:destroy_lair_quest_brief.1|正 有 一 事 相 托 . 闻 得 此 地 有 {s4}贼 寇 筑 起 {s10}, 劫 掠 行 旅 . 若 能 寻 其 巢 穴 捣 毁 , 某 等 感 激 不 尽 . 
@@ -2136,7 +2136,7 @@ dlga_lord_mission_kill_eunuch_told:lord_mission_kill_eunuch_rejected|阉 党 凶
 dlga_lord_mission_kill_eunuch_told:lord_mission_kill_eunuch_rejected.1|眼 下 军 务 繁 忙 , 实 难 抽 身 . 
 dlga_lord_mission_kill_eunuch_accepted:close_window|甚 好 , {playername}. 此 功 当 记 , 受 其 构 陷 者 亦 当 感 恩 . 
 dlga_lord_mission_kill_eunuch_rejected:lord_pretalk|也 罢 , {playername}. 想 来 江 湖 刺 客 多 如 牛 毛 , 不 愁 无 人 接 这 买 卖 . 
-dlga_lord_tell_mission:lord_mission_told_kill_local_merchant|实 不 相 瞒 , 本 帅 欠 了 {s3}城 一 商 贾 巨 款 . 自 然 没 打 算 偿 还 , 可 这 厮 竟 敢 四 处 鼓 噪 , 日 前 还 闯 我 府 邸 , 扬 言 要 向 行 会 钱 庄 递 状 子 . 此 等 狂 徒 岂 能 留 ? 需 得 心 腹 之 人 教 他 永 远 闭 口 . 
+dlga_lord_tell_mission:lord_mission_told_kill_local_merchant|实 不 相 瞒 , 本 帅 欠 了 {s3}城 一 商 贾 巨 款 . 自 然 没 打 算 偿 还 , 可 这 厮 竟 敢 四 处 鼓 噪 , 日 前 还 闯 我 府 邸 , 扬 言 要 向 行 会 柜 坊 递 状 子 . 此 等 狂 徒 岂 能 留 ? 需 得 心 腹 之 人 教 他 永 远 闭 口 . 
 dlga_lord_mission_told_kill_local_merchant:lord_mission_accepted_kill_local_merchant|大 人 宽 心 , 必 教 他 三 缄 其 口 . 
 dlga_lord_mission_told_kill_local_merchant:lord_mission_rejected|某 非 市 井 屠 夫 , 此 等 脏 活 另 请 高 明 罢 . 
 dlga_lord_mission_accepted_kill_local_merchant:close_window|甚 善 . {playername}, 本 帅 信 你 手 段 . 且 去 候 着 , 待 我 传 信 告 知 时 辰 地 点 . 事 成 之 后 , 定 有 厚 赏 . 
@@ -2218,7 +2218,7 @@ dlga_lord_talk:lord_request_retire|末 将 请 辞 归 田 .
 dlga_lord_talk:lord_request_vacation|末 将 乞 假 数 日 . 
 dlga_lord_talk:ask_return_from_leave|末 将 销 假 复 命 . 
 dlga_lord_talk:ask_return_from_leave.1|暂 难 复 命 . 
-dlga_lord_talk:ask_return_from_leave.2|主 公 尚 在 敌 营 , 末 将 无 法 归 建 . 
+dlga_lord_talk:ask_return_from_leave.2|主 公 尚 在 敌 营 , 末 将 无 法 归 队 . 
 dlga_lord_talk:lord_leave_prison|在 下 告 辞 . 
 dlga_lord_talk:lord_leave|话 已 至 此 , 某 去 也 . 
 dlga_lord_talk:dplmc_prisoner_chat_let_go|尔 可 自 去 . 
@@ -2313,7 +2313,7 @@ dlga_rescue_prisoner_succeed_1:lady_pretalk|能 为 {s65}效 劳 , 实 乃 三 �
 dlga_start:lady_meet_end|阁 下 定 是 {playername}吧 . 适 才 我 等 有 幸 目 睹 您 在 比 武 大 会 上 的 英 姿 {s8}. 
 dlga_start:lady_meet_end.1|阁 下 定 是 {playername}. 我 家 {s15}{s16}时 常 夸 赞 于 您 , 今 日 得 见 果 然 名 不 虚 传 . 
 dlga_start:lady_premeet|恕 奴 家 眼 拙 , 似 乎 未 曾 见 过 尊 驾 ...
-dlga_start:lord_meet_enemy.1|本 座 在 此 . 看 你 这 面 孔 倒 是 眼 生 得 紧 ...
+dlga_start:lord_meet_enemy.1|本 官 在 此 . 看 你 这 面 孔 倒 是 眼 生 得 紧 ...
 dlga_start:lord_talk|哟 , 这 不 是 {playername}么 ...
 dlga_start:close_window.28|啊 , {playername}, 得 见 君 颜 实 乃 幸 事 . 不 过 在 下 另 有 要 务 在 身 , 暂 且 失 陪 . 
 dlga_start:lady_start.3|{playername}— — 再 睹 君 颜 令 人 欣 喜 . 往 昔 造 访 之 谊 , 妾 身 至 今 难 忘 . 
@@ -2340,7 +2340,7 @@ dlga_lady_suggest_elope:lady_conclude_relationship.1|唉 , {playername}君 当 �
 dlga_lady_suggest_elope:lady_conclude_relationship.2|{playername}君 虽 待 我 甚 厚 , 然 私 奔 之 事 关 乎 名 节 . 纵 然 不 喜 未 婚 夫 婿 , 违 逆 家 父 终 非 儿 戏 , 妾 实 不 敢 轻 率 相 从 . 
 dlga_lady_suggest_elope:lady_conclude_relationship.3|{playername}君 — — 私 奔 即 与 家 族 决 裂 , 而 宗 族 乃 妾 身 立 命 之 本 ! 虽 心 系 于 君 , 终 不 敢 行 此 险 着 . 
 dlga_lady_suggest_elope:lady_conclude_relationship.4|{playername}君 — — 妾 身 不 惯 军 旅 劳 顿 , 只 求 安 宅 深 院 . 若 君 能 坐 拥 雄 城 广 厦 , 妾 自 当 红 妆 以 待 . 然 漂 泊 江 湖 , 实 非 所 愿 . 
-dlga_lady_suggest_elope:lady_elope_agree|与 君 私 奔 ? 也 罢 — — 家 族 颜 面 固 然 要 紧 , 但 若 嫁 非 所 爱 , 余 生 何 欢 ? 然 则 家 父 震 怒 之 下 , 必 倾 全 力 追 杀 你 我 . 
+dlga_lady_suggest_elope:lady_elope_agree|与 君 私 奔 ? 也 罢 — — 家 族 颜 面 固 然 要 紧 , 但 若 嫁 非 所 爱 , 余 生 何 欢 ? 然 而 家 父 震 怒 之 下 , 必 倾 全 力 追 杀 你 我 . 
 dlga_lady_elope_agree:lady_elope_agree_nurse|事 不 宜 迟 , 速 速 动 身 ! 
 dlga_lady_elope_agree:close_window|倾 全 力 追 杀 ? 呃 ...此 事 还 须 三 思 ...
 dlga_lady_elope_agree_nurse:lady_elope_agree_lady_vows|郎 君 ...娘 子 ...可 需 老 身 为 证 , 盟 誓 成 礼 ? 
@@ -2536,17 +2536,17 @@ dlga_seneschal_ask_location:seneschal_ask_location_2|某 处 略 有 耳 闻 , �
 dlga_seneschal_ask_location_2:seneschal_ask_location_3|{s1}
 dlga_seneschal_ask_location_2:seneschal_pretalk|罢 了 . 
 dlga_seneschal_ask_location_3:seneschal_pretalk|{s1}
-dlga_start:close_window.29|前 面 望 见 {s3}城 堞 了 . 我 们 平 安 抵 达 了 . 给 , 这 袋 {reg3}文 钱 你 拿 着 , 照 之 前 说 的 . 盼 着 往 后 还 能 搭 伙 走 镖 . 
+dlga_start:close_window.29|前 面 望 见 {s3}城 堞 了 . 我 们 平 安 抵 达 了 . 给 , 这 袋 {reg3}文 钱 你 拿 着 , 照 之 前 说 的 . 盼 着 往 后 还 能 搭 伙 走 商 . 
 dlga_start:talk_caravan_escort|走 了 这 些 时 日 ...前 面 可 还 太 平 ? 
 dlga_talk_caravan_escort:talk_caravan_escort_2a|似 有 强 人 出 没 , 跟 紧 些 . 
 dlga_talk_caravan_escort_2a:close_window|弟 兄 们 都 贴 着 郎 君 马 头 走 呢 , 您 尽 管 开 路 . 
 dlga_talk_caravan_escort:talk_caravan_escort_2b|四 野 清 净 , 可 松 快 些 . 
 dlga_talk_caravan_escort_2b:close_window|到 了 {s1}地 界 才 能 松 快 ! 赶 紧 赶 路 罢 . 
 dlga_start:merchant_talk|三 天 前 才 纳 过 买 路 钱 , 又 要 怎 的 ? 
-dlga_start:merchant_talk.1|客 官 万 福 . 
+dlga_start:merchant_talk.1|客 人 万 福 . 
 dlga_start:merchant_talk.2|我 等 小 本 生 意 , 好 汉 高 抬 贵 手 . 
 dlga_start:merchant_talk.3|{s10}
-dlga_start:merchant_talk.4|客 官 有 何 见 教 ? 
+dlga_start:merchant_talk.4|客 人 有 何 见 教 ? 
 dlga_merchant_pretalk:merchant_talk|还 有 何 事 ? 
 dlga_merchant_talk:caravan_start_war_quest_1|尔 等 擅 闯 {s17}军 州 地 界 , 货 品 骡 马 尽 数 充 公 ! 
 dlga_caravan_start_war_quest_1:caravan_start_war_quest_2|军 爷 明 鉴 ! 贵 镇 早 与 我 们 结 下 通 商 文 契 , 何 来 擅 闯 之 说 ? 
@@ -2710,7 +2710,7 @@ dlga_political_quests_end:spouse_pretalk|善 .
 dlga_political_quests_end:minister_pretalk|善 . 
 dlga_political_quests_end:close_window|善 . 
 dlga_start:local_merchant_mercy|好 汉 饶 命 ! 
-dlga_local_merchant_mercy:local_merchant_mercy_no|某 与 掌 柜 无 冤 , 然 {s2}欲 取 尔 性 命 . 得 罪 了 . 
+dlga_local_merchant_mercy:local_merchant_mercy_no|某 与 店 主 无 冤 , 然 {s2}欲 取 尔 性 命 . 得 罪 了 . 
 dlga_local_merchant_mercy_no:close_window|天 杀 的 ! 必 堕 阿 鼻 地 狱 ! 
 dlga_local_merchant_mercy:local_merchant_mercy_yes|若 应 某 一 事 , 可 饶 性 命 . 
 dlga_local_merchant_mercy_yes:local_merchant_mercy_yes_2|但 凭 吩 咐 ! 但 求 活 命 ...
@@ -2790,7 +2790,7 @@ dlga_tavernkeeper_talk:tavernkeeper_deliver_wine|受 人 所 托 , 运 送 {reg9
 dlga_tavernkeeper_deliver_wine:tavernkeeper_pretalk|可 算 盼 来 了 ! 某 这 酒 窖 将 罄 . 此 乃 {reg5}文 钱 酒 资 , 代 问 {s9}安 好 . 下 回 交 易 定 为 郎 君 美 言 . 
 dlga_tavernkeeper_talk:tavernkeeper_deliver_wine_incomplete|本 当 运 送 {reg9}坛 {s4}, 奈 何 途 中 折 损 . 
 dlga_tavernkeeper_deliver_wine_incomplete:tavernkeeper_pretalk|遇 着 强 人 罢 ? 保 得 性 命 已 属 万 幸 . 某 只 能 付 {reg5}文 钱 , 且 会 禀 告 {s1}货 物 缺 损 之 事 , 恐 要 追 偿 . 
-dlga_tavernkeeper_talk:tavernkeeper_deliver_wine_lost|本 当 运 送 {reg9}坛 {s4}, 然 尽 数 遗 矢 . 
+dlga_tavernkeeper_talk:tavernkeeper_deliver_wine_lost|本 当 运 送 {reg9}坛 {s4}, 然 尽 数 遗 失 . 
 dlga_tavernkeeper_deliver_wine_lost:tavernkeeper_pretalk|恁 地 ! 某 苦 候 {s4}旬 月 竟 成 空 ! 定 要 禀 告 {s1}知 晓 ! 
 dlga_tavernkeeper_talk:tavernkeeper_buy_drinks|今 夜 入 店 者 , 皆 赠 一 坛 上 等 {s0}. 
 dlga_tavernkeeper_buy_drinks:tavernkeeper_buy_drinks_2|诺 . 约 需 {reg5}文 钱 . 可 要 留 何 言 语 ? 
@@ -2814,13 +2814,13 @@ dlga_tavernkeeper_talk:tavernkeeper_traderoutes_pretalk|且 论 骡 马 商 道 
 dlga_tavernkeeper_talk:tavernkeeper_courier_ask|可 需 信 差 传 书 ? 
 dlga_tavernkeeper_courier_ask:tavernkeeper_pretalk|郎 君 名 声 不 显 , 这 等 差 事 托 付 不 得 . 
 dlga_tavernkeeper_courier_ask:tavernkeeper_pretalk.1|眼 下 不 需 要 信 使 . 
-dlga_tavernkeeper_courier_ask:tavernkeeper_courier_ask_response|我 需 要 有 人 一 周 内 送 信 到 {s5}的 {s10}处 . 
-dlga_tavernkeeper_courier_ask_response:tavernkeeper_pretalk|这 趟 镖 我 接 了 . 
+dlga_tavernkeeper_courier_ask:tavernkeeper_courier_ask_response|我 需 要 有 人 七 日 内 送 信 到 {s5}的 {s10}处 . 
+dlga_tavernkeeper_courier_ask_response:tavernkeeper_pretalk|这 趟 差 事 我 接 了 . 
 dlga_tavernkeeper_courier_ask_response:tavernkeeper_pretalk.1|不 感 兴 趣 , 多 谢 . 
 dlga_tavernkeeper_courier_ask:tavernkeeper_pretalk.2|现 下 不 缺 信 使 . 
-dlga_tavernkeeper_traderoutes_pretalk:tavernkeeper_traderoutes_ask|客 官 想 打 听 骡 马 队 什 么 消 息 ? 
+dlga_tavernkeeper_traderoutes_pretalk:tavernkeeper_traderoutes_ask|客 人 想 打 听 骡 马 队 什 么 消 息 ? 
 dlga_tavernkeeper_traderoutes_ask:tavernkeeper_traderoute_invest|我 想 在 骡 马 队 参 股 . 
-dlga_tavernkeeper_traderoute_invest:tavernkeeper_pretalk|{s4}只 准 许 独 立 商 贾 与 {10}国 的 领 主 投 资 骡 队 . 
+dlga_tavernkeeper_traderoute_invest:tavernkeeper_pretalk|{s4}只 准 许 独 立 商 贾 与 {s10}国 的 领 主 投 资 骡 队 . 
 dlga_tavernkeeper_traderoute_invest:tavernkeeper_pretalk.1|足 下 已 开 通 自 {s4}至 {s10}的 骡 队 商 路 . 
 dlga_tavernkeeper_traderoute_invest:tavernkeeper_pretalk.2|足 下 声 名 狼 藉 , 其 余 商 贾 不 愿 与 汝 共 事 . 
 dlga_tavernkeeper_traderoute_invest:tavernkeeper_traderoute_invest2|既 如 此 , 足 下 欲 投 哪 路 骡 队 ? 
@@ -2831,11 +2831,11 @@ dlga_tavernkeeper_traderoute_invest2:tavernkeeper_pretalk|其 实 我 没 兴 �
 dlga_tavernkeeper_traderoutes_ask:tavernkeeper_traderoutes|贵 镇 骡 马 队 都 往 何 处 行 商 ? 
 dlga_tavernkeeper_traderoutes_ask:tavernkeeper_pretalk|罢 了 . 
 dlga_tavernkeeper_traderoutes:tavernkeeper_pretalk|我 们 与 {s2}通 商 . 
-dlga_tavernkeeper_job_ask:tavernkeeper_job_search|嗯 ...{s10}常 招 镖 师 助 阵 {reg0?她:他}的 战 事 . {s9}
+dlga_tavernkeeper_job_ask:tavernkeeper_job_search|嗯 ...{s10}常 招 护 卫 助 阵 {reg0?她:他}的 战 事 . {s9}
 dlga_tavernkeeper_job_ask:tavernkeeper_job_search.1|县 衙 里 总 有 些 差 事 可 寻 . 
 dlga_tavernkeeper_job_search:tavernkeeper_job_result|容 我 再 想 想 ...
 dlga_tavernkeeper_job_result:tavernkeeper_job_search|听 说 {s7}{s9}{s10}不 妨 找 {reg4?她:他}打 听 . 
-dlga_tavernkeeper_job_result:tavernkeeper_job_result_2|当 然 也 可 能 有 别 的 话 计 — — 那 些 领 主 和 县 太 爷 们 总 有 些 咱 们 听 不 到 的 差 事 . 附 近 村 寨 也 常 要 人 帮 手 , 不 过 他 们 多 半 拿 新 茶 和 人 情 抵 账 , 给 不 出 叮 当 响 的 铜 钱 . 
+dlga_tavernkeeper_job_result:tavernkeeper_job_result_2|当 然 也 可 能 有 别 的 活 计 — — 那 些 领 主 和 明 府 们 总 有 些 咱 们 听 不 到 的 差 事 . 附 近 村 寨 也 常 要 人 帮 手 , 不 过 他 们 多 半 拿 新 茶 和 人 情 抵 账 , 给 不 出 叮 当 响 的 铜 钱 . 
 dlga_tavernkeeper_job_result_2:close_window|我 会 留 心 其 他 活 计 的 . 您 得 空 常 来 问 问 . 
 dlga_tavernkeeper_talk:close_window|某 家 该 告 辞 了 . 
 dlga_start:ransom_broker_intro|给 贵 客 见 礼 了 , 尊 贵 的 {reg40?夫 人:老 爷}. 瞧 着 您 该 是 与 我 打 交 道 的 体 面 人 . 
@@ -2844,7 +2844,7 @@ dlga_ransom_broker_intro_2:ransom_broker_info_talk|我 专 为 那 些 在 连 �
 dlga_ransom_broker_info_talk:ransom_broker_families|若 他 家 里 拿 不 出 钱 呢 ? 
 dlga_ransom_broker_families:ransom_broker_info_talk|那 就 编 些 暖 心 故 事 说 说 船 上 生 活 . 庄 稼 汉 总 能 从 牛 棚 里 刨 出 宝 贝 , 或 是 找 亲 戚 拆 借 — — 只 要 鞭 子 抽 得 够 响 ! 实 在 凑 不 出 钱 , 还 有 专 收 桨 奴 的 人 牙 子 . 天 底 下 没 有 白 做 的 善 事 , 您 说 是 这 个 理 吧 ? 
 dlga_ransom_broker_info_talk:ransom_broker_prices|一 个 俘 虏 能 换 多 少 ? 
-dlga_ransom_broker_prices:ransom_broker_info_talk|这 得 看 人 下 菜 . 咱 家 练 就 的 火 眼 金 睛 , 单 看 衣 着 谈 吐 便 知 是 吃 糠 咽 菜 还 是 膏 粱 子 弟 . 真 正 值 钱 的 是 士 族 子 弟 , 若 想 入 这 行 当 , 须 得 熟 记 中 原 各 家 田 产 、 族 徽 、 嫡 庶 子 嗣 , 还 有 他 们 在 钱 庄 的 信 用 . 
+dlga_ransom_broker_prices:ransom_broker_info_talk|这 得 看 人 下 菜 . 咱 家 练 就 的 火 眼 金 睛 , 单 看 衣 着 谈 吐 便 知 是 吃 糠 咽 菜 还 是 膏 粱 子 弟 . 真 正 值 钱 的 是 士 族 子 弟 , 若 想 入 这 行 当 , 须 得 熟 记 中 原 各 家 田 产 、 族 徽 、 嫡 庶 子 嗣 , 还 有 他 们 在 柜 坊 的 信 用 . 
 dlga_ransom_broker_info_talk:ransom_broker_ransom_me|若 某 被 俘 , 可 能 赎 我 ? 
 dlga_ransom_broker_ransom_me:ransom_broker_info_talk|自 然 使 得 . 中 原 诸 侯 的 地 界 咱 都 走 得 通 ! 记 得 在 隐 秘 处 埋 个 钱 瓮 , 再 留 个 忠 仆 知 晓 位 置 . 
 dlga_ransom_broker_info_talk:ransom_broker_pretalk|某 家 晓 得 了 , 多 谢 . 
@@ -2881,7 +2881,7 @@ dlga_tavern_traveler_tell_kingdoms_2:close_window|承 教 了 .
 dlga_tavern_traveler_tell_kingdoms_3:tavern_traveler_tell_kingdoms_4|贵 客 这 般 人 物 , 某 家 倒 要 请 教 了 . 
 dlga_tavern_traveler_tell_kingdoms_3:tavern_traveler_tell_kingdoms_4a|诸 侯 征 战 常 募 义 从 . 若 有 些 战 功 , 投 效 藩 镇 可 得 军 饷 . 若 能 得 主 公 青 睐 , 拜 将 封 侯 坐 拥 庄 园 , 那 才 是 泼 天 富 贵 . 不 过 非 士 族 出 身 者 , 除 非 立 下 不 世 战 功 , 难 获 封 邑 . 
 dlga_tavern_traveler_tell_kingdoms_4a:tavern_traveler_tell_kingdoms_4|也 有 豪 杰 自 树 旌 旗 称 孤 道 寡 的 . 只 是 世 家 大 族 眼 高 于 顶 , 若 无 血 统 根 基 , 纵 使 一 时 得 势 , 终 究 难 逃 群 起 攻 之 . 
-dlga_tavern_traveler_tell_kingdoms_4:tavern_traveler_tell_kingdoms_5|倒 不 如 投 效 藩 镇 宗 亲 . 中 原 多 的 是 流 亡 公 子 , 自 称 正 统 要 夺 回 大 位 . 若 得 强 援 , 或 可 掀 起 内 乱 , 他 日 黄 袍 加 身 亦 未 可 知 . 
+dlga_tavern_traveler_tell_kingdoms_4:tavern_traveler_tell_kingdoms_5|倒 不 如 投 效 藩 镇 宗 亲 . 中 原 多 的 是 流 亡 公 子 , 自 称 正 统 要 夺 回 大 位 . 若 得 强 援 , 或 可 掀 起 内 乱 , 他 日 正 位 亦 未 可 知 . 
 dlga_tavern_traveler_tell_kingdoms_5:close_window|某 家 晓 得 了 . 
 dlga_tavern_traveler_tell_kingdoms_6:tavern_traveler_pretalk|流 亡 公 子 多 在 敌 国 避 难 . 某 家 倒 有 些 消 息 , 只 是 这 茶 水 钱 嘛 ...
 dlga_tavern_traveler_talk:tavern_traveler_pretender_location|欲 探 听 某 位 称 帝 者 的 下 落 . 
@@ -2934,7 +2934,7 @@ dlga_start:minstrel_1|贵 客 万 福 , 不 知 有 何 见 教 ?
 dlga_minstrel_1:minstrel_job_description|敢 问 所 操 何 业 ? 
 dlga_minstrel_1:minstrel_courtship_questions|某 欲 请 教 中 原 婚 俗 
 dlga_minstrel_1:minstrel_courtship_poem|可 会 教 习 诗 文 ? 
-dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach|某 可 授 《 情 堡 攻 坚 赋 》 . 此 赋 精 悍 易 习 , 乃 以 征 伐 喻 求 凰 . 言 一 莽 将 习 得 君 子 德 , 终 成 真 骑 士 而 得 淑 女 心 . 其 意 谓 妇 人 之 责 在 教 化 须 眉 — — 此 说 虽 得 贵 女 青 眼 , 然 非 人 人 皆 喜 . 
+dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach|某 可 授 《 情 堡 攻 坚 赋 》 . 此 赋 精 悍 易 习 , 乃 以 征 伐 喻 求 凰 . 言 一 莽 将 习 得 君 子 德 , 终 成 真 武 士 而 得 淑 女 心 . 其 意 谓 妇 人 之 责 在 教 化 须 眉 — — 此 说 虽 得 贵 女 青 眼 , 然 非 人 人 皆 喜 . 
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.1|某 可 授 《 心 旌 赋 》 . 此 诗 可 作 燕 婉 解 , 亦 可 作 玄 理 观 . 言 情 郎 睹 佳 人 玉 体 而 悟 天 道 . 某 观 之 宜 于 怀 春 女 子 , 然 他 人 或 觉 轻 佻 无 趣 . 
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.2|某 可 说 《 童 蔡 哀 》 . 乃 牧 童 阿 童 恋 豪 族 女 阿 蔡 , 终 难 成 眷 属 之 悲 歌 . 诗 中 阿 童 茕 茕 悲 吟 , 宁 癫 狂 不 忘 真 情 . 有 女 子 怜 其 痴 , 亦 有 厌 其 自 艾 者 . 
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.3|某 可 讲 《 萨 拉 迪 与 颜 慕 金 传 》 . 此 乃 契 丹 酋 长 萨 拉 迪 与 女 将 颜 慕 金 事 . 颜 慕 金 择 偶 唯 能 胜 己 者 , 其 父 率 军 来 伐 . 萨 拉 迪 与 颜 慕 金 尽 歼 来 敌 , 独 纵 颜 慕 金 幼 弟 . 未 料 此 子 长 成 复 仇 弑 萨 . 这 般 巾 帼 英 姿 , 虽 得 部 分 女 子 称 许 , 然 甲 胄 血 污 之 女 杰 , 亦 令 多 人 惊 骇 . 
@@ -3025,7 +3025,7 @@ dlga_farmer_from_bandit_village_accepted:close_window|将 军 仁 德 ! 咱 们 
 dlga_farmer_from_bandit_village_denied:close_window|叨 扰 {reg40?娘 子:郎 君}了 , 小 的 这 就 告 退 . 
 dlga_farmer_from_bandit_village_barter:farmer_from_bandit_village_5|庄 户 人 家 实 在 拿 不 出 银 钱 , 将 军 若 能 相 助 , 村 中 余 粮 尽 可 取 用 , 大 伙 定 当 铭 感 五 内 . 
 dlga_start:close_window.45|谢 过 将 军 相 助 ! 定 要 教 那 些 强 人 吃 些 苦 头 ! 
-dlga_start:mercenary_tavern_talk|{娘 子/郎 君}可 要 募 些 义 从 ? {某 与 弟 兄 们/某}愿 效 犬 马 之 劳 , {reg3?需:需}支 {reg5}文 钱 . 
+dlga_start:mercenary_tavern_talk|{郎 君/娘 子}可 要 募 些 义 从 ? {reg3?某 与 弟 兄 们:某}愿 效 犬 马 之 劳 , 需 支 {reg5}文 钱 . 
 dlga_start:mercenary_after_recruited|将 军 有 何 差 遣 ? 
 dlga_mercenary_after_recruited:mercenary_after_recruited_2|速 去 整 备 , 五 更 造 饭 天 明 启 程 . 
 dlga_mercenary_after_recruited:mercenary_after_recruited_2.1|且 在 此 处 整 顿 几 日 再 作 打 算 . 
@@ -3071,7 +3071,7 @@ dlga_trainer_explain_horseback:trainer_combat_pretalk|问 得 好 . 战 马 乃 
 dlga_trainer_practice_1:trainer_practice_1|新 人 操 练 分 四 等 , 逐 级 递 难 . 每 等 须 连 胜 三 阵 , 方 可 晋 级 . 
 dlga_trainer_practice_1:novicemaster_are_you_ready|虽 已 通 关 , 仍 可 复 练 . 可 要 再 战 ? 
 dlga_trainer_practice_1:trainer_practice_1.1|好 身 手 {reg40?娘 子:郎 君}. 此 胜 令 君 晋 阶 , 往 后 对 手 皆 行 伍 出 身 , 非 市 井 之 徒 , 切 莫 懈 怠 . 
-dlga_trainer_practice_1:trainer_practice_1.2|干 得 漂 亮 {reg40?姑 娘:小 子}. 欢 迎 来 到 第 三 级 训 练 . 从 现 在 起 你 的 对 手 将 是 久 经 沙 场 的 老 兵 — — 职 业 军 人 和 斗 技 场 常 客 之 流 . 这 些 家 伙 会 使 阴 招 , 务 必 守 好 门 户 . 
+dlga_trainer_practice_1:trainer_practice_1.2|干 得 漂 亮 {reg40?姑 娘:小 子}. 欢 迎 来 到 第 三 级 训 练 . 从 现 在 起 你 的 对 手 将 是 久 经 沙 场 的 老 兵 — — 悍 卒 和 演 武 场 常 客 之 流 . 这 些 家 伙 会 使 阴 招 , 务 必 守 好 门 户 . 
 dlga_trainer_practice_1:trainer_practice_1.3|好 个 冠 军 苗 子 {reg40?姑 娘:小 子}, 这 手 剑 术 当 真 了 得 . 接 下 来 你 要 对 阵 的 是 精 英 斗 士 , 这 都 是 老 夫 亲 手 调 教 出 来 的 顶 尖 好 手 . 若 能 连 赢 三 场 , 便 可 跻 身 他 们 的 行 列 . 
 dlga_trainer_practice_1:novicemaster_finish_training|后 生 可 畏 啊 ! 你 已 通 过 全 部 训 练 考 核 . 从 今 往 后 行 走 江 湖 , 大 可 宣 称 自 己 是 演 武 场 大 师 亲 传 弟 子 . 
 dlga_novicemaster_finish_training:novicemaster_finish_training_2|谢 师 父 栽 培 . 
@@ -3088,7 +3088,7 @@ dlga_master_craftsman_talk:master_craftsman_accounts|查 核 账 目 .
 dlga_master_craftsman_talk:master_craftsman_pretalk|清 点 库 存 . 
 dlga_master_craftsman_talk:master_craftsman_pretalk.1|货 物 随 产 随 卖 . 
 dlga_master_craftsman_talk:master_craftsman_pretalk.2|货 物 暂 存 库 房 待 取 . 
-dlga_master_craftsman_accounts:master_craftsman_pretalk|现 下 每 周 产 {s3}值 {reg1}文 , 原 料 {s4}耗 费 {reg2}文 , 工 钱 杂 支 {reg3}文 . {s9}若 原 料 现 采 现 用 、 成 品 直 售 市 集 , 理 论 上 周 盈 余 {s12}{reg0}文 . 
+dlga_master_craftsman_accounts:master_craftsman_pretalk|现 下 每 旬 产 {s3}值 {reg1}文 , 原 料 {s4}耗 费 {reg2}文 , 工 钱 杂 支 {reg3}文 . {s9}若 原 料 现 采 现 用 、 成 品 直 售 市 集 , 理 论 上 每 旬 盈 余 {s12}{reg0}文 . 
 dlga_master_craftsman_talk:master_craftsman_production_options|细 说 经 营 门 道 . 
 dlga_master_craftsman_production_options:master_craftsman_production_options_2|容 禀 {reg40?夫 人:大 人}, 寻 常 最 划 算 的 是 由 我 们 采 买 原 料 、 直 售 成 品 . 凭 着 与 本 地 商 行 的 交 情 , 总 能 拿 到 好 价 钱 . 
 dlga_master_craftsman_production_options_2:master_craftsman_pretalk|不 过 若 您 能 在 {s5}之 外 觅 得 更 廉 原 料 , 可 存 入 库 房 供 我 等 取 用 . 同 理 , 若 别 处 能 卖 出 更 高 价 , 我 等 也 会 将 成 品 入 库 待 您 自 取 . 
@@ -3183,10 +3183,10 @@ dlga_mayor_info_talk:mayor_pretalk|已 尽 知 , 谢 过 .
 dlga_mayor_political_talk:mayor_political_questions|政 事 ? 天 爷 , 某 等 商 贾 不 问 朝 政 . 唯 忠 事 {s10}, 理 镇 务 , 陈 民 情 于 上 , 偶 谏 谗 言 而 已 . 不 知 欲 问 何 事 ? 
 dlga_mayor_prepolitics:mayor_political_questions|前 番 未 及 言 明 , 某 等 皆 {s9}子 弟 ...尚 有 他 问 否 ? 
 dlga_mayor_political_questions:mayor_war_description_1|中 原 战 事 因 何 而 起 ? 
-dlga_mayor_war_description_1:mayor_war_description_2|概 言 之 , 诸 镇 皆 自 诩 汉 室 正 统 . 或 依 前 朝 姻 亲 , 或 据 旧 时 盟 誓 , {s22}华 族 更 言 奉 天 承 运 . 故 法 理 上 , 诸 镇 相 伐 皆 有 其 据 . 
+dlga_mayor_war_description_1:mayor_war_description_2|概 言 之 , 诸 镇 皆 自 诩 汉 室 正 统 . 或 依 前 朝 姻 亲 , 或 据 旧 时 盟 誓 , {s22}中 原 士 族 更 言 受 命 于 天 . 故 法 理 上 , 诸 镇 相 伐 皆 有 其 据 . 
 dlga_mayor_war_description_2:mayor_war_description_3|然 用 兵 耗 资 甚 巨 . 焚 田 毁 稼 易 , 攻 城 略 地 难 . 故 中 原 诸 镇 多 交 兵 即 和 , 旋 战 旋 和 . 常 有 边 衅 生 事 , 宵 小 辈 欲 借 战 牟 利 , 鼓 噪 开 边 . 如 此 , 战 损 府 库 竟 少 于 坐 失 威 仪 之 损 ...某 绝 无 影 射 {s10}之 意 , {reg4?伊:其}天 威 煌 煌 , 何 人 敢 疑 ? 
 dlga_mayor_war_description_3:mayor_war_description_4|再 陈 某 等 不 问 政 事 . 若 {s10}垂 询 , 为 臣 当 谏:虽 天 命 在 躬 , 然 王 师 需 粮 饷 , 粮 饷 赖 商 旅 , 兵 燹 毁 商 旅 . 故 有 时 持 节 缓 图 , 方 为 上 策 ...
-dlga_mayor_war_description_4:mayor_prepolitics|若 见 到 {s10}时 可 如 此 禀 告 — — 但 切 莫 提 及 本 官 姓 名 , 只 说 是 「 {s4}州 父 老 」 的 意 思 . 当 然 , 这 纯 属 我 等 对 {s10}殿 下 福 祉 的 私 见 . 臣 子 岂 敢 妄 议 君 上 行 使 宗 主 权 , 追 讨 其 合 法 疆 土 ? 
+dlga_mayor_war_description_4:mayor_prepolitics|若 见 到 {s10}时 可 如 此 禀 告 — — 但 切 莫 提 及 本 官 姓 名 , 只 说 是 「 {s4}州 父 老 」 的 意 思 . 当 然 , 这 纯 属 我 等 对 {s10}殿 下 福 祉 的 私 见 . 臣 子 岂 敢 妄 议 君 上 行 使 宗 主 名 分 , 追 讨 其 合 法 疆 土 ? 
 dlga_mayor_political_questions:mayor_politics_assess|敢 问 {s10}对 中 原 诸 藩 镇 持 何 政 略 ? 
 dlga_mayor_politics_assess:mayor_politics_assess_realm|您 想 问 哪 个 藩 镇 ? 
 dlga_mayor_politics_assess_realm:mayor_politics_give_realm_assessment|{s11}藩 镇 
@@ -3238,16 +3238,16 @@ dlga_merchant_quest_track_bandits_brief:close_window|痛 快 ! 虽 则 贼 人 �
 dlga_merchant_quest_track_bandits_choice:merchant_quest_stall|眼 下 这 活 计 怕 是 接 不 得 . 
 dlga_merchant_quest_requested:merchant_quest_brief.2|寻 差 事 ? 正 好 有 批 {s4}要 押 运 . 不 知 阁 下 可 愿 ...
 dlga_merchant_quest_brief:merchant_quest_brief_deliver_wine|现 有 {s6}需 送 往 {s4}的 酒 肆 . 七 日 之 内 运 去 {reg5}件 , 可 得 {reg8}文 钱 . 意 下 如 何 ? 
-dlga_merchant_quest_brief_deliver_wine:merchant_quest_taken|这 趟 镖 我 走 了 . 
+dlga_merchant_quest_brief_deliver_wine:merchant_quest_taken|这 趟 差 事 我 走 了 . 
 dlga_merchant_quest_brief_deliver_wine:merchant_quest_stall|驮 马 不 足 , 这 趟 货 怕 是 吃 不 下 . 
 dlga_merchant_quest_requested:merchant_quest_brief.3|寻 差 事 ? 正 好 有 骡 队 要 护 送 . 不 知 阁 下 ...
 dlga_merchant_quest_brief:escort_merchant_caravan_quest_brief|欲 遣 骡 队 往 {s8}. 但 道 上 强 人 出 没 , 需 得 武 艺 高 强 之 辈 护 送 . 十 五 日 内 平 安 送 达 , 酬 {reg8}文 钱 . 护 卫 人 马 至 少 需 {reg4}之 数 . 
-dlga_escort_merchant_caravan_quest_brief:merchant_quest_taken|好 , 这 趟 镖 我 保 了 . 
+dlga_escort_merchant_caravan_quest_brief:merchant_quest_taken|好 , 这 趟 差 事 我 保 了 . 
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall|手 下 弟 兄 不 够 数 , 接 不 得 这 活 . 
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall.1|对 不 住 , 眼 下 实 在 腾 不 开 手 
 dlga_start:close_window.46|余 下 路 程 我 等 自 行 便 可 . 多 谢 . 
 dlga_start:close_window.47|眼 看 要 抵 {s21}, 余 程 自 可 应 付 . 这 是 酬 劳 ...{reg14}文 钱 . 有 劳 护 持 , 后 会 有 期 . 
-dlga_start:merchant_caravan_intro_1|可 是 护 镖 的 壮 士 ? 
+dlga_start:merchant_caravan_intro_1|可 是 护 商 的 壮 士 ? 
 dlga_merchant_caravan_intro_1:merchant_caravan_intro_2|正 是 . 某 家 {playername}, 这 便 引 诸 位 往 {s1}. 
 dlga_merchant_caravan_intro_2:escort_merchant_caravan_talk|得 壮 士 随 行 , 心 安 许 多 . 但 请 吩 咐 . 
 dlga_start:escort_merchant_caravan_talk|行 至 此 地 ...不 知 壮 士 有 何 示 下 ? 
@@ -3333,7 +3333,7 @@ dlga_merchant_quest_deal_with_night_bandits:merchant_quest_stall|对 不 住 , �
 dlga_deal_with_night_bandits_quest_taken:mayor_pretalk|可 算 找 着 救 星 了 , {playername}. 事 成 之 后 必 有 重 谢 . 千 万 保 重 性 命 啊 ! 
 dlga_merchant_quest_requested:merchant_quest_brief.6|有 位 商 贾 正 寻 人 帮 他 把 牲 口 赶 到 {s13}的 市 集 . 
 dlga_merchant_quest_brief:move_cattle_herd_quest_brief|这 批 牲 口 得 在 三 十 日 内 赶 到 {s13}市 集 . 早 了 更 好 , 但 最 迟 不 能 过 三 十 日 . 若 能 办 到 , 愿 付 {reg8}文 钱 作 酬 . 接 这 活 么 ? 
-dlga_move_cattle_herd_quest_brief:move_cattle_herd_quest_taken|行 , 这 趟 镖 我 接 了 . 
+dlga_move_cattle_herd_quest_brief:move_cattle_herd_quest_taken|行 , 这 趟 差 事 我 接 了 . 
 dlga_move_cattle_herd_quest_brief:merchant_quest_stall|对 不 住 , 另 请 高 明 吧 . 
 dlga_move_cattle_herd_quest_taken:mayor_pretalk|痛 快 ! 牲 口 就 在 镇 外 . 送 到 {s13}市 集 后 回 来 领 赏 便 是 . 
 dlga_merchant_quest_requested:mayor_pretalk|眼 下 实 在 没 差 事 能 托 付 给 您 . 
@@ -3467,7 +3467,7 @@ dlga_capture_slave_talk_3:capture_slave_talk_4|若 愿 随 某 执 役 , 可 免
 dlga_capture_slave_talk_3:capture_slave_talk_4.1|尔 自 去 吧 , 某 权 当 未 见 . 
 dlga_capture_slave_talk_4:close_window|拜 谢 {reg59?娘 子:郎 君}再 造 之 恩 ! 
 dlga_village_elder_tell_mission:village_elder_tell_train_peasants_against_bandits_mission|近 日 流 寇 为 祸 , 夺 粮 掠 畜 , 稍 忤 其 意 便 行 杀 戮 . 庄 中 儿 郎 虽 愤 , 然 皆 耕 稼 之 徒 ...若 得 壮 士 指 点 战 阵 , 或 可 一 振 . 
-dlga_village_elder_tell_train_peasants_against_bandits_mission:village_elder_train_peasants_against_bandits_mission_accept|某 可 操 练 乡 勇 . 
+dlga_village_elder_tell_train_peasants_against_bandits_mission:village_elder_train_peasants_against_bandits_mission_accept|某 可 操 练 乡 兵 . 
 dlga_village_elder_tell_train_peasants_against_bandits_mission:village_elder_train_peasants_against_bandits_mission_reject|田 舍 郎 何 敢 持 兵 ? 不 如 输 财 买 安 . 
 dlga_village_elder_train_peasants_against_bandits_mission_accept:close_window|善 哉 ! {s0}真 义 士 也 . 某 即 召 集 子 弟 受 训 . 若 能 退 寇 , 阖 庄 供 奉 无 缺 . 
 dlga_village_elder_train_peasants_against_bandits_mission_reject:close_window|谨 受 教 , {s0}高 见 某 当 思 之 . 
@@ -3491,9 +3491,9 @@ dlga_goods_merchant_talk:close_window|暂 且 罢 了 , 有 劳 .
 dlga_trade_info_request:trade_info_request_2|这 等 商 路 消 息 , 最 是 灵 通 当 数 骡 马 行 脚 商 . 贵 客 若 有 意 , 某 可 引 至 胡 商 聚 居 坊 市 . 在 那 厢 盘 桓 些 时 日 , 听 行 商 闲 谈 , 自 能 知 晓 何 处 采 买 、 何 地 抛 售 . 
 dlga_trade_info_request_2:close_window|某 这 便 去 商 贾 堆 里 探 听 消 息 . 
 dlga_trade_info_request_2:goods_merchant_pretalk|军 务 倥 偬 , 改 日 再 议 . 
-dlga_start:arena_intro_1.1|客 官 若 是 来 瞧 比 武 大 会 的 , 怕 是 要 扑 空 . 近 日 此 间 并 无 设 擂 计 划 . 
+dlga_start:arena_intro_1.1|客 人 若 是 来 瞧 比 武 大 会 的 , 怕 是 要 扑 空 . 近 日 此 间 并 无 设 擂 计 划 . 
 dlga_arena_intro_1:arena_intro_2|比 武 大 会 ? 此 地 常 设 擂 台 么 ...
-dlga_arena_intro_2:arena_intro_3|正 是 . 客 官 当 见 比 武 时 的 盛 况 , 阖 镇 老 幼 并 四 乡 八 邻 皆 来 观 战 , 人 声 鼎 沸 如 煮 粥 . 不 过 眼 下 既 无 大 会 , 唯 有 零 散 比 试 可 看 — — 倒 有 官 家 较 技 偶 设 , 平 日 多 是 练 兵 混 战 . 
+dlga_arena_intro_2:arena_intro_3|正 是 . 客 人 当 见 比 武 时 的 盛 况 , 阖 镇 老 幼 并 四 乡 八 邻 皆 来 观 战 , 人 声 鼎 沸 如 煮 粥 . 不 过 眼 下 既 无 大 会 , 唯 有 零 散 比 试 可 看 — — 倒 有 官 家 较 技 偶 设 , 平 日 多 是 练 兵 混 战 . 
 dlga_arena_intro_3:arena_training_melee_intro|且 说 这 练 兵 混 战 . 
 dlga_arena_training_melee_intro:arena_training_melee_intro_2|武 人 们 闲 来 生 事 , 便 想 出 这 乱 斗 练 兵 的 法 子 . 规 矩 倒 也 简 单:持 械 入 场 , 不 论 门 派 , 混 战 至 最 后 一 人 方 休 . 听 着 可 有 趣 ? 
 dlga_arena_training_melee_intro_2:arena_training_melee_intro_reward|可 有 彩 头 ? 
@@ -3502,7 +3502,7 @@ dlga_arena_training_melee_explain_reward:arena_master_melee_pretalk|镇 上 富 
 dlga_arena_training_melee_intro_2:arena_training_melee_intro_3|某 可 下 场 一 试 ? 
 dlga_arena_training_melee_intro_2:arena_master_ask_tournaments|邻 近 州 县 可 有 比 武 大 会 ? 
 dlga_arena_training_melee_intro_2:close_window|某 已 明 了 , 告 辞 . 
-dlga_arena_training_melee_intro_3:arena_master_melee_talk|哈 哈 , 这 等 好 事 岂 能 错 过 ? 自 然 使 得 . 练 兵 混 战 向 不 拒 人 , 眼 下 恰 有 场 比 试 , 客 官 若 要 下 场 尽 管 去 便 是 . 
+dlga_arena_training_melee_intro_3:arena_master_melee_talk|哈 哈 , 这 等 好 事 岂 能 错 过 ? 自 然 使 得 . 练 兵 混 战 向 不 拒 人 , 眼 下 恰 有 场 比 试 , 客 人 若 要 下 场 尽 管 去 便 是 . 
 dlga_start:arena_master_intro_1|{s10}
 dlga_arena_master_intro_1:arena_master_intro_2|某 乃 {playername}. 
 dlga_arena_master_intro_2:arena_master_pre_talk|幸 会 , {playername}. 某 乃 {s1}擂 主 , 欲 下 场 较 技 尽 管 开 口 . 
@@ -3559,7 +3559,7 @@ dlga_party_encounter_routed_agents_are_caught2:close_window|铁 石 心 肠 ! �
 dlga_party_encounter_routed_agents_are_caught2:close_window.1|{s1}
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws|嗯 . 每 个 反 贼 十 文 钱 , 总 共 {reg0}人 合 计 {reg1}文 钱 . 
 dlga_sell_prisoner_outlaws:close_window|暂 且 交 割 完 毕 . 
-dlga_prisoner_chat:prisoner_chat_b|某 之 生 死 , 全 在 {夫 人/将 军}一 念 之 间 . 
+dlga_prisoner_chat:prisoner_chat_b|某 之 生 死 , 全 在 {将 军/夫 人}一 念 之 间 . 
 dlga_prisoner_chat_b:lord_steal_items|且 论 尔 随 身 之 物 . 
 dlga_lord_steal_items:lord_steal_items_answer|士 可 杀 不 可 辱 ! 劫 掠 贵 胄 随 身 之 物 , 岂 是 君 子 所 为 ? 
 dlga_lord_steal_items_b:lord_steal_items_answer|还 有 何 指 教 ? 
@@ -3718,7 +3718,7 @@ dlga_merchant_quest_1_prologue_2:merchant_quest_1_prologue_3|某 也 不 解 {s1
 dlga_merchant_quest_1_prologue_3:merchant_quest_1a|观 足 下 颇 有 武 艺 , 更 难 得 的 是 眉 眼 有 煞 气 — — 既 敢 来 {s9}闯 荡 必 非 庸 碌 之 辈 . 某 欲 请 足 下 聚 义 士 , 捣 贼 巢 , 救 小 女 , 某 必 以 重 金 相 酬 . 二 百 文 钱 权 作 定 金 , 如 何 ? 
 dlga_merchant_quest_1a:merchant_quest_1b|某 愿 领 此 差 事 . 
 dlga_merchant_quest_1a:close_window|某 另 有 要 务 不 便 应 承 . 
-dlga_merchant_quest_1b:merchant_quest_1c|独 木 难 支 大 厦 , 足 下 万 不 可 独 闯 贼 窝 . 且 去 四 乡 募 壮 士 — — 这 二 百 文 钱 足 可 雇 得 六 名 乡 勇 . 某 在 {s1}酒 肆 候 君 佳 音 . 
+dlga_merchant_quest_1b:merchant_quest_1c|独 木 难 支 大 厦 , 足 下 万 不 可 独 闯 贼 窝 . 且 去 四 乡 募 壮 士 — — 这 二 百 文 钱 足 可 雇 得 六 名 乡 兵 . 某 在 {s1}酒 肆 候 君 佳 音 . 
 dlga_merchant_quest_1c:merchant_quest_1d|某 这 便 去 募 兵 . 
 dlga_merchant_quest_1d:close_window|善 . 待 足 下 募 得 兵 勇 , 可 至 {s1}酒 肆 寻 某 共 商 大 计 . 
 dlga_start:neutral_jail_meeting|{s10}
@@ -3755,7 +3755,7 @@ dlga_mayor_wealth_comparison_1:mayor_wealth_comparison_2|放 眼 中 原 , 最 �
 dlga_mayor_wealth_comparison_2:mayor_wealth_comparison_3|论 作 坊 营 生 , 中 原 首 屈 一 指 的 仍 是 {s4}城 . 咱 们 {s5}这 儿 , 产 量 不 及 {reg4}各 城 , 却 胜 过 {reg5}. 自 然 啦 , 原 料 供 给 与 市 面 兴 衰 都 影 响 产 量 . 
 dlga_mayor_wealth_comparison_3:mayor_wealth_comparison_4|若 论 四 郊 田 庄 收 成 , 中 原 最 丰 当 数 {s4}城 . 咱 们 {s5}的 庄 户 , 收 成 比 {reg4}城 郊 薄 , 却 比 {reg5}强 些 . 不 过 兵 燹 祸 乱 最 易 伤 农 , 掳 掠 割 地 之 事 频 仍 , 收 成 总 难 安 稳 . 
 dlga_mayor_wealth_comparison_4:mayor_wealth_comparison_5|论 及 商 道 往 来 , 近 月 骡 马 队 最 常 造 访 的 当 属 {s4}城 . 咱 们 {s5}地 界 , 行 商 比 {reg4}各 城 少 些 , 却 比 {reg5}多 些 . 
-dlga_mayor_wealth_comparison_5:mayor_pretalk|若 说 绿 林 祸 患 , 中 原 最 凶 险 的 当 数 {s4}城 . 咱 们 {s5}地 界 , 响 马 劫 道 的 比 {reg4}各 城 少 些 , 却 比 {reg5}多 些 . 
+dlga_mayor_wealth_comparison_5:mayor_pretalk|若 说 绿 林 祸 患 , 中 原 最 凶 险 的 当 数 {s4}城 . 咱 们 {s5}地 界 , 马 贼 劫 道 的 比 {reg4}各 城 少 些 , 却 比 {reg5}多 些 . 
 dlga_lord_ask_leave_service_verify_again:dplmc_lord_ask_leave_service_rebellion|某 家 岂 能 坐 失 封 邑 , {s65}. 
 dlga_dplmc_lord_ask_leave_service_rebellion:dplmc_lord_ask_leave_service_rebellion_verify|哼 ! 休 要 妄 言 , {playername}. 某 家 当 得 礼 敬 三 分 . 那 些 田 庄 本 就 是 某 家 世 袭 的 , 当 日 盟 誓 犹 在 耳 . 若 执 意 相 逼 , 莫 怪 某 家 翻 脸 无 情 . 
 dlga_dplmc_lord_ask_leave_service_rebellion:dplmc_lord_ask_leave_service_rebellion_verify.1|愈 发 孟 浪 了 , {playername}! 血 誓 在 前 , 尔 等 皆 某 家 臣 属 . 这 般 狂 语 实 属 不 智 , 劝 尔 三 思 而 行 . 

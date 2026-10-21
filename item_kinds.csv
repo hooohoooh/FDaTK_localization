@@ -185,8 +185,8 @@ itm_spice|香 料 包
 itm_spice_pl|香 料 包  
 itm_salt|盐 袋  
 itm_salt_pl|盐 袋  
-itm_oil|鼓 子 酱  
-itm_oil_pl|鼓 子 酱  
+itm_oil|豆 豉 酱  
+itm_oil_pl|豆 豉 酱  
 itm_pottery|陶 器  
 itm_pottery_pl|陶 器  
 itm_raw_flax|麻 束  
@@ -339,8 +339,8 @@ itm_china_leather_boots|牛 皮 胫 甲
 itm_china_leather_boots_pl|牛 皮 胫 甲  
 itm_china_leather_boots2|皮 靴  
 itm_china_leather_boots2_pl|皮 靴  
-itm_tangut_boots|山 地 形 战 靴  
-itm_tangut_boots_pl|山 地 形 战 靴  
+itm_tangut_boots|山 地 型 战 靴  
+itm_tangut_boots_pl|山 地 型 战 靴  
 itm_tangut_boots2|织 锦 云 头 履  
 itm_tangut_boots2_pl|织 锦 云 头 履  
 itm_lady_dress_a|贵 妇 襦 裙  
@@ -487,8 +487,8 @@ itm_china_lord_armor|狮 头 掩 心 甲
 itm_china_lord_armor_pl|狮 头 掩 心 甲  
 itm_other_lord_armor|虎 头 吞 肩 铠  
 itm_other_lord_armor_pl|虎 头 吞 肩 铠  
-itm_jin_lord_armor|金 甲 凤 翅 盔  
-itm_jin_lord_armor_pl|金 甲 凤 翅 盔  
+itm_jin_lord_armor|将 军 全 甲  
+itm_jin_lord_armor_pl|将 军 全 甲  
 itm_red_lord_armor|朱 漆 山 文 甲  
 itm_red_lord_armor_pl|朱 漆 山 文 甲  
 itm_golden_lord_armor|鎏 金 锁 子 甲  
@@ -521,8 +521,8 @@ itm_china_armor_brown|赭 褐 中 型 鳞 甲
 itm_china_armor_brown_pl|赭 褐 中 型 鳞 甲  
 itm_china_armor_purple|绛 紫 中 型 鳞 甲  
 itm_china_armor_purple_pl|绛 紫 中 型 鳞 甲  
-itm_changhe_lamellar|常 何 制 式 鳞 甲  
-itm_changhe_lamellar_pl|常 何 制 式 鳞 甲  
+itm_changhe_lamellar|长 和 制 式 鳞 甲  
+itm_changhe_lamellar_pl|长 和 制 式 鳞 甲  
 itm_changhe_lamellar2|改 良 鳞 甲  
 itm_changhe_lamellar2_pl|改 良 鳞 甲  
 itm_changhe_lamellar3|带 护 肩 鳞 甲  
@@ -721,12 +721,12 @@ itm_khitan_basic_helmet|契 丹 素 盔
 itm_khitan_basic_helmet_pl|契 丹 素 盔  
 itm_actual_khitan_basic_helmet|契 丹 基 础 盔  
 itm_actual_khitan_basic_helmet_pl|契 丹 基 础 盔  
-itm_jin_nice_helmet|女 真 精 盔  
-itm_jin_nice_helmet_pl|女 真 精 盔  
-itm_jin_nice_helmet2|女 真 雕 盔  
-itm_jin_nice_helmet2_pl|女 真 雕 盔  
-itm_jin_basic_helmet|女 真 素 盔  
-itm_jin_basic_helmet_pl|女 真 素 盔  
+itm_jin_nice_helmet|晋 军 精 盔  
+itm_jin_nice_helmet_pl|晋 军 精 盔  
+itm_jin_nice_helmet2|晋 军 雕 盔  
+itm_jin_nice_helmet2_pl|晋 军 雕 盔  
+itm_jin_basic_helmet|晋 军 素 盔  
+itm_jin_basic_helmet_pl|晋 军 素 盔  
 itm_china_brown_helmet_leather_neck|褐 皮 颈 盔  
 itm_china_brown_helmet_leather_neck_pl|褐 皮 颈 盔  
 itm_china_brown_helmet_leather_nice|雕 皮 马 盔  
@@ -755,8 +755,8 @@ itm_wooden_stick|白 蜡 木 棍
 itm_wooden_stick_pl|白 蜡 木 棍  
 itm_wooden_sword|木 剑  
 itm_wooden_sword_pl|木 剑  
-itm_chinese_staff|水 火 齐 眉 棍  
-itm_chinese_staff_pl|水 火 齐 眉 棍  
+itm_chinese_staff|白 木 长 棍  
+itm_chinese_staff_pl|白 木 长 棍  
 itm_sharpened_bamboo|削 竹 枪  
 itm_sharpened_bamboo_pl|削 竹 枪  
 itm_china_spear|素 木 枪  
@@ -845,10 +845,10 @@ itm_board_shield|木 板 盾
 itm_board_shield_pl|木 板 盾  
 itm_rattan_shield|藤 编 旁 牌  
 itm_rattan_shield_pl|藤 编 旁 牌  
-itm_darts|柳 叶 镖  
-itm_darts_pl|柳 叶 镖  
-itm_china_throwing_stars|铁 蒺 藜 镖  
-itm_china_throwing_stars_pl|铁 蒺 藜 镖  
+itm_darts|柳 叶 飞 刀  
+itm_darts_pl|柳 叶 飞 刀  
+itm_china_throwing_stars|铁 蒺 藜  
+itm_china_throwing_stars_pl|铁 蒺 藜  
 itm_throwing_spears|投 枪 囊  
 itm_throwing_spears_pl|投 枪 囊  
 itm_throwing_spear_melee|短 投 枪  
@@ -897,8 +897,8 @@ itm_dedal_lira|箜 篌
 itm_dedal_lira_pl|箜 篌  
 itm_signet_ring|虎 符 印 戒  
 itm_signet_ring_pl|虎 符 印 戒  
-itm_gold_medallion|错 金 腰 牌  
-itm_gold_medallion_pl|错 金 腰 牌  
+itm_gold_medallion|错 金 符 牌  
+itm_gold_medallion_pl|错 金 符 牌  
 itm_perfume|香 露 瓶  
 itm_perfume_pl|香 露 瓶  
 itm_gem_bag|宝 石 囊  

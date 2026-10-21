@@ -843,10 +843,10 @@ trp_knight_2_10|同 平 章 事 杨 洞 潜
 trp_knight_2_10_pl|杨 洞 潜 
 trp_knight_2_11|李 守 鄘 
 trp_knight_2_11_pl|李 守 鄘 
-trp_knight_2_12|刘 弘 操 
-trp_knight_2_12_pl|刘 弘 操 
-trp_knight_3_1|王 延 美 
-trp_knight_3_1_pl|王 延 美 
+trp_knight_2_12|内 府 局 丞 吴 怀 恩 
+trp_knight_2_12_pl|吴 怀 恩 
+trp_knight_3_1|拱 宸 控 鹤 都 使 林 延 皓 
+trp_knight_3_1_pl|林 延 皓 
 trp_knight_3_2|威 武 军 节 度 副 使 王 延 翰 
 trp_knight_3_2_pl|王 延 翰 
 trp_knight_3_3|王 延 钧 
@@ -867,8 +867,8 @@ trp_knight_3_10|连 重 遇
 trp_knight_3_10_pl|连 重 遇 
 trp_knight_3_11|叶 翘 
 trp_knight_3_11_pl|叶 翘 
-trp_knight_3_12|王 延 武 
-trp_knight_3_12_pl|王 延 武 
+trp_knight_3_12|节 度 行 军 都 指 挥 使 王 延 美 
+trp_knight_3_12_pl|王 延 美 
 trp_knight_4_1|武 昌 军 节 度 使 柴 再 用 
 trp_knight_4_1_pl|柴 再 用 
 trp_knight_4_2|蒋 延 徽 
@@ -907,20 +907,20 @@ trp_knight_5_3|廖 匡 齐
 trp_knight_5_3_pl|廖 匡 齐 
 trp_knight_5_4|马 希 范 
 trp_knight_5_4_pl|马 希 范 
-trp_knight_5_5|马 希 声 
-trp_knight_5_5_pl|马 希 声 
+trp_knight_5_5|永 顺 军 节 度 使 马 賨 
+trp_knight_5_5_pl|马 賨 
 trp_knight_5_6|都 军 判 官 高 郁 
 trp_knight_5_6_pl|高 郁 
-trp_knight_5_7|王 逵 
-trp_knight_5_7_pl|王 逵 
+trp_knight_5_7|岳 州 都 指 挥 使 王 环 
+trp_knight_5_7_pl|王 环 
 trp_knight_5_8|潘 叔 嗣 
 trp_knight_5_8_pl|潘 叔 嗣 
-trp_knight_5_9|秦 彦 晖 
-trp_knight_5_9_pl|秦 彦 晖 
-trp_knight_5_10|李 琼 
-trp_knight_5_10_pl|李 琼 
-trp_knight_5_11|彭 师 暠 
-trp_knight_5_11_pl|彭 师 暠 
+trp_knight_5_9|捉 生 指 挥 使 张 可 求 
+trp_knight_5_9_pl|张 可 求 
+trp_knight_5_10|水 军 都 指 挥 使 杨 定 真 
+trp_knight_5_10_pl|杨 定 真 
+trp_knight_5_11|溪 州 刺 史 彭 士 愁 
+trp_knight_5_11_pl|彭 士 愁 
 trp_knight_6_1|叶 彦 
 trp_knight_6_1_pl|叶 彦 
 trp_knight_6_2|维 州 司 户 张 格 
@@ -945,8 +945,8 @@ trp_knight_6_11|侍 中 王 宗 黯
 trp_knight_6_11_pl|王 宗 黯 
 trp_knight_6_12|同 平 章 事 庾 传 素 
 trp_knight_6_12_pl|庾 传 素 
-trp_knight_6_13|桑 弘 志 
-trp_knight_6_13_pl|桑 弘 志 
+trp_knight_6_13|中 书 令 王 宗 绾 
+trp_knight_6_13_pl|王 宗 绾 
 trp_knight_6_14|阆 州 团 练 使 林 思 谔 
 trp_knight_6_14_pl|林 思 谔 
 trp_knight_7_1|清 容 布 燮 郑 昭 淳 
@@ -989,13 +989,13 @@ trp_knight_9_9|夷 离 毕 康 默 记
 trp_knight_9_9_pl|康 默 记 
 trp_knight_9_10|总 知 汉 儿 司 事 韩 知 古 
 trp_knight_9_10_pl|韩 知 古 
-trp_knight_10_1|李 彝 超 
+trp_knight_10_1|左 都 押 衙 李 彝 超 
 trp_knight_10_1_pl|李 彝 超 
-trp_knight_10_2|李 彝 殷 
-trp_knight_10_2_pl|李 彝 殷 
+trp_knight_10_2|银 州 防 御 使 李 仁 颜 
+trp_knight_10_2_pl|李 仁 颜 
 trp_knight_10_3|李 仁 宝 
 trp_knight_10_3_pl|李 仁 宝 
-trp_knight_10_4|李 彝 敏 
+trp_knight_10_4|绥 州 刺 史 李 彝 敏 
 trp_knight_10_4_pl|李 彝 敏 
 trp_knight_10_5|宥 州 刺 史 李 仁 裕 
 trp_knight_10_5_pl|李 仁 裕 
@@ -1031,16 +1031,16 @@ trp_knight_12_3|都 指 挥 使 倪 可 福
 trp_knight_12_3_pl|倪 可 福 
 trp_knight_12_4|倪 知 进 
 trp_knight_12_4_pl|倪 知 进 
-trp_knight_12_5|陵 州 判 官 孙 光 宪 
-trp_knight_12_5_pl|孙 光 宪 
+trp_knight_12_5|荆 南 将 帅 鲍 唐 
+trp_knight_12_5_pl|鲍 唐 
 trp_knight_13_1|彰 义 军 节 度 使 李 继 曮 
 trp_knight_13_1_pl|李 继 曮 
 trp_knight_13_2|李 继 昶 
 trp_knight_13_2_pl|李 继 昶 
 trp_knight_13_3|李 从 照 
 trp_knight_13_3_pl|李 从 照 
-trp_knight_13_4|李 茂 勋 
-trp_knight_13_4_pl|李 茂 勋 
+trp_knight_13_4|凤 翔 衙 内 都 指 挥 使 李 继 暐 
+trp_knight_13_4_pl|李 继 暐 
 trp_knight_14_1|护 卫 指 挥 使 夏 鲁 奇 
 trp_knight_14_1_pl|夏 鲁 奇 
 trp_knight_14_2|蕃 汉 马 步 副 总 管 李 嗣 源 
@@ -1055,8 +1055,8 @@ trp_knight_14_6|相 州 刺 史 李 继 能
 trp_knight_14_6_pl|李 继 能 
 trp_knight_14_7|中 门 副 使 郭 崇 韬 
 trp_knight_14_7_pl|郭 崇 韬 
-trp_knight_14_8|李 存 渥 
-trp_knight_14_8_pl|李 存 渥 
+trp_knight_14_8|散 员 都 部 署 元 行 钦 
+trp_knight_14_8_pl|元 行 钦 
 trp_knight_14_9|昭 义 军 监 军 张 居 翰 
 trp_knight_14_9_pl|张 居 翰 
 trp_knight_14_10|潞 州 节 度 判 官 任 圜 

@@ -186,8 +186,8 @@ qstr_HTML_code:_{s0}|HTML代 码 :{s0}
 qstr_Default|默 认 
 qstr_Randomize|随 机 
 qstr_Factions|藩 镇 
-qstr_Show_towns|显 示 州 府 
-qstr_Show_castles|显 示 军 镇 
+qstr_Show_towns|显 示 大 城 
+qstr_Show_castles|显 示 小 城 
 qstr_Show_villages|显 示 村 邑 
 qstr_Tip:_move_the_mouse_|提 示 :悬 停 黑 块 显 示 地 名 
 qstr_The_World_Map|山 河 社 稷 图 
